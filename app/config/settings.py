@@ -26,11 +26,15 @@ SECRET_KEY = '5cp&zlc+s6-54oq3cr&vqi@z&m5jgqxoxpj$tnsl_1u$zmkh--'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
-
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+MEDIA_URL = '/media/'
+print(MEDIA_ROOT)
 # Application definition
-
+AUTH_USER_MODEL = 'account.MyUser'
 INSTALLED_APPS = [
+    'account.apps.AccountConfig',
+    'restaurant.apps.RestaurantConfig',
+
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -38,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+    'phonenumber_field',
     'django_extensions',
 ]
 
