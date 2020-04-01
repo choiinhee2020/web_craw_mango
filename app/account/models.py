@@ -18,7 +18,7 @@ class MyUserManager(BaseUserManager):
         user = self.model(
             email=self.normalize_email(email),
             gender=gender,
-            **kwargs
+            **kwargs,
         )
 
         user.set_password(password)
@@ -54,6 +54,7 @@ class MyUser(AbstractBaseUser, PermissionsMixin):
         default=uuid.uuid4,
         verbose_name='PK'
     )
+
     gender = models.CharField(max_length=10, choices=GENDER, verbose_name='성별')
     email = models.EmailField(max_length=100, unique=True, verbose_name='이메일')
     date_joined = models.DateTimeField(auto_now_add=True, verbose_name='가입날짜')
@@ -68,7 +69,7 @@ class MyUser(AbstractBaseUser, PermissionsMixin):
                                         symmetrical=False)
 
     objects = MyUserManager()
-
+    # EMAIL_FIELD = 'email'
     USERNAME_FIELD = 'email'
     REQUIRED_FIELDS = ['gender']
 
@@ -193,8 +194,8 @@ class Profile(models.Model):
     alcohol = models.BooleanField(default=False)
 
     birth_date = models.DateTimeField(default=datetime.date(1999, 1, 1))
-    date_joined = models.DateTimeField(auto_now_add=True)
-    date_update = models.DateTimeField(auto_now=True)
+    date_joined = models.DateTimeField(auto_now_add=True, verbose_name='가입날짜')
+    date_update = models.DateTimeField(auto_now=True, verbose_name='수정날짜')
 
     def save(self, *args, **kwargs):
         self.age = timezone.now().year - self.birth_date.year
@@ -205,12 +206,15 @@ class Profile(models.Model):
     def __str__(self):
         return f'계정 닉네임 : {self.nickname} '
 
+
 # 고민 userimage를 프로필필드에 추가하여 foreignkey를 user에 걸것 이냐
 # (onetoone)user - profile에 foreignkey 걸것인가
 # user에 foreignkey를 걸 것이냐
 class MyUserImage(models.Model):
     author_id = models.ForeignKey(MyUser, on_delete=models.CASCADE)
     profile_picture = models.ImageField(blank=True, upload_to="account/profile")
+    date_joined = models.DateTimeField(auto_now_add=True, verbose_name='가입날짜')
+    date_update = models.DateTimeField(auto_now=True, verbose_name='수정날짜')
 
 
 class SendLikes(models.Model):
@@ -219,8 +223,9 @@ class SendLikes(models.Model):
     give_point = models.PositiveIntegerField(default=0)
     friend = models.ForeignKey(MyUser, related_name='friend_sendlikes_set',
                                on_delete=models.CASCADE)
-    take_point  = models.PositiveIntegerField(default=0)
-    created_date = models.DateTimeField(auto_now_add=True)
+    take_point = models.PositiveIntegerField(default=0)
+    date_joined = models.DateTimeField(auto_now_add=True, verbose_name='가입날짜')
+    date_update = models.DateTimeField(auto_now=True, verbose_name='수정날짜')
 
 
 class SendStars(models.Model):
@@ -229,8 +234,9 @@ class SendStars(models.Model):
     give_point = models.PositiveIntegerField(default=0)
     friend = models.ForeignKey(MyUser, related_name='friend_sendstars_set',
                                on_delete=models.CASCADE)
-    take_point  = models.PositiveIntegerField(default=0)
-    created_date = models.DateTimeField(auto_now_add=True)
+    take_point = models.PositiveIntegerField(default=0)
+    date_joined = models.DateTimeField(auto_now_add=True, verbose_name='가입날짜')
+    date_update = models.DateTimeField(auto_now=True, verbose_name='수정날짜')
 
 
 class SendPicks(models.Model):
@@ -239,5 +245,6 @@ class SendPicks(models.Model):
     give_point = models.PositiveIntegerField(default=0)
     friend = models.ForeignKey(MyUser, related_name='friend_sendpicks_set',
                                on_delete=models.CASCADE)
-    take_point  = models.PositiveIntegerField(default=0)
-    created_date = models.DateTimeField(auto_now_add=True)
+    take_point = models.PositiveIntegerField(default=0)
+    date_joined = models.DateTimeField(auto_now_add=True, verbose_name='가입날짜')
+    date_update = models.DateTimeField(auto_now=True, verbose_name='수정날짜')
