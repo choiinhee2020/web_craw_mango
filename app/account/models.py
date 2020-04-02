@@ -197,6 +197,14 @@ class Profile(models.Model):
     date_joined = models.DateTimeField(auto_now_add=True, verbose_name='가입날짜')
     date_update = models.DateTimeField(auto_now=True, verbose_name='수정날짜')
 
+    # type_choices = (a,b,c, 직접입력)
+    # type = models.CharField(choices=type_choices)
+    # user_directly_input = models.CharField(blank=True)
+    #
+    # def save()
+    #       if type == '직접':
+    #           type = user_directly_input
+
     def save(self, *args, **kwargs):
         self.age = timezone.now().year - self.birth_date.year
         # if self.chance > 3:

@@ -34,6 +34,8 @@ AUTH_USER_MODEL = 'account.MyUser'
 INSTALLED_APPS = [
     'account.apps.AccountConfig',
     'restaurant.apps.RestaurantConfig',
+    'quickstart.apps.QuickstartConfig',
+    'snippets.apps.SnippetsConfig',
 
     'django.contrib.admin',
     'django.contrib.auth',
@@ -42,6 +44,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+    'rest_framework',
     'phone_field',
     'django_extensions',
 ]
@@ -105,7 +108,10 @@ AUTH_PASSWORD_VALIDATORS = [
         'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
     },
 ]
-
+REST_FRAMEWORK = {
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 10
+}
 
 # Internationalization
 # https://docs.djangoproject.com/en/2.2/topics/i18n/
