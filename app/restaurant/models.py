@@ -6,16 +6,17 @@ from phone_field import PhoneField
 
 
 class Restaurant(models.Model):
-    name = models.CharField(max_length=20, unique=True, verbose_name='식당이름')
+    name = models.CharField(max_length=20, verbose_name='식당이름')
     address1 = models.CharField(default='없음', max_length=100, blank=True, verbose_name='식당주소')
-
+    name_address1_unique = models.CharField(max_length=100, unique=True, verbose_name='primary_key')
     address2 = models.CharField(default='없음', max_length=100, blank=True, verbose_name='식당지번주소')
-    point = models.PositiveSmallIntegerField(default=0, blank=True, verbose_name='식당평점')
-    phone = PhoneField(default='없음', unique=True, blank=True, help_text='Contact phone number')
-    price_range = models.CharField(default='없음', max_length=100, blank=True, verbose_name='식당가격대')
-    parking_text = models.CharField(default='주차여부 알수 없음', max_length=100, blank=True, verbose_name='주차여부')
-    opening_hours = models.CharField(default='없음', max_length=100, blank=True, verbose_name='오픈시간')
-    menu = models.CharField(default='없음', max_length=300, blank=True, verbose_name='식당메뉴')
+    point = models.PositiveSmallIntegerField(default=0, blank=True, null=True, verbose_name='식당평점')
+    phone = PhoneField(default='없음', blank=True, null=True, help_text='Contact phone number')
+    price_range = models.CharField(default='없음', max_length=100, blank=True, null=True, verbose_name='식당가격대')
+    parking = models.CharField(default='없음', max_length=200, blank=True, null=True, verbose_name='주차여부')
+    opening_hours = models.CharField(default='없음', max_length=100, blank=True, null=True, verbose_name='오픈시간')
+    menu = models.CharField(default='없음', max_length=300, blank=True, null=True, verbose_name='식당메뉴')
+    restaurant_type = models.CharField(default='없음', max_length=100, null=True, blank=True, verbose_name='음식점종류')
 
     date_joined = models.DateTimeField(auto_now_add=True, verbose_name='가입날짜')
     date_update = models.DateTimeField(auto_now=True, verbose_name='수정날짜')
