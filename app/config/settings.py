@@ -26,11 +26,17 @@ SECRET_KEY = '5cp&zlc+s6-54oq3cr&vqi@z&m5jgqxoxpj$tnsl_1u$zmkh--'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
-
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+MEDIA_URL = '/media/'
+print(MEDIA_ROOT)
 # Application definition
-
+AUTH_USER_MODEL = 'account.MyUser'
 INSTALLED_APPS = [
+    'account.apps.AccountConfig',
+    'restaurant.apps.RestaurantConfig',
+    'quickstart.apps.QuickstartConfig',
+    'snippets.apps.SnippetsConfig',
+
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -38,6 +44,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+    'rest_framework',
+    'phone_field',
     'django_extensions',
 ]
 
@@ -100,7 +108,10 @@ AUTH_PASSWORD_VALIDATORS = [
         'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
     },
 ]
-
+REST_FRAMEWORK = {
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 10
+}
 
 # Internationalization
 # https://docs.djangoproject.com/en/2.2/topics/i18n/
