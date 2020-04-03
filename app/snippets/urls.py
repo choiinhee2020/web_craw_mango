@@ -1,8 +1,12 @@
-from django.urls import path
+from django.urls import path, include
 
-from snippets.views import snippet_list, snippet_detail
+from snippets.views import SnippetList, SnippetDetail, UserDetail, UserList
 
 urlpatterns = [
-    path('snippets/', snippet_list),
-    path('snippets/<int:pk>/', snippet_detail),
+    path('snippets/', SnippetList),
+    path('snippets/<int:pk>/', SnippetDetail),
+    path('users/', UserList.as_view()),
+    path('users/<int:pk>/', UserDetail.as_view()),
+    path('api-auth/', include('rest_framework.urls')),
+
 ]

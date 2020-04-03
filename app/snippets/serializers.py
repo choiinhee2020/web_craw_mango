@@ -1,8 +1,13 @@
 from rest_framework import serializers
+
+from account.models import MyUser
 from snippets.models import Snippet, LANGUAGE_CHOICES, STYLE_CHOICES
 
 
 class SnippetSerializer(serializers.ModelSerializer):
+    owner = serializers.ReadOnlyField(source='owner.email')
+    # highlight = serializers.HyperlinkedIdentityField(view_name='snippet-highlight', format='html')
+
     class Meta:
         model = Snippet
         fields = ['id', 'title', 'code', 'linenos', 'language', 'style']
@@ -24,3 +29,11 @@ class SnippetSerializer(serializers.ModelSerializer):
         instance.style = validated_data.get('style', instance.style)
         instance.save()
         return instance
+
+
+class UserSerializer(serializers.ModelSerializer):
+    snippets = serializers.PrimaryKeyRelatedField(many=True, queryset=Snippet.objects.all())
+
+    class Meta:
+        model = MyUser
+        fields = ['id', 'email', 'snippets']
