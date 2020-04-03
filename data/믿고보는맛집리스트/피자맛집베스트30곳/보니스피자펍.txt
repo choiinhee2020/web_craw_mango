@@ -1,11 +1,11 @@
-<html><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}</style>
+<html><head><script src="https://cdn.ampproject.org/rtv/012003171848440/amp4ads-host-v0.js"></script><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}</style>
   <!-- HTML Default Meta -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <meta name="format-detection" content="telephone=no">
   <meta name="subject" content="보니스피자펍 - 이태원/한남동 기타 양식 | 맛집검색 망고플레이트">
-  <meta name="description" content="221565명이 방문하고 싶어하는 이태원/한남동 맛집 보니스피자펍의 평점은 4.5/5점 입니다. 보니스피자펍을(를) 대표하는 키워드는 가성비, 가짓수, 도우, 레귤러, 맥주, 미국, 분위기, 외국인, 저렴하다, 치즈, 토핑, 페퍼로니, 피자, 하와이안입니다.">
+  <meta name="description" content="221806명이 방문하고 싶어하는 이태원/한남동 맛집 보니스피자펍의 평점은 4.5/5점 입니다. 보니스피자펍을(를) 대표하는 키워드는 가성비, 가짓수, 도우, 레귤러, 맥주, 미국, 분위기, 외국인, 저렴하다, 치즈, 토핑, 페퍼로니, 피자, 하와이안입니다.">
   <meta name="keywords" content="Fattening Food, 고칼로리, 펍, Sweet and Salty, 배달, 명예의 전당, 2018 인기, Haebangchon, 가성비, 데이트">
   <meta name="image" content="https://mp-seoul-image-production-s3.mangoplate.com/10679/26737_1548857406487_48915">
 
@@ -13,7 +13,7 @@
   <meta property="og:url" content="https://www.mangoplate.com/restaurants/gL8RksQTNk">
   <meta property="og:type" content="website">
   <meta property="og:title" content="보니스피자펍 - 이태원/한남동 기타 양식 | 맛집검색 망고플레이트">
-  <meta property="og:description" content="221565명이 방문하고 싶어하는 이태원/한남동 맛집 보니스피자펍의 평점은 4.5/5점 입니다. 보니스피자펍을(를) 대표하는 키워드는 가성비, 가짓수, 도우, 레귤러, 맥주, 미국, 분위기, 외국인, 저렴하다, 치즈, 토핑, 페퍼로니, 피자, 하와이안입니다.">
+  <meta property="og:description" content="221806명이 방문하고 싶어하는 이태원/한남동 맛집 보니스피자펍의 평점은 4.5/5점 입니다. 보니스피자펍을(를) 대표하는 키워드는 가성비, 가짓수, 도우, 레귤러, 맥주, 미국, 분위기, 외국인, 저렴하다, 치즈, 토핑, 페퍼로니, 피자, 하와이안입니다.">
   <meta property="og:image" content="https://mp-seoul-image-production-s3.mangoplate.com/10679/26737_1548857406487_48915">
 
   <link rel="amphtml" href="https://www.mangoplate.com/amp/restaurants/gL8RksQTNk">
@@ -22,7 +22,7 @@
 <meta property="twitter:site" content="@MangoPlate">
 <meta property="twitter:url" content="https://www.mangoplate.com/restaurants/gL8RksQTNk">
 <meta property="twitter:title" content="보니스피자펍 - 이태원/한남동 기타 양식 | 맛집검색 망고플레이트">
-<meta property="twitter:description" content="221565명이 방문하고 싶어하는 이태원/한남동 맛집 보니스피자펍의 평점은 4.5/5점 입니다. 보니스피자펍을(를) 대표하는 키워드는 가성비, 가짓수, 도우, 레귤러, 맥주, 미국, 분위기, 외국인, 저렴하다, 치즈, 토핑, 페퍼로니, 피자, 하와이안입니다.">
+<meta property="twitter:description" content="221806명이 방문하고 싶어하는 이태원/한남동 맛집 보니스피자펍의 평점은 4.5/5점 입니다. 보니스피자펍을(를) 대표하는 키워드는 가성비, 가짓수, 도우, 레귤러, 맥주, 미국, 분위기, 외국인, 저렴하다, 치즈, 토핑, 페퍼로니, 피자, 하와이안입니다.">
 <meta property="twitter:image" content="https://mp-seoul-image-production-s3.mangoplate.com/10679/26737_1548857406487_48915">
   
 	<meta property="fb:app_id" content="476661545693695">
@@ -48,12 +48,12 @@
     <link rel="alternate" href="https://www.mangoplate.com/en/restaurants/gL8RksQTNk" hreflang="en">
     <link rel="alternate" href="https://www.mangoplate.com/zh/restaurants/gL8RksQTNk" hreflang="zh">
 
-  <script src="https://cdn.ampproject.org/rtv/012003171848440/amp4ads-host-v0.js"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_2020032302.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="https://connect.facebook.net/ko_KR/sdk.js?hash=6542d90032f3dfcaa438316412696459&amp;ua=modern_es6" async="" crossorigin="anonymous"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
-  <script type="application/ld+json">{"@type":"LocalBusiness","name":"보니스피자펍","telephone":"02-792-0303","address":{"@type":"PostalAddress","addressCountry":"","addressLocality":"","addressRegion":"","postOfficeBoxNumber":"","postalCode":"","streetAddress":"서울시 용산구 용산동2가 44-19"},"image":"https://mp-seoul-image-production-s3.mangoplate.com/10679/26737_1548857406487_48915","priceRange":"만원-2만원","url":"https://www.mangoplate.com/restaurants/gL8RksQTNk","review":[{"@type":"Review","datePublished":"2020-03-27 23:51:14","author":"예지","description":" 쥬가 찍어준 사진 최고 bb 하와이안이랑 페퍼로니 반 먹어써용 3명이 먹으면 적당해요. 피자 도우가 얇고, 토핑이 심플하지만 많고, 치즈가 고소했어요! "},{"@type":"Review","datePublished":"2020-03-27 22:21:16","author":"플라나리아","description":"  (구)피자나리아 오랜만에 감탄할 만한 피자집 찾다! 꽤 오랫동안 가고싶다 리스트에 있었던 걸로 기억한다. 평일 점심에 가서 웨이팅 없었다.\n  메뉴 선정을 위해 인터넷을 잠시 검색했는데 전국민이 하와이안/페퍼로니 반반을 먹는 것 같았지만, 같이 동행인이 피자 위에 파인애플 올리는 것에 극렬히 반대하는 주의자여서 deviant/pepperoni 반반에 얇은 도우로 시켰다. 거기다가 치킨 텐더를 추가했다. 이렇게 시키면 2~3인 정도? 먹을 수 있을 것 같다.\n\n  도우는 상당히 빠싹하고 그렇게 기름지지는 않았다. Deviant는 조금조그만한 소고기랑 버섯 등이 올라가 있었는데, 첫 입에는 음 괜찮은데 수준이었지만 먹을수록 매력적이었다. 토마토가 눅눅하게 구워진 게 아니라, 채즙이 남아있는 게 마음에 들었다. 그리고 대망의 Pepperoni가... 페퍼로니 피자가 할 수 있는 극한으로 맛있었다. 원래 페퍼로니 피자를 여러 조각 먹으면 심심해 하는데, 배부른 게 아쉬울 정도로 맛있었다! 페퍼로니는 별로 짜지 않았고 테두리는 바삭했다.\n  필자나 동행인이나 음식 빠르게 먹는 편이라 치킨 텐더는 피자 다 먹고 나왔다. 갓 튀겨서 엄청 뜨거웠다. 살이 퍽퍽하지 않고 부드러웠고, 튀겼다기보다 구운 것처럼 튀김이 바삭하고 고소했다."},{"@type":"Review","datePublished":"2020-03-25 13:58:38","author":"Yeonhwa","description":"음..? 왜 유명한지 정말로 모르겠는 피자집 \n사람마다 취향은 다르니까요 ㅎ 치즈 줄줄 느낌도 아니고 도우도 두꺼워서 별로였어요ㅠㅠ 딱히 특색있는맛은 아니라 기대하고 갔다가 실망한곳 :( 그리고 테이블과 의자가 너무 불편해요 ㅠ\n기대하시고 하면 실망합니다 재방문 의사 없어요 :("},{"@type":"Review","datePublished":"2020-03-11 17:30:05","author":"jhyonie","description":"Heavenly taste... 페퍼로니 바삭바삭\n피맥하면 스트레스 바이바이"},{"@type":"Review","datePublished":"2020-03-04 20:41:49","author":"Jinny","description":"집근처라 미리 주문하고 테이크아웃하면 대기 없이 언제든 먹을 수 있어요 :) 주민이시면 어플 셔틀(shuttle) 사용하시면 배달도 됩니다! (추천코드: KIM-JINNY-RCQ) 주로 반반으로 여러가지 맛을 조합하며 먹는데 제입에는 페퍼로니가 최고 ㅠㅡㅠ"}],"aggregateRating":{"@type":"AggregateRating","bestRating":5,"worstRating":0,"ratingValue":4.5,"reviewCount":388},"@context":"http://schema.org","@id":"https://www.mangoplate.com"}</script>
+  <script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_2020032401.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="https://connect.facebook.net/ko_KR/sdk.js?hash=c914e888ebcfb3f091b0d8c5a061f968&amp;ua=modern_es6" async="" crossorigin="anonymous"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script type="application/ld+json">{"@type":"LocalBusiness","name":"보니스피자펍","telephone":"02-792-0303","address":{"@type":"PostalAddress","addressCountry":"","addressLocality":"","addressRegion":"","postOfficeBoxNumber":"","postalCode":"","streetAddress":"서울시 용산구 용산동2가 44-19"},"image":"https://mp-seoul-image-production-s3.mangoplate.com/10679/26737_1548857406487_48915","priceRange":"만원-2만원","url":"https://www.mangoplate.com/restaurants/gL8RksQTNk","review":[{"@type":"Review","datePublished":"2020-04-02 21:16:51","author":"녹차가젤조아","description":"음 일단 한국어 알아들으시면서..(나는 주문 취소 할 때 능숙하게 포스기기를 다루는 그녀들을 봤소...영수증 회수. 카드 취소. 전체 취소 잘 누르시던ㄷ)\n\n암튼 영어로 주문해야해서 긴장. \n둘이 가면 레귤러 사이즈\np는 파티 사이즈 큼. \n\n얇아서 순삭 가능\n\n맛은 도** , 알**가 낫다\n난 두꺼운게 맛있나보다\n단 얇은 건 매드포**스노윙 피자 짱\n\n이태원을 느끼고 싶다면,\n해방촌에서 줄서서 가장 인싸집을 가고 싶다면 추천"},{"@type":"Review","datePublished":"2020-03-27 23:51:14","author":"예지","description":" 쥬가 찍어준 사진 최고 bb 하와이안이랑 페퍼로니 반 먹어써용 3명이 먹으면 적당해요. 피자 도우가 얇고, 토핑이 심플하지만 많고, 치즈가 고소했어요! "},{"@type":"Review","datePublished":"2020-03-27 22:21:16","author":"플라나리아","description":"  (구)피자나리아 오랜만에 감탄할 만한 피자집 찾다! 꽤 오랫동안 가고싶다 리스트에 있었던 걸로 기억한다. 평일 점심에 가서 웨이팅 없었다.\n  메뉴 선정을 위해 인터넷을 잠시 검색했는데 전국민이 하와이안/페퍼로니 반반을 먹는 것 같았지만, 같이 동행인이 피자 위에 파인애플 올리는 것에 극렬히 반대하는 주의자여서 deviant/pepperoni 반반에 얇은 도우로 시켰다. 거기다가 치킨 텐더를 추가했다. 이렇게 시키면 2~3인 정도? 먹을 수 있을 것 같다.\n\n  도우는 상당히 빠싹하고 그렇게 기름지지는 않았다. Deviant는 조금조그만한 소고기랑 버섯 등이 올라가 있었는데, 첫 입에는 음 괜찮은데 수준이었지만 먹을수록 매력적이었다. 토마토가 눅눅하게 구워진 게 아니라, 채즙이 남아있는 게 마음에 들었다. 그리고 대망의 Pepperoni가... 페퍼로니 피자가 할 수 있는 극한으로 맛있었다. 원래 페퍼로니 피자를 여러 조각 먹으면 심심해 하는데, 배부른 게 아쉬울 정도로 맛있었다! 페퍼로니는 별로 짜지 않았고 테두리는 바삭했다.\n  필자나 동행인이나 음식 빠르게 먹는 편이라 치킨 텐더는 피자 다 먹고 나왔다. 갓 튀겨서 엄청 뜨거웠다. 살이 퍽퍽하지 않고 부드러웠고, 튀겼다기보다 구운 것처럼 튀김이 바삭하고 고소했다."},{"@type":"Review","datePublished":"2020-03-25 13:58:38","author":"Yeonhwa","description":"음..? 왜 유명한지 정말로 모르겠는 피자집 \n사람마다 취향은 다르니까요 ㅎ 치즈 줄줄 느낌도 아니고 도우도 두꺼워서 별로였어요ㅠㅠ 딱히 특색있는맛은 아니라 기대하고 갔다가 실망한곳 :( 그리고 테이블과 의자가 너무 불편해요 ㅠ\n기대하시고 하면 실망합니다 재방문 의사 없어요 :("},{"@type":"Review","datePublished":"2020-03-11 17:30:05","author":"jhyonie","description":"Heavenly taste... 페퍼로니 바삭바삭\n피맥하면 스트레스 바이바이"}],"aggregateRating":{"@type":"AggregateRating","bestRating":5,"worstRating":0,"ratingValue":4.5,"reviewCount":389},"@context":"http://schema.org","@id":"https://www.mangoplate.com"}</script>
   <script id="dfp_ads" type="application/json">[{"id":11,"platform":"web_desktop","page":"restaurant","inventory":"gallery_right_review","sizes":[[336,280]],"tag":"/395211568/production/desktop-web.picture-viewer.right-side","enabled":true,"created_at":"2017-05-18T03:41:26.000+09:00","updated_at":"2017-05-18T03:41:26.000+09:00","args":{}},{"id":12,"platform":"web_desktop","page":"restaurant","inventory":"info","sizes":[[728,90]],"tag":"/395211568/production/desktop-web.restaurant.info","enabled":true,"created_at":"2017-05-18T03:41:57.000+09:00","updated_at":"2017-05-18T03:41:58.000+09:00","args":{}},{"id":13,"platform":"web_desktop","page":"restaurant","inventory":"right_map","sizes":[[336,280]],"tag":"/395211568/production/desktop-web.restaurant.right-side","enabled":true,"created_at":"2017-05-18T03:42:19.000+09:00","updated_at":"2017-05-18T03:42:19.000+09:00","args":{}},{"id":15,"platform":"web_mobile","page":"restaurant","inventory":"info","sizes":[[300,250]],"tag":"/395211568/production/mobile-web.restaurant.info","enabled":true,"created_at":"2017-05-18T03:43:06.000+09:00","updated_at":"2017-05-18T03:43:06.000+09:00","args":{}},{"id":17,"platform":"web_mobile","page":"restaurant","inventory":"tag","sizes":[[320,100]],"tag":"/395211568/production/mobile-web.restaurant.bottom","enabled":true,"created_at":"2017-05-18T03:43:49.000+09:00","updated_at":"2017-05-18T03:43:49.000+09:00","args":{}},{"id":54,"platform":"web_mobile","page":"restaurant","inventory":"popop_use_app","sizes":null,"tag":"","enabled":true,"created_at":"2020-01-30T01:49:26.000+09:00","updated_at":"2020-03-05T10:24:08.000+09:00","args":{}},{"id":58,"platform":"web_mobile","page":"restaurant","inventory":"area_use_app","sizes":null,"tag":"","enabled":true,"created_at":"2020-01-30T01:49:26.000+09:00","updated_at":"2020-03-06T12:22:23.000+09:00","args":{}}]</script>
-  <script id="location" type="application/json">{"ip":"220.117.71.146","country_code":"KR","country_name":"South Korea","region_code":"11","region_name":"Seoul","city":"Songpa-dong","zip_code":"05670","time_zone":"Asia/Seoul","latitude":37.5082,"longitude":127.1179,"metro_code":0}</script>
-  <script id="restaurant_info" type="application/json">{"restaurant_uuid":10679,"name":"보니스피자펍","cusine_code":4,"subcusine_code":16,"region_code":2,"metro_code":8,"latitude":"37.5411984","longitude":"126.9869395","restaurant_key":"gL8RksQTNk","action":null,"pictures":[{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"10679/26737_1548857406487_48915"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"10679/943791_1585320728725_16656"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"10679/965277_1585315260689_30791"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"10679/965277_1585315260690_30794"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"1175978_1585112318391684.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"440598_1583915404220971.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"440598_1583915405440180.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"940093_1582776977081073.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"795419_1582199692417723.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"10679/1118691_1581094120570_45227"}],"rating":4.5,"official_rating_available":true,"wannago_count":10409,"review_count":388}</script>
-<style type="text/css"></style><link rel="preload" href="https://adservice.google.co.kr/adsid/integrator.js?domain=www.mangoplate.com" as="script"><script type="text/javascript" src="https://adservice.google.co.kr/adsid/integrator.js?domain=www.mangoplate.com"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.mangoplate.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.mangoplate.com"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020032302.js" async=""></script><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html"><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+  <script id="location" type="application/json">{"ip":"220.117.71.145","country_code":"KR","country_name":"South Korea","region_code":"11","region_name":"Seoul","city":"Songpa-dong","zip_code":"05670","time_zone":"Asia/Seoul","latitude":37.5082,"longitude":127.1179,"metro_code":0}</script>
+  <script id="restaurant_info" type="application/json">{"restaurant_uuid":10679,"name":"보니스피자펍","cusine_code":4,"subcusine_code":16,"region_code":2,"metro_code":8,"latitude":"37.5411984","longitude":"126.9869395","restaurant_key":"gL8RksQTNk","action":null,"pictures":[{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"10679/26737_1548857406487_48915"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"684104_1585829810759977.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"10679/943791_1585320728725_16656"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"10679/965277_1585315260689_30791"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"10679/965277_1585315260690_30794"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"1175978_1585112318391684.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"440598_1583915404220971.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"440598_1583915405440180.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"940093_1582776977081073.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"795419_1582199692417723.jpg"}],"rating":4.5,"official_rating_available":true,"wannago_count":10415,"review_count":389}</script>
+<link rel="preload" href="https://adservice.google.co.kr/adsid/integrator.js?domain=www.mangoplate.com" as="script"><script type="text/javascript" src="https://adservice.google.co.kr/adsid/integrator.js?domain=www.mangoplate.com"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.mangoplate.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.mangoplate.com"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020032401.js" async=""></script><style type="text/css"></style><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html"><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
 .fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
 .fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style></head>
 
@@ -62,7 +62,7 @@
 
 <script type="text/plain" id="kakao_share_message" charset="utf-8">보니스피자펍 - Eat, Share, Be Happy! 망고플레이트!</script>
 
-<main class="pg-restaurant have-share-sns-another ng-scope" ng-controller="mp20_restaurant_controller" data-restaurant_key="gL8RksQTNk" data-restaurant_name="보니스피자펍" data-metro_str="이태원/한남동" data-subcuisine_code_str="기타 양식" data-price_code_str="만원-2만원" data-parking_code_str="주차공간없음" data-review_count="388">
+<main class="pg-restaurant have-share-sns-another ng-scope" ng-controller="mp20_restaurant_controller" data-restaurant_key="gL8RksQTNk" data-restaurant_name="보니스피자펍" data-metro_str="이태원/한남동" data-subcuisine_code_str="기타 양식" data-price_code_str="만원-2만원" data-parking_code_str="주차공간없음" data-review_count="389">
   <article class="contents">
     <!-- 레스토랑 상세 이미지 슬라이드 -->
     <aside class="restaurant-photos">
@@ -81,9 +81,9 @@
                 </div>
               </figure>
             </figure></div><div class="owl-item" style="width: 400px;"><figure class="list-photo">
-              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/10679/943791_1585320728725_16656?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
+              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/684104_1585829810759977.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
               <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:1,&quot;restaurant_key&quot;:&quot;gL8RksQTNk&quot;});" ng-click="mp20_gallery_open(1)" role="img" aria-label="보니스피자펍 - 이태원/한남동 기타 양식 | 맛집검색 망고플레이트" title="보니스피자펍 - 이태원/한남동 기타 양식 | 맛집검색 망고플레이트">
-                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/10679/943791_1585320728725_16656?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="보니스피자펍 사진 - 서울시 용산구 용산동2가 44-19" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
+                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/684104_1585829810759977.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="보니스피자펍 사진 - 서울시 용산구 용산동2가 44-19" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
 
                 <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:1,&quot;restaurant_key&quot;:&quot;gL8RksQTNk&quot;});" ng-click="mp20_gallery_open(5, true)">
                   <p class="txt">
@@ -93,9 +93,9 @@
                 </div>
               </figure>
             </figure></div><div class="owl-item" style="width: 400px;"><figure class="list-photo">
-              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/10679/965277_1585315260689_30791?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
+              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/10679/943791_1585320728725_16656?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
               <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:2,&quot;restaurant_key&quot;:&quot;gL8RksQTNk&quot;});" ng-click="mp20_gallery_open(2)" role="img" aria-label="보니스피자펍 - 이태원/한남동 기타 양식 | 맛집검색 망고플레이트" title="보니스피자펍 - 이태원/한남동 기타 양식 | 맛집검색 망고플레이트">
-                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/10679/965277_1585315260689_30791?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="보니스피자펍 사진 - 서울시 용산구 용산동2가 44-19" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
+                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/10679/943791_1585320728725_16656?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="보니스피자펍 사진 - 서울시 용산구 용산동2가 44-19" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
 
                 <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:2,&quot;restaurant_key&quot;:&quot;gL8RksQTNk&quot;});" ng-click="mp20_gallery_open(5, true)">
                   <p class="txt">
@@ -105,9 +105,9 @@
                 </div>
               </figure>
             </figure></div><div class="owl-item" style="width: 400px;"><figure class="list-photo">
-              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/10679/965277_1585315260690_30794?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
+              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/10679/965277_1585315260689_30791?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
               <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:3,&quot;restaurant_key&quot;:&quot;gL8RksQTNk&quot;});" ng-click="mp20_gallery_open(3)" role="img" aria-label="보니스피자펍 - 이태원/한남동 기타 양식 | 맛집검색 망고플레이트" title="보니스피자펍 - 이태원/한남동 기타 양식 | 맛집검색 망고플레이트">
-                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/10679/965277_1585315260690_30794?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="보니스피자펍 사진 - 서울시 용산구 용산동2가 44-19" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
+                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/10679/965277_1585315260689_30791?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="보니스피자펍 사진 - 서울시 용산구 용산동2가 44-19" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
 
                 <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:3,&quot;restaurant_key&quot;:&quot;gL8RksQTNk&quot;});" ng-click="mp20_gallery_open(5, true)">
                   <p class="txt">
@@ -117,9 +117,9 @@
                 </div>
               </figure>
             </figure></div><div class="owl-item" style="width: 400px;"><figure class="list-photo">
-              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/1175978_1585112318391684.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
+              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/10679/965277_1585315260690_30794?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
               <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:4,&quot;restaurant_key&quot;:&quot;gL8RksQTNk&quot;});" ng-click="mp20_gallery_open(4)" role="img" aria-label="보니스피자펍 - 이태원/한남동 기타 양식 | 맛집검색 망고플레이트" title="보니스피자펍 - 이태원/한남동 기타 양식 | 맛집검색 망고플레이트">
-                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/1175978_1585112318391684.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="보니스피자펍 사진 - 서울시 용산구 용산동2가 44-19" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
+                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/10679/965277_1585315260690_30794?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="보니스피자펍 사진 - 서울시 용산구 용산동2가 44-19" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
 
                 <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:4,&quot;restaurant_key&quot;:&quot;gL8RksQTNk&quot;});" ng-click="mp20_gallery_open(5, true)" style="display: block;">
                   <p class="txt">
@@ -171,9 +171,9 @@
               <div class="status
                 branch_none
                 ">
-                <span class="cnt hit">221,707</span>
-                <span class="cnt review">388</span>
-                <span class="cnt favorite">10,409</span>
+                <span class="cnt hit">221,921</span>
+                <span class="cnt review">389</span>
+                <span class="cnt favorite">10,415</span>
               </div>
             </header>
 
@@ -409,21 +409,21 @@
                 </li>
             </ul>
 
-          <div class="ad_area info only-desktop" id="web_desktop-restaurant-info"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-info-content" data-google-query-id="CIz0_4L3yOgCFQ27lgod4DYAaQ"><div id="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="1" data-load-complete="true"></iframe></div></div></div></div>
+          <div class="ad_area info only-desktop" id="web_desktop-restaurant-info"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-info-content" data-google-query-id="CLHax4aFzOgCFcowlgodp8MBRg"><div id="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="1" data-load-complete="true"></iframe></div></div></div></div>
           <div class="ad_area info only-mobile" id="web_mobile-restaurant-info"><div class="ad_wrap"><div class="content" id="web_mobile-restaurant-info-content"></div></div></div>
 
-          <script id="reviewCountInfo" type="application/json">[{"action_value":1,"count":16},{"action_value":2,"count":62},{"action_value":3,"count":310}]</script>
+          <script id="reviewCountInfo" type="application/json">[{"action_value":1,"count":16},{"action_value":2,"count":63},{"action_value":3,"count":310}]</script>
           <section class="RestaurantReviewList">
             <header class="RestaurantReviewList__Header">
               <h2 class="RestaurantReviewList__Title">
                 <span class="RestaurantReviewList__RestaurantName">보니스피자펍</span><span class="RestaurantReviewList__RestaurantNameSuffixDesktop">리뷰</span><span class="RestaurantReviewList__RestaurantNameSuffixMobile">의 리뷰</span>
-              <span class="RestaurantReviewList__AllCount">388</span></h2>
+              <span class="RestaurantReviewList__AllCount">389</span></h2>
 
               <ul class="RestaurantReviewList__FilterList">
                 <li class="RestaurantReviewList__FilterItem">
                   <button class="RestaurantReviewList__FilterButton RestaurantReviewList__FilterButton--Selected RestaurantReviewList__AllFilterButton">
                     전체
-                  <span class="RestaurantReviewList__ReviewCount">388</span></button>
+                  <span class="RestaurantReviewList__ReviewCount">389</span></button>
                 </li>
 
                 <li class="RestaurantReviewList__FilterItem">
@@ -435,7 +435,7 @@
                 <li class="RestaurantReviewList__FilterItem">
                   <button class="RestaurantReviewList__FilterButton RestaurantReviewList__OkFilterButton">
                     괜찮다
-                  <span class="RestaurantReviewList__ReviewCount">62</span></button>
+                  <span class="RestaurantReviewList__ReviewCount">63</span></button>
                 </li>
 
                 <li class="RestaurantReviewList__FilterItem">
@@ -449,6 +449,50 @@
             <ul class="RestaurantReviewList__ReviewList">
 
             <li class="RestaurantReviewItem RestaurantReviewList__ReviewItem">
+  <a class="RestaurantReviewItem__Link" href="/reviews/NzMwMTc1" target="_blank">
+    <div class="RestaurantReviewItem__User">
+      <div class="RestaurantReviewItem__UserPictureWrap">
+        <img class="RestaurantReviewItem__UserPicture" data-src="https://graph.facebook.com/356874848023986/picture?fit=around|56:56&amp;crop=56:56;*,*&amp;output-format=jpg&amp;output-quality=80" alt="user profile picture">
+      </div>
+      
+      <span class="RestaurantReviewItem__UserNickName">녹차가젤조아</span>
+
+      <ul class="RestaurantReviewItem__UserStat">
+        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">130</li>
+        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Follower">7</li>
+      </ul>
+      
+      <i class="RestaurantReviewItem__HolicBadge"></i>
+    </div>
+
+    <div class="RestaurantReviewItem__ReviewContent">
+      <div class="RestaurantReviewItem__ReviewTextWrap">
+
+        <p class="RestaurantReviewItem__ReviewText">
+          음 일단 한국어 알아들으시면서..(나는 주문 취소 할 때 능숙하게 포스기기를 다루는 그녀들을 봤소...영수증 회수. 카드 취소. 전체 취소 잘 누르시던ㄷ)<br><br>암튼 영어로 주문해야해서 긴장. <br>둘이 가면 레귤러 사이즈<br>p는 파티 사이즈 큼. <br><br>얇아서 순삭 가능<br><br>맛은 도** , 알**가 낫다<br>난 두꺼운게 맛있나보다<br>단 얇은 건 매드포**스노윙 피자 짱<br><br>이태원을 느끼고 싶다면,<br>해방촌에서 줄서서 가장 인싸집을 가고 싶다면 추천
+        </p>
+
+        
+        <span class="RestaurantReviewItem__ReviewDate">13 시간 전</span>
+      </div>
+      
+      <ul class="RestaurantReviewItem__PictureList">
+      <li class="RestaurantReviewItem__PictureItem">
+        <button class="RestaurantReviewItem__PictureButton" data-index="0">
+          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/684104_1585829810759977.jpg?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
+          
+        </button>
+      </li>
+</ul>
+    </div>
+
+    <div class="RestaurantReviewItem__Rating RestaurantReviewItem__Rating--Ok">
+      <span class="RestaurantReviewItem__RatingText">괜찮다</span>
+    </div>
+    
+    
+  </a>
+</li><li class="RestaurantReviewItem RestaurantReviewList__ReviewItem">
   <a class="RestaurantReviewItem__Link" href="/reviews/NzI4NTAx" target="_blank">
     <div class="RestaurantReviewItem__User">
       <div class="RestaurantReviewItem__UserPictureWrap">
@@ -473,7 +517,7 @@
         </p>
 
         
-        <span class="RestaurantReviewItem__ReviewDate">5 일 전</span>
+        <span class="RestaurantReviewItem__ReviewDate">6 일 전</span>
       </div>
       
       <ul class="RestaurantReviewItem__PictureList">
@@ -517,7 +561,7 @@
         </p>
 
         
-        <span class="RestaurantReviewItem__ReviewDate">5 일 전</span>
+        <span class="RestaurantReviewItem__ReviewDate">6 일 전</span>
       </div>
       
       <ul class="RestaurantReviewItem__PictureList">
@@ -553,7 +597,7 @@
       <span class="RestaurantReviewItem__UserNickName">Yeonhwa</span>
 
       <ul class="RestaurantReviewItem__UserStat">
-        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">105</li>
+        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">108</li>
         <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Follower">3</li>
       </ul>
       
@@ -630,43 +674,6 @@
         </button>
       </li>
 </ul>
-    </div>
-
-    <div class="RestaurantReviewItem__Rating RestaurantReviewItem__Rating--Recommend">
-      <span class="RestaurantReviewItem__RatingText">맛있다</span>
-    </div>
-    
-    
-  </a>
-</li><li class="RestaurantReviewItem RestaurantReviewList__ReviewItem">
-  <a class="RestaurantReviewItem__Link" href="/reviews/NzIxODM2" target="_blank">
-    <div class="RestaurantReviewItem__User">
-      <div class="RestaurantReviewItem__UserPictureWrap">
-        <img class="RestaurantReviewItem__UserPicture" data-src="http://mud-kage.kakao.co.kr/14/dn/btqevVLOHTd/PaX2yk6DPnQMwZI99xiMfk/o.jpg?fit=around|56:56&amp;crop=56:56;*,*&amp;output-format=jpg&amp;output-quality=80" alt="user profile picture">
-      </div>
-      
-      <span class="RestaurantReviewItem__UserNickName">Jinny</span>
-
-      <ul class="RestaurantReviewItem__UserStat">
-        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">102</li>
-        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Follower">2</li>
-      </ul>
-      
-      
-    </div>
-
-    <div class="RestaurantReviewItem__ReviewContent">
-      <div class="RestaurantReviewItem__ReviewTextWrap">
-
-        <p class="RestaurantReviewItem__ReviewText">
-          집근처라 미리 주문하고 테이크아웃하면 대기 없이 언제든 먹을 수 있어요 :) 주민이시면 어플 셔틀(shuttle) 사용하시면 배달도 됩니다! (추천코드: KIM-JINNY-RCQ) 주로 반반으로 여러가지 맛을 조합하며 먹는데 제입에는 페퍼로니가 최고 ㅠㅡㅠ
-        </p>
-
-        
-        <span class="RestaurantReviewItem__ReviewDate">2020-03-04</span>
-      </div>
-      
-      
     </div>
 
     <div class="RestaurantReviewItem__Rating RestaurantReviewItem__Rating--Recommend">
@@ -1043,7 +1050,7 @@
               </section>
           </div>
 
-          <div class="ad_area right_map only-desktop" id="web_desktop-restaurant-right_map"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-right_map-content" data-google-query-id="CI30_4L3yOgCFQ27lgod4DYAaQ"><div id="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0" width="336" height="280" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="2" data-load-complete="true"></iframe></div></div></div></div>
+          <div class="ad_area right_map only-desktop" id="web_desktop-restaurant-right_map"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-right_map-content" data-google-query-id="CLLax4aFzOgCFcowlgodp8MBRg"><div id="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0" width="336" height="280" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="2" data-load-complete="true"></iframe></div></div></div></div>
 
         </div>
       </div>
@@ -1067,12 +1074,12 @@
       <div class="share-list-divid last">
         <div class="click_share">공유 꾹!</div>
         <button class="share">
-          <span class="kakao_share kakaotalk_share_btn" onclick="trackEvent('CLICK_SHARE_KAKAO_FLOATING_INFO','','','PG_RESTAURANT')" data-content="CLICK_SHARE_KAKAO_FLOATING" data-term="v1" data-message="'보니스피자펍'
+          <span class="kakao_share kakaotalk_share_btn" onclick="trackEvent('CLICK_SHARE_KAKAO_FLOATING_MAP','','','PG_RESTAURANT')" data-content="CLICK_SHARE_KAKAO_FLOATING" data-term="v1" data-message="'보니스피자펍'
 망고플레이트 평점: 4.5 / 5.0
 기타 양식
 주소: 서울시 용산구 용산동2가 44-19
 전화: 02-792-0303
- " data-image="https://mp-seoul-image-production-s3.mangoplate.com/10679/26737_1548857406487_48915?fit=around%7C300:200&amp;crop=300:200;*,*&amp;output-format=jpg&amp;output-quality=80" data-url="https://www.mangoplate.com/restaurants/gL8RksQTNk" data-button_name="식당정보 보기"></span>
+ " data-image="https://mp-seoul-image-production-s3.mangoplate.com/10679/26737_1548857406487_48915?fit=around%7C300:200&amp;crop=300:200;*,*&amp;output-format=jpg&amp;output-quality=80" data-url="https://www.mangoplate.com/restaurants/gL8RksQTNk" data-button_name="위치/지도 확인하러가기"></span>
         </button>
         <button class="share">
           <span class="facebook_share facebook_share_btn" onclick="trackEvent('CLICK_SHARE_FACEBOOK_FLOATING','','','PG_RESTAURANT')" data-content="CLICK_SHARE_FACEBOOK_FLOATING" data-term="v1"></span>
@@ -1082,7 +1089,7 @@
       <div class="share-list-divid first">
 
         <button class="share small">
-          <span class="mail mail_share_btn" onclick="trackEvent('CLICK_SHARE_EMAIL_FLOATING','','','PG_RESTAURANT')" data-content="CLICK_SHARE_EMAIL_FLOATING" data-term="v1" data-title="보니스피자펍 - 이태원/한남동 기타 양식 | 맛집검색 망고플레이트" data-message="221565명이 방문하고 싶어하는 이태원/한남동 맛집 보니스피자펍의 평점은 4.5/5점 입니다. 보니스피자펍을(를) 대표하는 키워드는 가성비, 가짓수, 도우, 레귤러, 맥주, 미국, 분위기, 외국인, 저렴하다, 치즈, 토핑, 페퍼로니, 피자, 하와이안입니다." data-url="https://www.mangoplate.com/restaurants/gL8RksQTNk"></span>
+          <span class="mail mail_share_btn" onclick="trackEvent('CLICK_SHARE_EMAIL_FLOATING','','','PG_RESTAURANT')" data-content="CLICK_SHARE_EMAIL_FLOATING" data-term="v1" data-title="보니스피자펍 - 이태원/한남동 기타 양식 | 맛집검색 망고플레이트" data-message="221806명이 방문하고 싶어하는 이태원/한남동 맛집 보니스피자펍의 평점은 4.5/5점 입니다. 보니스피자펍을(를) 대표하는 키워드는 가성비, 가짓수, 도우, 레귤러, 맥주, 미국, 분위기, 외국인, 저렴하다, 치즈, 토핑, 페퍼로니, 피자, 하와이안입니다." data-url="https://www.mangoplate.com/restaurants/gL8RksQTNk"></span>
         </button>
         <button class="share small">
           <span class="band band_share_btn" onclick="trackEvent('CLICK_SHARE_BAND_FLOATING','','','PG_RESTAURANT')" data-content="CLICK_SHARE_BAND_FLOATING" data-term="v1" data-message="보니스피자펍 - 이태원/한남동 기타 양식 | 맛집검색 망고플레이트" data-url="https://www.mangoplate.com/restaurants/gL8RksQTNk"></span>
@@ -1912,7 +1919,7 @@
         </div></div><div id="mCSB_2_scrollbar_vertical" class="mCSB_scrollTools mCSB_2_scrollbar mCS-minimal-dark mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_2_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 50px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 50px;"></div></div><div class="mCSB_draggerRail"></div></div></div><div id="mCSB_2_scrollbar_horizontal" class="mCSB_scrollTools mCSB_2_scrollbar mCS-minimal-dark mCSB_scrollTools_horizontal" style="display: block;"><div class="mCSB_draggerContainer"><div id="mCSB_2_dragger_horizontal" class="mCSB_dragger" style="position: absolute; min-width: 50px; display: block; width: 0px; left: 0px;"><div class="mCSB_dragger_bar"></div></div><div class="mCSB_draggerRail"></div></div></div></div>
 
         <div class="info_area_footer">
-          <div class="ad_area gallery_right_review only-desktop" id="web_desktop-restaurant-gallery_right_review"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-gallery_right_review-content" data-google-query-id="CI70_4L3yOgCFQ27lgod4DYAaQ"><div id="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0" width="336" height="280" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" data-google-container-id="3" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div></div></div>
+          <div class="ad_area gallery_right_review only-desktop" id="web_desktop-restaurant-gallery_right_review"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-gallery_right_review-content" data-google-query-id="CLPax4aFzOgCFcowlgodp8MBRg"><div id="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0" width="336" height="280" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" data-google-container-id="3" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div></div></div>
 
           <div class="source_notice ng-hide" ng-show="review_content.type == 'insta'">
             <div class="inner">

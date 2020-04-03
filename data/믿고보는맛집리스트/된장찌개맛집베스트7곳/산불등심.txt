@@ -1,11 +1,11 @@
-<html><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}</style>
+<html><head><script src="https://cdn.ampproject.org/rtv/012003171848440/amp4ads-host-v0.js"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_2020032401.js"></script><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}</style>
   <!-- HTML Default Meta -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <meta name="format-detection" content="telephone=no">
   <meta name="subject" content="산불등심 - 무교동 음식문화특화거리 한정식 / 백반 / 정통 한식 | 맛집검색 망고플레이트">
-  <meta name="description" content="8006명이 방문하고 싶어하는 무교동 음식문화특화거리 맛집 산불등심의 평점은 3.9/5점 입니다. 산불등심을(를) 대표하는 키워드는 소고기입니다.">
+  <meta name="description" content="8265명이 방문하고 싶어하는 무교동 음식문화특화거리 맛집 산불등심의 평점은 3.8/5점 입니다. 산불등심을(를) 대표하는 키워드는 소고기입니다.">
   <meta name="keywords" content="숯불, 된장찌개, 소고기, 등심, 노포">
   <meta name="image" content="https://mp-seoul-image-production-s3.mangoplate.com/188707_1427639038613">
 
@@ -13,7 +13,7 @@
   <meta property="og:url" content="https://www.mangoplate.com/restaurants/HuabiTj5pb">
   <meta property="og:type" content="website">
   <meta property="og:title" content="산불등심 - 무교동 음식문화특화거리 한정식 / 백반 / 정통 한식 | 맛집검색 망고플레이트">
-  <meta property="og:description" content="8006명이 방문하고 싶어하는 무교동 음식문화특화거리 맛집 산불등심의 평점은 3.9/5점 입니다. 산불등심을(를) 대표하는 키워드는 소고기입니다.">
+  <meta property="og:description" content="8265명이 방문하고 싶어하는 무교동 음식문화특화거리 맛집 산불등심의 평점은 3.8/5점 입니다. 산불등심을(를) 대표하는 키워드는 소고기입니다.">
   <meta property="og:image" content="https://mp-seoul-image-production-s3.mangoplate.com/188707_1427639038613">
 
   <link rel="amphtml" href="https://www.mangoplate.com/amp/restaurants/HuabiTj5pb">
@@ -22,7 +22,7 @@
 <meta property="twitter:site" content="@MangoPlate">
 <meta property="twitter:url" content="https://www.mangoplate.com/restaurants/HuabiTj5pb">
 <meta property="twitter:title" content="산불등심 - 무교동 음식문화특화거리 한정식 / 백반 / 정통 한식 | 맛집검색 망고플레이트">
-<meta property="twitter:description" content="8006명이 방문하고 싶어하는 무교동 음식문화특화거리 맛집 산불등심의 평점은 3.9/5점 입니다. 산불등심을(를) 대표하는 키워드는 소고기입니다.">
+<meta property="twitter:description" content="8265명이 방문하고 싶어하는 무교동 음식문화특화거리 맛집 산불등심의 평점은 3.8/5점 입니다. 산불등심을(를) 대표하는 키워드는 소고기입니다.">
 <meta property="twitter:image" content="https://mp-seoul-image-production-s3.mangoplate.com/188707_1427639038613">
   
 	<meta property="fb:app_id" content="476661545693695">
@@ -48,21 +48,21 @@
     <link rel="alternate" href="https://www.mangoplate.com/en/restaurants/HuabiTj5pb" hreflang="en">
     <link rel="alternate" href="https://www.mangoplate.com/zh/restaurants/HuabiTj5pb" hreflang="zh">
 
-  <script src="https://cdn.ampproject.org/rtv/012003171848440/amp4ads-host-v0.js"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_2020032302.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="https://connect.facebook.net/ko_KR/sdk.js?hash=84230b50222b900f312c377e3e82dbb2&amp;ua=modern_es6" async="" crossorigin="anonymous"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
-  <script type="application/ld+json">{"@type":"LocalBusiness","name":"산불등심","telephone":"02-754-7584","address":{"@type":"PostalAddress","addressCountry":"","addressLocality":"","addressRegion":"","postOfficeBoxNumber":"","postalCode":"","streetAddress":"서울시 중구 다동 127"},"image":"https://mp-seoul-image-production-s3.mangoplate.com/188707_1427639038613","priceRange":"만원 미만","url":"https://www.mangoplate.com/restaurants/HuabiTj5pb","review":[{"@type":"Review","datePublished":"2020-04-01 13:16:38","author":"미각의 달인","description":"최악의 서비스는 물론, 최악의 된장찌게까지. 소고기는 비게덩어리인데, 이런걸 만원이나 주고 먹어야 되는지는 개취에 맡길께요. 핵비추"},{"@type":"Review","datePublished":"2020-02-01 13:01:46","author":"AlexTheFood","description":"#191220바나\n#산불등심 #소고기된장찌개\n⠀\n\"아니 뭐 이런 곳이 다 있어!!!\n근데 맛은 있네요...\"\n⠀\n#들어가며\n미식가로 인정하는 선배 바이어님께서 갑자기 산불등심 된장찌개를 먹고싶다 하셨다. 처음 듣는 곳이라 하니 놀라며 미식가들 사이에서 유명한 곳이라고 한참을 설명하시더라. 그렇게 가게 된 을지로 다동 산불등심.\n⠀\n#첫인상\n많은 노포들을 가보았지만 여기가 정말 딱 노포의 표본이었다. 골목 안쪽에 있어서 길치인 나보고 다시 가라면 찾지 못할 정도로 안쪽에 있는 데다, 완전 낡은 간판과 문. 안은 생각보다 넓었지만 사람이 너무 많아 거의 합석을 해야 했던 곳. 안쪽 좌식 자리를 앉았는데 천장도 너무 낮고 좁아서 불편해 죽을 뻔했다.\n⠀\n#된장찌개 10,000 ★\n게다가 가격은 말도 안 되게 비싸더라. 만 원이라니! 된장찌개가 만 원이라니!! 반찬이 특별한 것도 아니면서!!! 동치미, 콩나물무침, 계란찜, 고등어조림, 김치 정도가 끝이면서 말이다. 그런데 된장찌개 한 입 먹고 그냥 조용히 고개를 끄덕거리게 되었다. 하... 솔직히 맛은 있더라. 우리 엄마는 싫어할 것 같은 짜고 단 맛 범벅이었지만 나같은 초딩입맛에겐 넘나 취향저격이었다. 짜게 졸여진 부드러운 두부와 소고기도, 대파와 양파를 오래 끓여서 나는 짜장스러운 단 맛도.\n⠀\n#끝인상\n나오면서 알 수 없는 만족감에 기분이 좋긴 했지만, 그럼에도 불구하고 난 여전히 만 원은 너무 비싸지 않나 싶었다. 정말 돈 잘 버는 직장인들이 많은 을지로라는 위치, 그리고 확실한 아이덴티티가 있는 된장찌개이기 때문에 가능한 가격이지. 일반 맛집들과 달리 주말 이틀 다 휴무인 것도 애초에 타겟층을 직장인으로 설정해서 그런 듯 하더라.\n⠀\n편하게 친구끼리 보는 데도 점심에 만 원 정도면 괜찮지- 하는 사람들에게는 추천하고 싶지만, 중요한 자리이거나, 혹은 만 원이 조금 비싸다고 느껴지는 사람에게는 비추천하고 싶은 곳이다. 맛 자체도 짠 것을 싫어하시는 분이라면 무조건 걸러야 할 곳. 정신 사납고 자리도 불편해서 그렇게 좋은 기억이 남아있지도 않지만, 그래도 또 먹고 싶긴 하네. 분명 한 번쯤은 방문해볼만한 곳이긴 하다. 추천."},{"@type":"Review","datePublished":"2018-06-28 13:44:53","author":"권오찬","description":"* 한줄평 : 욕하면서 먹게 되는 쿨내진동 된장찌개\n\n을지로 다동에는 \u003c된장찌개 맛집\u003e으로 미식가들에게 유명한 곳이 있는데 1986년 개업하여  30년 넘게 자리를 지킨 \u003c산불등심\u003e이라는 식당..\n점심에는 \u003c소고기 된장찌개\u003e, 저녁에는 \u003c소고기 등심\u003e만 판매하는 이른바 단일메뉴 식당이다.\n\n# 욕할 수 밖에 없는 이유\n소고기를 넣어 깊은 맛을 더했다고는 해도 된장찌개가 1만원이다. 반찬 역시 요일 상관없이 항상 똑같은 열무김치, 콩나물, 계란찜과 고등어 조림.. \n실내공간 역시 비좁아 2명이 가면 당연히 합석을 각오해야 하는데, 30여년된 식당이다 보니 테이블이 협소한 편이다. 심지어 일행과 마주보고 앉을 수 있는 세로줄 합석이 아니라 일행과 나란히 앉아야 하는 가로줄 합석도 왕왕 있다.\n더군다나 사장 할아버지는 너무 쿨내 진동.. \n\n# 그럼에도 불구하고..\n그럼에도 불구하고 맛만 놓고 보자면 나의 평가는 \u003c맛있다\u003e..\n항상 똑같은 반찬이 제공되는 것이 단점일 수도 있지만, 매일 똑같은 반찬을 30여년 제공하다보니 고등어 조림같은 메뉴는 제주도 생선조림 전문식당 못지 않을 정도이다. 심지어 이 집 된장에는 혹시 꿀이나 설탕을 넣는건 아닌가 싶을 정도로 된장이 달다.  \n\n계산할때마다 무슨 강북 허름한 뒷골목의 된장찌개 가격이 이러냐며 욕이 나올 수 밖에 없는데..\n한번 이 맛을 보면 어쩔 수 없이 또 찾을 수 밖에 없다. 나만 그런지 알았는데, 직장 동료들 대부분이 그렇대더라.. "},{"@type":"Review","datePublished":"2017-11-04 12:52:46","author":"송아지","description":"고기는 적당히 맛있지만 서비스 최악. 친한사람이랑만 가자."},{"@type":"Review","datePublished":"2017-03-18 17:17:05","author":"ctyn","description":"그유명한 된장찌개는 얼마나 조렸는지 찌개가아니라 깡장맛 짜기만하고 별로였음 "}],"aggregateRating":{"@type":"AggregateRating","bestRating":5,"worstRating":0,"ratingValue":3.9,"reviewCount":13},"@context":"http://schema.org","@id":"https://www.mangoplate.com"}</script>
+  <script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="https://connect.facebook.net/ko_KR/sdk.js?hash=c914e888ebcfb3f091b0d8c5a061f968&amp;ua=modern_es6" async="" crossorigin="anonymous"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script type="application/ld+json">{"@type":"LocalBusiness","name":"산불등심","telephone":"02-754-7584","address":{"@type":"PostalAddress","addressCountry":"","addressLocality":"","addressRegion":"","postOfficeBoxNumber":"","postalCode":"","streetAddress":"서울시 중구 다동 127"},"image":"https://mp-seoul-image-production-s3.mangoplate.com/188707_1427639038613","priceRange":"만원 미만","url":"https://www.mangoplate.com/restaurants/HuabiTj5pb","review":[{"@type":"Review","datePublished":"2020-04-03 10:20:41","author":"예랑","description":"한줄평: 강된장 같은 소고기 된장찌개가 맛있는 레트로'풍'이 아닌 세월이 묻어나는 노포.\n\n을지로 다동무교동 먹자골목에는 허름한 외관의 가게들이 즐비하다. 그중에서도 간판의 글씨 중에서 숯불구이전문이라는 글씨는 이미 떨어져나가 희미해지고, '점심 소고기 된장찌게'(된장찌개가 바른 표현이다)라는 메뉴판에서 내공이 느껴지는 곳이 있었다. 바로 이곳 산불등심.\n⠀\n이 작고 허름한 노포에는 코로나19가 무엇이냐고 비웃듯이 인산인해다. 점심에는 소고기 된장찌개를 찾는 사람으로 북적이고, 저녁이면 등심을 구워먹으려는 사람들로 가득하다.\n⠀\n실내 벽지는 오랜 세월과 함께 누렇게 빛바랬으며, 손으로 써붙인 차림표는 정겹다 못해 시크함까지 느껴진다. 추울까봐 안에 기름넣는 난로가 위치해있고, 밥솥이며냉장고며 전부 내 나이만큼은, 아니 어쩌면 나보다 더 나이 들었을지도 모를것 같다는 생각이 들었다.\n⠀\n점심에 자리에 앉자마자 우리는 아무 말도 하지 않았는데, 인원수에 맞게 소고기 된장찌개가 나온다. 이곳의 된장찌개는 마치 강된장 같은 비주얼이다. 국물이 자작한데 진하다.\n⠀\n일단 한입 먹어본다. 오호라. 찐한데 인공적인 맛이 아니다. 간이 좀 세서 간간하지만, 맛있다. 매울줄 알았는데 맵지 않았다.\n⠀\n같이 준 큰 대접에 밥 한공기와 반찬으로 나온 콩나물을 넣고, 된장찌개를 잘 담아서 챱챱 비벼먹어봤다. 와우. 진짜 맛있다 \u003e_\u003c 안에 들어있는 두부랑 소고기는 몇시간을 푸욱 고와서 그런건지 이미 된장에 쩔어있는 느낌이다. 이런 두부 참 좋아한다.\n⠀\n손님이 평소보다는 없어서인지 아님 된장찌개 건더기가 조금 약해서인지 고등어조림을 서비스로 주신다. 이 또한 된장이 맛있어서인지 아주 맛있다. 완전 밥도둑이 따로 없다.\n⠀\n오랜 기간 사랑받는 집들은 다 이유가 있다. 물론 위치가 좋다는 점도 있지만, 그 맛의 깊이와 한결같음이 느껴진다. 레트로풍이 유행하는 시기에 레트로가 아니라 그냥 오랜 시간을 품고 있는 이곳은 많은 이들이 사랑할수밖에 없는 공간이란 생각이다.\n⠀"},{"@type":"Review","datePublished":"2020-04-01 13:16:38","author":"미각의 달인","description":"최악의 서비스는 물론, 최악의 된장찌게까지. 소고기는 비게덩어리인데, 이런걸 만원이나 주고 먹어야 되는지는 개취에 맡길께요. 핵비추"},{"@type":"Review","datePublished":"2020-02-01 13:01:46","author":"AlexTheFood","description":"#191220바나\n#산불등심 #소고기된장찌개\n⠀\n\"아니 뭐 이런 곳이 다 있어!!!\n근데 맛은 있네요...\"\n⠀\n#들어가며\n미식가로 인정하는 선배 바이어님께서 갑자기 산불등심 된장찌개를 먹고싶다 하셨다. 처음 듣는 곳이라 하니 놀라며 미식가들 사이에서 유명한 곳이라고 한참을 설명하시더라. 그렇게 가게 된 을지로 다동 산불등심.\n⠀\n#첫인상\n많은 노포들을 가보았지만 여기가 정말 딱 노포의 표본이었다. 골목 안쪽에 있어서 길치인 나보고 다시 가라면 찾지 못할 정도로 안쪽에 있는 데다, 완전 낡은 간판과 문. 안은 생각보다 넓었지만 사람이 너무 많아 거의 합석을 해야 했던 곳. 안쪽 좌식 자리를 앉았는데 천장도 너무 낮고 좁아서 불편해 죽을 뻔했다.\n⠀\n#된장찌개 10,000 ★\n게다가 가격은 말도 안 되게 비싸더라. 만 원이라니! 된장찌개가 만 원이라니!! 반찬이 특별한 것도 아니면서!!! 동치미, 콩나물무침, 계란찜, 고등어조림, 김치 정도가 끝이면서 말이다. 그런데 된장찌개 한 입 먹고 그냥 조용히 고개를 끄덕거리게 되었다. 하... 솔직히 맛은 있더라. 우리 엄마는 싫어할 것 같은 짜고 단 맛 범벅이었지만 나같은 초딩입맛에겐 넘나 취향저격이었다. 짜게 졸여진 부드러운 두부와 소고기도, 대파와 양파를 오래 끓여서 나는 짜장스러운 단 맛도.\n⠀\n#끝인상\n나오면서 알 수 없는 만족감에 기분이 좋긴 했지만, 그럼에도 불구하고 난 여전히 만 원은 너무 비싸지 않나 싶었다. 정말 돈 잘 버는 직장인들이 많은 을지로라는 위치, 그리고 확실한 아이덴티티가 있는 된장찌개이기 때문에 가능한 가격이지. 일반 맛집들과 달리 주말 이틀 다 휴무인 것도 애초에 타겟층을 직장인으로 설정해서 그런 듯 하더라.\n⠀\n편하게 친구끼리 보는 데도 점심에 만 원 정도면 괜찮지- 하는 사람들에게는 추천하고 싶지만, 중요한 자리이거나, 혹은 만 원이 조금 비싸다고 느껴지는 사람에게는 비추천하고 싶은 곳이다. 맛 자체도 짠 것을 싫어하시는 분이라면 무조건 걸러야 할 곳. 정신 사납고 자리도 불편해서 그렇게 좋은 기억이 남아있지도 않지만, 그래도 또 먹고 싶긴 하네. 분명 한 번쯤은 방문해볼만한 곳이긴 하다. 추천."},{"@type":"Review","datePublished":"2018-06-28 13:44:53","author":"권오찬","description":"* 한줄평 : 욕하면서 먹게 되는 쿨내진동 된장찌개\n\n을지로 다동에는 \u003c된장찌개 맛집\u003e으로 미식가들에게 유명한 곳이 있는데 1986년 개업하여  30년 넘게 자리를 지킨 \u003c산불등심\u003e이라는 식당..\n점심에는 \u003c소고기 된장찌개\u003e, 저녁에는 \u003c소고기 등심\u003e만 판매하는 이른바 단일메뉴 식당이다.\n\n# 욕할 수 밖에 없는 이유\n소고기를 넣어 깊은 맛을 더했다고는 해도 된장찌개가 1만원이다. 반찬 역시 요일 상관없이 항상 똑같은 열무김치, 콩나물, 계란찜과 고등어 조림.. \n실내공간 역시 비좁아 2명이 가면 당연히 합석을 각오해야 하는데, 30여년된 식당이다 보니 테이블이 협소한 편이다. 심지어 일행과 마주보고 앉을 수 있는 세로줄 합석이 아니라 일행과 나란히 앉아야 하는 가로줄 합석도 왕왕 있다.\n더군다나 사장 할아버지는 너무 쿨내 진동.. \n\n# 그럼에도 불구하고..\n그럼에도 불구하고 맛만 놓고 보자면 나의 평가는 \u003c맛있다\u003e..\n항상 똑같은 반찬이 제공되는 것이 단점일 수도 있지만, 매일 똑같은 반찬을 30여년 제공하다보니 고등어 조림같은 메뉴는 제주도 생선조림 전문식당 못지 않을 정도이다. 심지어 이 집 된장에는 혹시 꿀이나 설탕을 넣는건 아닌가 싶을 정도로 된장이 달다.  \n\n계산할때마다 무슨 강북 허름한 뒷골목의 된장찌개 가격이 이러냐며 욕이 나올 수 밖에 없는데..\n한번 이 맛을 보면 어쩔 수 없이 또 찾을 수 밖에 없다. 나만 그런지 알았는데, 직장 동료들 대부분이 그렇대더라.. "},{"@type":"Review","datePublished":"2017-11-04 12:52:46","author":"송아지","description":"고기는 적당히 맛있지만 서비스 최악. 친한사람이랑만 가자."}],"aggregateRating":{"@type":"AggregateRating","bestRating":5,"worstRating":0,"ratingValue":3.8,"reviewCount":14},"@context":"http://schema.org","@id":"https://www.mangoplate.com"}</script>
   <script id="dfp_ads" type="application/json">[{"id":11,"platform":"web_desktop","page":"restaurant","inventory":"gallery_right_review","sizes":[[336,280]],"tag":"/395211568/production/desktop-web.picture-viewer.right-side","enabled":true,"created_at":"2017-05-18T03:41:26.000+09:00","updated_at":"2017-05-18T03:41:26.000+09:00","args":{}},{"id":12,"platform":"web_desktop","page":"restaurant","inventory":"info","sizes":[[728,90]],"tag":"/395211568/production/desktop-web.restaurant.info","enabled":true,"created_at":"2017-05-18T03:41:57.000+09:00","updated_at":"2017-05-18T03:41:58.000+09:00","args":{}},{"id":13,"platform":"web_desktop","page":"restaurant","inventory":"right_map","sizes":[[336,280]],"tag":"/395211568/production/desktop-web.restaurant.right-side","enabled":true,"created_at":"2017-05-18T03:42:19.000+09:00","updated_at":"2017-05-18T03:42:19.000+09:00","args":{}},{"id":15,"platform":"web_mobile","page":"restaurant","inventory":"info","sizes":[[300,250]],"tag":"/395211568/production/mobile-web.restaurant.info","enabled":true,"created_at":"2017-05-18T03:43:06.000+09:00","updated_at":"2017-05-18T03:43:06.000+09:00","args":{}},{"id":17,"platform":"web_mobile","page":"restaurant","inventory":"tag","sizes":[[320,100]],"tag":"/395211568/production/mobile-web.restaurant.bottom","enabled":true,"created_at":"2017-05-18T03:43:49.000+09:00","updated_at":"2017-05-18T03:43:49.000+09:00","args":{}},{"id":54,"platform":"web_mobile","page":"restaurant","inventory":"popop_use_app","sizes":null,"tag":"","enabled":true,"created_at":"2020-01-30T01:49:26.000+09:00","updated_at":"2020-03-05T10:24:08.000+09:00","args":{}},{"id":58,"platform":"web_mobile","page":"restaurant","inventory":"area_use_app","sizes":null,"tag":"","enabled":true,"created_at":"2020-01-30T01:49:26.000+09:00","updated_at":"2020-03-06T12:22:23.000+09:00","args":{}}]</script>
-  <script id="location" type="application/json">{"ip":"220.117.71.146","country_code":"KR","country_name":"South Korea","region_code":"11","region_name":"Seoul","city":"Songpa-dong","zip_code":"05670","time_zone":"Asia/Seoul","latitude":37.5082,"longitude":127.1179,"metro_code":0}</script>
-  <script id="restaurant_info" type="application/json">{"restaurant_uuid":188707,"name":"산불등심","cusine_code":1,"subcusine_code":1,"region_code":2,"metro_code":13,"latitude":"37.56742475","longitude":"126.98151357","restaurant_key":"HuabiTj5pb","action":null,"pictures":[{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"188707_1427639038613"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"313740_1580529702543515.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"313740_1580529703524732.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"313740_1580529703834422.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"313740_1580529704097431.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"313740_1580529704499771.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"313740_1580529704784184.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"313740_1580529705043036.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"313740_1580529705269251.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"313740_1580529705591025.jpg"}],"rating":3.9,"official_rating_available":false,"wannago_count":186,"review_count":13}</script>
-<style type="text/css"></style><link rel="preload" href="https://adservice.google.co.kr/adsid/integrator.js?domain=www.mangoplate.com" as="script"><script type="text/javascript" src="https://adservice.google.co.kr/adsid/integrator.js?domain=www.mangoplate.com"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.mangoplate.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.mangoplate.com"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020032302.js" async=""></script><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html"><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+  <script id="location" type="application/json">{"ip":"220.117.71.145","country_code":"KR","country_name":"South Korea","region_code":"11","region_name":"Seoul","city":"Songpa-dong","zip_code":"05670","time_zone":"Asia/Seoul","latitude":37.5082,"longitude":127.1179,"metro_code":0}</script>
+  <script id="restaurant_info" type="application/json">{"restaurant_uuid":188707,"name":"산불등심","cusine_code":1,"subcusine_code":1,"region_code":2,"metro_code":13,"latitude":"37.56742475","longitude":"126.98151357","restaurant_key":"HuabiTj5pb","action":null,"pictures":[{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"188707_1427639038613"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"188707/172778_1585876825134_55760"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"188707/172778_1585876825134_55762"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"188707/172778_1585876825134_55758"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"188707/172778_1585876825134_55764"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"188707/172778_1585876825134_55754"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"188707/172778_1585876825134_55755"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"188707/172778_1585876825134_55756"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"188707/172778_1585876825134_55753"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"188707/172778_1585876825134_55752"}],"rating":3.8,"official_rating_available":false,"wannago_count":187,"review_count":14}</script>
+<link rel="preload" href="https://adservice.google.co.kr/adsid/integrator.js?domain=www.mangoplate.com" as="script"><script type="text/javascript" src="https://adservice.google.co.kr/adsid/integrator.js?domain=www.mangoplate.com"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.mangoplate.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.mangoplate.com"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020032401.js" async=""></script><style type="text/css"></style><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
 .fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
-.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style></head>
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html"></head>
 
 <body onunload="" ng-app="mp20App" class="ng-scope">
 
 
 <script type="text/plain" id="kakao_share_message" charset="utf-8">산불등심 - Eat, Share, Be Happy! 망고플레이트!</script>
 
-<main class="pg-restaurant have-share-sns-another ng-scope" ng-controller="mp20_restaurant_controller" data-restaurant_key="HuabiTj5pb" data-restaurant_name="산불등심" data-metro_str="중구" data-subcuisine_code_str="한정식 / 백반 / 정통 한식" data-price_code_str="만원 미만" data-parking_code_str="주차공간없음" data-review_count="13">
+<main class="pg-restaurant have-share-sns-another ng-scope" ng-controller="mp20_restaurant_controller" data-restaurant_key="HuabiTj5pb" data-restaurant_name="산불등심" data-metro_str="중구" data-subcuisine_code_str="한정식 / 백반 / 정통 한식" data-price_code_str="만원 미만" data-parking_code_str="주차공간없음" data-review_count="14">
   <article class="contents">
     <!-- 레스토랑 상세 이미지 슬라이드 -->
     <aside class="restaurant-photos">
@@ -81,9 +81,9 @@
                 </div>
               </figure>
             </figure></div><div class="owl-item" style="width: 400px;"><figure class="list-photo">
-              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/313740_1580529702543515.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
+              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/188707/172778_1585876825134_55760?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
               <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:1,&quot;restaurant_key&quot;:&quot;HuabiTj5pb&quot;});" ng-click="mp20_gallery_open(1)" role="img" aria-label="산불등심 - 무교동 음식문화특화거리 한정식 / 백반 / 정통 한식 | 맛집검색 망고플레이트" title="산불등심 - 무교동 음식문화특화거리 한정식 / 백반 / 정통 한식 | 맛집검색 망고플레이트">
-                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/313740_1580529702543515.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="산불등심 사진 - 서울시 중구 다동 127" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
+                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/188707/172778_1585876825134_55760?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="산불등심 사진 - 서울시 중구 다동 127" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
 
                 <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:1,&quot;restaurant_key&quot;:&quot;HuabiTj5pb&quot;});" ng-click="mp20_gallery_open(5, true)">
                   <p class="txt">
@@ -93,9 +93,9 @@
                 </div>
               </figure>
             </figure></div><div class="owl-item" style="width: 400px;"><figure class="list-photo">
-              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/313740_1580529703524732.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
+              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/188707/172778_1585876825134_55762?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
               <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:2,&quot;restaurant_key&quot;:&quot;HuabiTj5pb&quot;});" ng-click="mp20_gallery_open(2)" role="img" aria-label="산불등심 - 무교동 음식문화특화거리 한정식 / 백반 / 정통 한식 | 맛집검색 망고플레이트" title="산불등심 - 무교동 음식문화특화거리 한정식 / 백반 / 정통 한식 | 맛집검색 망고플레이트">
-                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/313740_1580529703524732.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="산불등심 사진 - 서울시 중구 다동 127" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
+                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/188707/172778_1585876825134_55762?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="산불등심 사진 - 서울시 중구 다동 127" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
 
                 <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:2,&quot;restaurant_key&quot;:&quot;HuabiTj5pb&quot;});" ng-click="mp20_gallery_open(5, true)">
                   <p class="txt">
@@ -105,9 +105,9 @@
                 </div>
               </figure>
             </figure></div><div class="owl-item" style="width: 400px;"><figure class="list-photo">
-              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/313740_1580529703834422.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
+              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/188707/172778_1585876825134_55758?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
               <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:3,&quot;restaurant_key&quot;:&quot;HuabiTj5pb&quot;});" ng-click="mp20_gallery_open(3)" role="img" aria-label="산불등심 - 무교동 음식문화특화거리 한정식 / 백반 / 정통 한식 | 맛집검색 망고플레이트" title="산불등심 - 무교동 음식문화특화거리 한정식 / 백반 / 정통 한식 | 맛집검색 망고플레이트">
-                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/313740_1580529703834422.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="산불등심 사진 - 서울시 중구 다동 127" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
+                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/188707/172778_1585876825134_55758?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="산불등심 사진 - 서울시 중구 다동 127" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
 
                 <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:3,&quot;restaurant_key&quot;:&quot;HuabiTj5pb&quot;});" ng-click="mp20_gallery_open(5, true)">
                   <p class="txt">
@@ -117,9 +117,9 @@
                 </div>
               </figure>
             </figure></div><div class="owl-item" style="width: 400px;"><figure class="list-photo">
-              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/313740_1580529704097431.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
+              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/188707/172778_1585876825134_55764?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
               <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:4,&quot;restaurant_key&quot;:&quot;HuabiTj5pb&quot;});" ng-click="mp20_gallery_open(4)" role="img" aria-label="산불등심 - 무교동 음식문화특화거리 한정식 / 백반 / 정통 한식 | 맛집검색 망고플레이트" title="산불등심 - 무교동 음식문화특화거리 한정식 / 백반 / 정통 한식 | 맛집검색 망고플레이트">
-                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/313740_1580529704097431.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="산불등심 사진 - 서울시 중구 다동 127" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
+                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/188707/172778_1585876825134_55764?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="산불등심 사진 - 서울시 중구 다동 127" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
 
                 <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:4,&quot;restaurant_key&quot;:&quot;HuabiTj5pb&quot;});" ng-click="mp20_gallery_open(5, true)" style="display: block;">
                   <p class="txt">
@@ -148,7 +148,7 @@
                 <span class="title">
                   <h1 class="restaurant_name">산불등심</h1>
                     <strong class="rate-point expected">
-                      <span>3.9</span>
+                      <span>3.8</span>
                     </strong>
 
                   <p class="branch"></p>
@@ -171,9 +171,9 @@
               <div class="status
                 branch_none
                 ">
-                <span class="cnt hit">8,208</span>
-                <span class="cnt review">13</span>
-                <span class="cnt favorite">186</span>
+                <span class="cnt hit">8,318</span>
+                <span class="cnt review">14</span>
+                <span class="cnt favorite">187</span>
               </div>
             </header>
 
@@ -373,27 +373,27 @@
                 </li>
             </ul>
 
-          <div class="ad_area info only-desktop" id="web_desktop-restaurant-info"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-info-content" data-google-query-id="CNfChtf3yOgCFcOBvQodZVcNfw"><div id="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="1" data-load-complete="true"></iframe></div></div></div></div>
+          <div class="ad_area info only-desktop" id="web_desktop-restaurant-info"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-info-content" data-google-query-id="CL7ejp2GzOgCFU8OKgodO00OQg"><div id="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="1" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-load-complete="true"></iframe></div></div></div></div>
           <div class="ad_area info only-mobile" id="web_mobile-restaurant-info"><div class="ad_wrap"><div class="content" id="web_mobile-restaurant-info-content"></div></div></div>
 
-          <script id="reviewCountInfo" type="application/json">[{"action_value":1,"count":4},{"action_value":2,"count":1},{"action_value":3,"count":8}]</script>
+          <script id="reviewCountInfo" type="application/json">[{"action_value":1,"count":4},{"action_value":2,"count":1},{"action_value":3,"count":9}]</script>
           <section class="RestaurantReviewList">
             <header class="RestaurantReviewList__Header">
               <h2 class="RestaurantReviewList__Title">
                 <span class="RestaurantReviewList__RestaurantName">산불등심</span><span class="RestaurantReviewList__RestaurantNameSuffixDesktop">리뷰</span><span class="RestaurantReviewList__RestaurantNameSuffixMobile">의 리뷰</span>
-              <span class="RestaurantReviewList__AllCount">13</span></h2>
+              <span class="RestaurantReviewList__AllCount">14</span></h2>
 
               <ul class="RestaurantReviewList__FilterList">
                 <li class="RestaurantReviewList__FilterItem">
                   <button class="RestaurantReviewList__FilterButton RestaurantReviewList__FilterButton--Selected RestaurantReviewList__AllFilterButton">
                     전체
-                  <span class="RestaurantReviewList__ReviewCount">13</span></button>
+                  <span class="RestaurantReviewList__ReviewCount">14</span></button>
                 </li>
 
                 <li class="RestaurantReviewList__FilterItem">
                   <button class="RestaurantReviewList__FilterButton RestaurantReviewList__RecommendFilterButton">
                     맛있다
-                  <span class="RestaurantReviewList__ReviewCount">8</span></button>
+                  <span class="RestaurantReviewList__ReviewCount">9</span></button>
                 </li>
 
                 <li class="RestaurantReviewList__FilterItem">
@@ -413,6 +413,71 @@
             <ul class="RestaurantReviewList__ReviewList">
 
             <li class="RestaurantReviewItem RestaurantReviewList__ReviewItem">
+  <a class="RestaurantReviewItem__Link" href="/reviews/NzMwMjc3" target="_blank">
+    <div class="RestaurantReviewItem__User">
+      <div class="RestaurantReviewItem__UserPictureWrap">
+        <img class="RestaurantReviewItem__UserPicture" data-src="https://s3-ap-northeast-2.amazonaws.com/mp-seoul-image-production/172778_1567168872599?fit=around|56:56&amp;crop=56:56;*,*&amp;output-format=jpg&amp;output-quality=80" alt="user profile picture">
+      </div>
+      
+      <span class="RestaurantReviewItem__UserNickName">예랑</span>
+
+      <ul class="RestaurantReviewItem__UserStat">
+        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">1031</li>
+        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Follower">445</li>
+      </ul>
+      
+      <i class="RestaurantReviewItem__HolicBadge"></i>
+    </div>
+
+    <div class="RestaurantReviewItem__ReviewContent">
+      <div class="RestaurantReviewItem__ReviewTextWrap">
+
+        <p class="RestaurantReviewItem__ReviewText">
+          한줄평: 강된장 같은 소고기 된장찌개가 맛있는 레트로'풍'이 아닌 세월이 묻어나는 노포.<br><br>을지로 다동무교동 먹자골목에는 허름한 외관의 가게들이 즐비하다. 그중에서도 간판의 글씨 중에서 숯불구이전문이라는 글씨는 이미 떨어져나가 희미해지고, '점심 소고기 된장찌게'(된장찌개가 바른 표현이다)라는 메뉴판에서 내공이 느껴지는 곳이 있었다. 바로 이곳 산불등심.<br>⠀<br>이 작고 허름한 노포에는 코로나19가 무엇이냐고 비웃듯이 인산인해다. 점심에는 소고기 된장찌개를 찾는 사람으로 북적이고, 저녁이면 등심을 구워먹으려는 사람들로 가득하다.<br>⠀<br>실내 벽지는 오랜 세월과 함께 누렇게 빛바랬으며, 손으로 써붙인 차림표는 정겹다 못해 시크함까지 느껴진다. 추울까봐 안에 기름넣는 난로가 위치해있고, 밥솥이며냉장고며 전부 내 나이만큼은, 아니 어쩌면 나보다 더 나이 들었을지도 모를것 같다는 생각이 들었다.<br>⠀<br>점심에 자리에 앉자마자 우리는 아무 말도 하지 않았는데, 인원수에 맞게 소고기 된장찌개가 나온다. 이곳의 된장찌개는 마치 강된장 같은 비주얼이다. 국물이 자작한데 진하다.<br>⠀<br>일단 한입 먹어본다. 오호라. 찐한데 인공적인 맛이 아니다. 간이 좀 세서 간간하지만, 맛있다. 매울줄 알았는데 맵지 않았다.<br>⠀<br>같이 준 큰 대접에 밥 한공기와 반찬으로 나온 콩나물을 넣고, 된장찌개를 잘 담아서 챱챱 비벼먹어봤다. 와우. 진짜 맛있다 &gt;_&lt; 안에 들어있는 두부랑 소고기는 몇시간을 푸욱 고와서 그런건지 이미 된장에 쩔어있는 느낌이다. 이런 두부 참 좋아한다.<br>⠀<br>손님이 평소보다는 없어서인지 아님 된장찌개 건더기가 조금 약해서인지 고등어조림을 서비스로 주신다. 이 또한 된장이 맛있어서인지 아주 맛있다. 완전 밥도둑이 따로 없다.<br>⠀<br>오랜 기간 사랑받는 집들은 다 이유가 있다. 물론 위치가 좋다는 점도 있지만, 그 맛의 깊이와 한결같음이 느껴진다. 레트로풍이 유행하는 시기에 레트로가 아니라 그냥 오랜 시간을 품고 있는 이곳은 많은 이들이 사랑할수밖에 없는 공간이란 생각이다.<br>⠀
+        </p>
+
+        
+        <span class="RestaurantReviewItem__ReviewDate">8 분 전</span>
+      </div>
+      
+      <ul class="RestaurantReviewItem__PictureList">
+      <li class="RestaurantReviewItem__PictureItem">
+        <button class="RestaurantReviewItem__PictureButton" data-index="0">
+          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/188707/172778_1585876825134_55760?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
+          
+        </button>
+      </li>
+
+      <li class="RestaurantReviewItem__PictureItem">
+        <button class="RestaurantReviewItem__PictureButton" data-index="1">
+          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/188707/172778_1585876825134_55762?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
+          
+        </button>
+      </li>
+
+      <li class="RestaurantReviewItem__PictureItem">
+        <button class="RestaurantReviewItem__PictureButton" data-index="2">
+          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/188707/172778_1585876825134_55758?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
+          
+        </button>
+      </li>
+
+      <li class="RestaurantReviewItem__PictureItem">
+        <button class="RestaurantReviewItem__PictureButton" data-index="3">
+          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/188707/172778_1585876825134_55764?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
+          <div class="RestaurantReviewItem__PictureDeem">+6</div>
+        </button>
+      </li>
+</ul>
+    </div>
+
+    <div class="RestaurantReviewItem__Rating RestaurantReviewItem__Rating--Recommend">
+      <span class="RestaurantReviewItem__RatingText">맛있다</span>
+    </div>
+    
+    
+  </a>
+</li><li class="RestaurantReviewItem RestaurantReviewList__ReviewItem">
   <a class="RestaurantReviewItem__Link" href="/reviews/NzI5ODA4" target="_blank">
     <div class="RestaurantReviewItem__User">
       <div class="RestaurantReviewItem__UserPictureWrap">
@@ -437,7 +502,7 @@
         </p>
 
         
-        <span class="RestaurantReviewItem__ReviewDate">15 시간 전</span>
+        <span class="RestaurantReviewItem__ReviewDate">1 일 전</span>
       </div>
       
       
@@ -525,7 +590,7 @@
 
       <ul class="RestaurantReviewItem__UserStat">
         <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">1066</li>
-        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Follower">1697</li>
+        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Follower">1698</li>
       </ul>
       
       <i class="RestaurantReviewItem__HolicBadge"></i>
@@ -598,43 +663,6 @@
 
         
         <span class="RestaurantReviewItem__ReviewDate">2017-11-04</span>
-      </div>
-      
-      
-    </div>
-
-    <div class="RestaurantReviewItem__Rating RestaurantReviewItem__Rating--DoNotRecommend">
-      <span class="RestaurantReviewItem__RatingText">별로</span>
-    </div>
-    
-    
-  </a>
-</li><li class="RestaurantReviewItem RestaurantReviewList__ReviewItem">
-  <a class="RestaurantReviewItem__Link" href="/reviews/MzIwNDMz" target="_blank">
-    <div class="RestaurantReviewItem__User">
-      <div class="RestaurantReviewItem__UserPictureWrap">
-        <img class="RestaurantReviewItem__UserPicture" data-src="http://mud-kage.kakao.co.kr/14/dn/btqe2cSVAP8/gGVFTF6yLT9UUcKBeoYWMK/o.jpg?fit=around|56:56&amp;crop=56:56;*,*&amp;output-format=jpg&amp;output-quality=80" alt="user profile picture">
-      </div>
-      
-      <span class="RestaurantReviewItem__UserNickName">ctyn</span>
-
-      <ul class="RestaurantReviewItem__UserStat">
-        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">51</li>
-        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Follower">1</li>
-      </ul>
-      
-      
-    </div>
-
-    <div class="RestaurantReviewItem__ReviewContent">
-      <div class="RestaurantReviewItem__ReviewTextWrap">
-
-        <p class="RestaurantReviewItem__ReviewText">
-          그유명한 된장찌개는 얼마나 조렸는지 찌개가아니라 깡장맛 짜기만하고 별로였음 
-        </p>
-
-        
-        <span class="RestaurantReviewItem__ReviewDate">2017-03-18</span>
       </div>
       
       
@@ -851,7 +879,7 @@
       <div class="NearByRestaurantItem__Content">
         <div class="NearByRestaurantItem__NameWrap">
           <a class="NearByRestaurantItem__Name" href="/restaurants/uAjNY4QW79">원흥</a>
-          <span class="NearByRestaurantItem__Rating ">3.9</span>
+          <span class="NearByRestaurantItem__Rating ">3.8</span>
         </div>
   
         <div class="NearByRestaurantItem__MetroAndCuisine">
@@ -974,7 +1002,7 @@
               </section>
           </div>
 
-          <div class="ad_area right_map only-desktop" id="web_desktop-restaurant-right_map"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-right_map-content" data-google-query-id="CNjChtf3yOgCFcOBvQodZVcNfw"><div id="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0" width="336" height="280" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="2" data-load-complete="true"></iframe></div></div></div></div>
+          <div class="ad_area right_map only-desktop" id="web_desktop-restaurant-right_map"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-right_map-content" data-google-query-id="CL_ejp2GzOgCFU8OKgodO00OQg"><div id="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0" width="336" height="280" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="2" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-load-complete="true"></iframe></div></div></div></div>
 
         </div>
       </div>
@@ -999,7 +1027,7 @@
         <div class="click_share">공유 꾹!</div>
         <button class="share">
           <span class="kakao_share kakaotalk_share_btn" onclick="trackEvent('CLICK_SHARE_KAKAO_FLOATING_MAP','','','PG_RESTAURANT')" data-content="CLICK_SHARE_KAKAO_FLOATING" data-term="v1" data-message="'산불등심'
-망고플레이트 평점: 3.9 / 5.0
+망고플레이트 평점: 3.8 / 5.0
 한정식 / 백반 / 정통 한식
 주소: 서울시 중구 다동 127
 전화: 02-754-7584
@@ -1013,7 +1041,7 @@
       <div class="share-list-divid first">
 
         <button class="share small">
-          <span class="mail mail_share_btn" onclick="trackEvent('CLICK_SHARE_EMAIL_FLOATING','','','PG_RESTAURANT')" data-content="CLICK_SHARE_EMAIL_FLOATING" data-term="v1" data-title="산불등심 - 무교동 음식문화특화거리 한정식 / 백반 / 정통 한식 | 맛집검색 망고플레이트" data-message="8006명이 방문하고 싶어하는 무교동 음식문화특화거리 맛집 산불등심의 평점은 3.9/5점 입니다. 산불등심을(를) 대표하는 키워드는 소고기입니다." data-url="https://www.mangoplate.com/restaurants/HuabiTj5pb"></span>
+          <span class="mail mail_share_btn" onclick="trackEvent('CLICK_SHARE_EMAIL_FLOATING','','','PG_RESTAURANT')" data-content="CLICK_SHARE_EMAIL_FLOATING" data-term="v1" data-title="산불등심 - 무교동 음식문화특화거리 한정식 / 백반 / 정통 한식 | 맛집검색 망고플레이트" data-message="8265명이 방문하고 싶어하는 무교동 음식문화특화거리 맛집 산불등심의 평점은 3.8/5점 입니다. 산불등심을(를) 대표하는 키워드는 소고기입니다." data-url="https://www.mangoplate.com/restaurants/HuabiTj5pb"></span>
         </button>
         <button class="share small">
           <span class="band band_share_btn" onclick="trackEvent('CLICK_SHARE_BAND_FLOATING','','','PG_RESTAURANT')" data-content="CLICK_SHARE_BAND_FLOATING" data-term="v1" data-message="산불등심 - 무교동 음식문화특화거리 한정식 / 백반 / 정통 한식 | 맛집검색 망고플레이트" data-url="https://www.mangoplate.com/restaurants/HuabiTj5pb"></span>
@@ -1843,7 +1871,7 @@
         </div></div><div id="mCSB_2_scrollbar_vertical" class="mCSB_scrollTools mCSB_2_scrollbar mCS-minimal-dark mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_2_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 50px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 50px;"></div></div><div class="mCSB_draggerRail"></div></div></div><div id="mCSB_2_scrollbar_horizontal" class="mCSB_scrollTools mCSB_2_scrollbar mCS-minimal-dark mCSB_scrollTools_horizontal" style="display: block;"><div class="mCSB_draggerContainer"><div id="mCSB_2_dragger_horizontal" class="mCSB_dragger" style="position: absolute; min-width: 50px; display: block; width: 0px; left: 0px;"><div class="mCSB_dragger_bar"></div></div><div class="mCSB_draggerRail"></div></div></div></div>
 
         <div class="info_area_footer">
-          <div class="ad_area gallery_right_review only-desktop" id="web_desktop-restaurant-gallery_right_review"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-gallery_right_review-content" data-google-query-id="CNnChtf3yOgCFcOBvQodZVcNfw"><div id="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0" width="336" height="280" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" data-google-container-id="3" data-load-complete="true" style="border: 0px; vertical-align: bottom;"></iframe></div></div></div></div>
+          <div class="ad_area gallery_right_review only-desktop" id="web_desktop-restaurant-gallery_right_review"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-gallery_right_review-content" data-google-query-id="CMDejp2GzOgCFU8OKgodO00OQg"><div id="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0" width="336" height="280" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" data-google-container-id="3" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div></div></div>
 
           <div class="source_notice ng-hide" ng-show="review_content.type == 'insta'">
             <div class="inner">
@@ -1934,4 +1962,4 @@
 
 
 
-<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div><iframe src="https://tpc.googlesyndication.com/sodar/sodar2/209/runner.html" width="0" height="0" style="display: none;"></iframe></body></html>
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div><script type="text/javascript" src="//tpc.googlesyndication.com/sodar/sodar2.js"></script></body></html>

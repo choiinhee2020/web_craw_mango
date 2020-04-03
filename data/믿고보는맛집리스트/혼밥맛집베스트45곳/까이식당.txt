@@ -4,38 +4,38 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <meta name="format-detection" content="telephone=no">
-  <meta name="subject" content="하우스베이커리 - 양평군 카페 / 디저트 | 맛집검색 망고플레이트">
-  <meta name="description" content="15398명이 방문하고 싶어하는 양평군 맛집 하우스베이커리의 평점은 3.7/5점 입니다. 하우스베이커리의 리뷰, 영업시간, 그리고 비슷한 레스토랑을 알아보세요.">
-  <meta name="keywords" content="반려견동반가능">
-  <meta name="image" content="https://mp-seoul-image-production-s3.mangoplate.com/4597_1530448919826368.jpg">
+  <meta name="subject" content="까이식당 - 이대역 다국적 아시아 음식 | 맛집검색 망고플레이트">
+  <meta name="description" content="107372명이 방문하고 싶어하는 이대역 맛집 까이식당의 평점은 4.5/5점 입니다. 까이식당의 리뷰, 영업시간, 그리고 비슷한 레스토랑을 알아보세요.">
+  <meta name="keywords" content="혼밥, 이화여대, 강북, 2018 인기, 생활의달인, 세계음식, Ewha Womans University, 2020망고플레이트인기맛집">
+  <meta name="image" content="https://mp-seoul-image-production-s3.mangoplate.com/255733/327827_1472963019812_54333">
 
   <!-- Follow RDFa Meta-->
-  <meta property="og:url" content="https://www.mangoplate.com/restaurants/w3eKhWMaDCs_">
+  <meta property="og:url" content="https://www.mangoplate.com/restaurants/GvZWLg7ps9w_">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="하우스베이커리 - 양평군 카페 / 디저트 | 맛집검색 망고플레이트">
-  <meta property="og:description" content="15398명이 방문하고 싶어하는 양평군 맛집 하우스베이커리의 평점은 3.7/5점 입니다. 하우스베이커리의 리뷰, 영업시간, 그리고 비슷한 레스토랑을 알아보세요.">
-  <meta property="og:image" content="https://mp-seoul-image-production-s3.mangoplate.com/4597_1530448919826368.jpg">
+  <meta property="og:title" content="까이식당 - 이대역 다국적 아시아 음식 | 맛집검색 망고플레이트">
+  <meta property="og:description" content="107372명이 방문하고 싶어하는 이대역 맛집 까이식당의 평점은 4.5/5점 입니다. 까이식당의 리뷰, 영업시간, 그리고 비슷한 레스토랑을 알아보세요.">
+  <meta property="og:image" content="https://mp-seoul-image-production-s3.mangoplate.com/255733/327827_1472963019812_54333">
 
-  <link rel="amphtml" href="https://www.mangoplate.com/amp/restaurants/w3eKhWMaDCs_">
+  <link rel="amphtml" href="https://www.mangoplate.com/amp/restaurants/GvZWLg7ps9w_">
   <!-- Twitter Meta -->
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:site" content="@MangoPlate">
-<meta property="twitter:url" content="https://www.mangoplate.com/restaurants/w3eKhWMaDCs_">
-<meta property="twitter:title" content="하우스베이커리 - 양평군 카페 / 디저트 | 맛집검색 망고플레이트">
-<meta property="twitter:description" content="15398명이 방문하고 싶어하는 양평군 맛집 하우스베이커리의 평점은 3.7/5점 입니다. 하우스베이커리의 리뷰, 영업시간, 그리고 비슷한 레스토랑을 알아보세요.">
-<meta property="twitter:image" content="https://mp-seoul-image-production-s3.mangoplate.com/4597_1530448919826368.jpg">
+<meta property="twitter:url" content="https://www.mangoplate.com/restaurants/GvZWLg7ps9w_">
+<meta property="twitter:title" content="까이식당 - 이대역 다국적 아시아 음식 | 맛집검색 망고플레이트">
+<meta property="twitter:description" content="107372명이 방문하고 싶어하는 이대역 맛집 까이식당의 평점은 4.5/5점 입니다. 까이식당의 리뷰, 영업시간, 그리고 비슷한 레스토랑을 알아보세요.">
+<meta property="twitter:image" content="https://mp-seoul-image-production-s3.mangoplate.com/255733/327827_1472963019812_54333">
   
 	<meta property="fb:app_id" content="476661545693695">
-	<meta property="al:ios:url" content="mangoplate://restaurants?key=w3eKhWMaDCs_">
+	<meta property="al:ios:url" content="mangoplate://restaurants?key=GvZWLg7ps9w_">
 	<meta property="al:ios:app_store_id" content="628509224">
 	<meta property="al:ios:app_name" content="MangoPlate">
 
-  <meta property="al:android:url" content="mangoplate://restaurants?key=w3eKhWMaDCs_">
+  <meta property="al:android:url" content="mangoplate://restaurants?key=GvZWLg7ps9w_">
 	<meta property="al:android:package" content="com.mangoplate">
 	<meta property="al:android:app_name" content="MangoPlate">
 
 
-  <title>하우스베이커리 - 양평군 카페 / 디저트 | 맛집검색 망고플레이트</title>
+  <title>까이식당 - 이대역 다국적 아시아 음식 | 맛집검색 망고플레이트</title>
 
   <link rel="stylesheet" media="screen" href="/assets/dist/restaurant-d5da25454a36293da49e759981befc09e3fe537592231f9e92cc53f32c4431b8.css">
 
@@ -43,37 +43,37 @@
   <link rel="shortcut icon" href="/assets/favicon.ico">
 
   <!-- Representative URL Setting-->
-   <link rel="canonical" href="https://www.mangoplate.com/restaurants/w3eKhWMaDCs_">
-    <link rel="alternate" href="https://www.mangoplate.com/restaurants/w3eKhWMaDCs_" hreflang="ko">
-    <link rel="alternate" href="https://www.mangoplate.com/en/restaurants/w3eKhWMaDCs_" hreflang="en">
-    <link rel="alternate" href="https://www.mangoplate.com/zh/restaurants/w3eKhWMaDCs_" hreflang="zh">
+   <link rel="canonical" href="https://www.mangoplate.com/restaurants/GvZWLg7ps9w_">
+    <link rel="alternate" href="https://www.mangoplate.com/restaurants/GvZWLg7ps9w_" hreflang="ko">
+    <link rel="alternate" href="https://www.mangoplate.com/en/restaurants/GvZWLg7ps9w_" hreflang="en">
+    <link rel="alternate" href="https://www.mangoplate.com/zh/restaurants/GvZWLg7ps9w_" hreflang="zh">
 
-  <script src="https://cdn.ampproject.org/rtv/012003171848440/amp4ads-host-v0.js"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_2020032302.js?21065793"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="https://connect.facebook.net/ko_KR/sdk.js?hash=6542d90032f3dfcaa438316412696459&amp;ua=modern_es6" async="" crossorigin="anonymous"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
-  <script type="application/ld+json">{"@type":"LocalBusiness","name":"하우스베이커리","telephone":"031-772-8333","address":{"@type":"PostalAddress","addressCountry":"","addressLocality":"","addressRegion":"","postOfficeBoxNumber":"","postalCode":"","streetAddress":"경기도 양평군 서종면 문호리 338-1"},"image":"https://mp-seoul-image-production-s3.mangoplate.com/4597_1530448919826368.jpg","priceRange":"만원 미만","url":"https://www.mangoplate.com/restaurants/w3eKhWMaDCs_","review":[{"@type":"Review","datePublished":"2020-02-29 12:28:22","author":"ㄱ๑❛ᴗ❛๑","description":"가격이 깡패라 가성비가좋지않음...\n한번쯤은가보는것도...한번쯤이다..\n포토 인별그램을위한다면 ㅋㅋㅋㅋ\n이쁘기도하고 맛도있다\n크루와상은맛있었지만 \n타르트가 내스타일이아니였으니까\n\n"},{"@type":"Review","datePublished":"2020-02-05 23:16:45","author":"맛 seeker","description":"빵순이의 성지같은 곳! 한옥인테리어가 너무 이쁘고 가게가 넓어서 구경하기에도 좋다! 친구들과 가족들과 나들이 가기에 너무너무 좋은 곳:)\n\n주차 편하구 안으로 들어가면 한옥으로 되어있는 여러개 건물이 있어요. 그중 한곳만 빵과 커피를 살 수있고 나머지는 좌석으로 아무곳에나 앉아서 커피와 빵을 즐길 수 있습니다. \n\n빵이 정말 종류도 많고 너무 맛있어요. 저 케익들 자태를 보고 저와 친구들 모두 이성을 잃었습니다. 너무 이쁘지 않나요?!! 맛도 좋습니다. \n\n자리는 꽤 넓은데 그만큼 손님도 많아서 자리잡기가 힘들어요 ㅠㅠ 특히 2,3시 이후에 점심먹고 나서 들르는 손님들에 많습니다. 저는 점 일찍가서 그시간에 나왔는데 나올때쯤 진짜 사람들이 많았어요! 화장실이 몇개 없어서 화장실 줄이 기니 일찍일찍 화장실에 가야합니다!"},{"@type":"Review","datePublished":"2020-01-05 11:14:11","author":"연건동맛동산","description":"하우스커피 7,000 카푸치노 7,000, 케익 7,700\n이영자가 왔다갔다고 한다. 한옥이 예쁘고 빵들도 하나같이 예쁘다. 양평 두물머리를 갔다가 커피를 마시러 가기에는 신뢰할 만한 옵션이 별로 없다. !!고양이가 있다!!\n위 이유만으로도 사람들이 몰리는 이유를 설명할 수 있다. 주말 아침, 오픈 30분만에 주차장의 절반 이상이 찼고, 카페를 나올 쯤에는 벌써 사람들이 북적이기 시작했다.\n이 집은 장사를 할 줄 안다고 생각했다. 먼저 두물머리 근처에는 마땅한 옵션이 없다는 점. 그리고 두물머리를 방문하는 주 연령대는 중년 부부가 많다는 점. 한옥으로 카페를 설계하고 사진이 예쁘게 담기는 빵을 전진배치한 것은 이 점에서 훌륭한 전략이 된다. 동시에 아이를 동반한 가족손님을 겨냥해 디즈니 공주님들이 올라간 크림빵 (12,000..)을 만들고 아이들이 편지를 적은 빵상자로 트리를 만들어둔다. 공간은 매우 넓고, 따라서 부모님들이 수다를 나누는 사이에 아이들이 뛰어놀기도 좋다. 잔디가 푸르게 돋아나는 봄에 여기를 방문한다면 참 여유롭고 행복하겠다는 생각을 했다.\n이쯤 되면 짐작하겠지만, 가격은 사악하고 맛은 평범하다. 다행이도 표준적인 맛이라 실망하지는 않는다. 문제는 딱 그 정도라는 것. 가격도 공간비용이라 생각하며 끄덕일 만 하다.\n두물머리 방문 후 여유를 만끽하며 커피를 즐길 공간이 필요할 때 추천. 다만 사람들이 얼마나 북적일지..는 감을 잡을 수 없다. 일찍 방문하시길 ㅠ"},{"@type":"Review","datePublished":"2020-01-04 17:58:32","author":"ijjeon","description":"하우스 베이커리~\n\n주말엔 차 댈 곳이 없어 방문하기 힘든...\n각종 빵과 케익들이 즐비하여 주차의 어려움을 잊고\n또 찾아갈만하다~\n\n그래도...기회가 된다면 평일에 방문하여 정원에서\n커피를 만끽하길 추천함"},{"@type":"Review","datePublished":"2019-11-24 12:48:26","author":"서재진","description":"망고 주스 속 망고가 떫다. 빵이 먹음직스러움. 빵 몇개 사는데 가격에 깜놀. 그래도 깔끔한 한옥. 올만하다."}],"aggregateRating":{"@type":"AggregateRating","bestRating":5,"worstRating":0,"ratingValue":3.7,"reviewCount":24},"@context":"http://schema.org","@id":"https://www.mangoplate.com"}</script>
+  <script src="https://cdn.ampproject.org/rtv/012003171848440/amp4ads-host-v0.js"></script><script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_2020032401.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="https://connect.facebook.net/ko_KR/sdk.js?hash=c914e888ebcfb3f091b0d8c5a061f968&amp;ua=modern_es6" async="" crossorigin="anonymous"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script type="application/ld+json">{"@type":"LocalBusiness","name":"까이식당","telephone":"070-7570-0871","address":{"@type":"PostalAddress","addressCountry":"","addressLocality":"","addressRegion":"","postOfficeBoxNumber":"","postalCode":"","streetAddress":"서울시 서대문구 대현동 53-9"},"image":"https://mp-seoul-image-production-s3.mangoplate.com/255733/327827_1472963019812_54333","priceRange":"만원 미만","url":"https://www.mangoplate.com/restaurants/GvZWLg7ps9w_","review":[{"@type":"Review","datePublished":"2020-04-02 00:43:34","author":"주환아빠","description":"쉬는기간에 방문해서 실패!!\n얼마후 식사 성공. 후기 실패!!\n친구랑 다시 방문하고 후기 ^^\n맛있습니다. 부드럽고 깔끔한 닭고기.\n부담스럽지않은 닭육수. 짭쪼름한 양배추.\n많이 기다리며 먹어야할 시간에 \n바로 먹을수 있어서 좋았지만 한편으로는 마음은 무거웠네요. 다들 아자아자."},{"@type":"Review","datePublished":"2020-03-30 22:14:07","author":"Ddo","description":"까이는 옳다. 특히 속 안좋거나 입맛없는 시험기간에 최고"},{"@type":"Review","datePublished":"2020-03-09 00:03:18","author":"양조위","description":"◾️심심하게 맛있게 저렴하게 먹을 수 있는 간단식.\n◽️장점이 곧 단점. 특별하지는 않다."},{"@type":"Review","datePublished":"2020-02-29 19:43:16","author":"우마루","description":"닭육수에 밥 말아서 먹는 삼삼한 맛이에요. 거기다가 아주 아주 약간 향신료 냄새가 나요. "},{"@type":"Review","datePublished":"2020-02-25 13:59:42","author":"999","description":"여기는 천재다 계속 생각나는 맛이야 정말 부드럽고 고소하고 맛있어 걍 체고오"}],"aggregateRating":{"@type":"AggregateRating","bestRating":5,"worstRating":0,"ratingValue":4.5,"reviewCount":96},"@context":"http://schema.org","@id":"https://www.mangoplate.com"}</script>
   <script id="dfp_ads" type="application/json">[{"id":11,"platform":"web_desktop","page":"restaurant","inventory":"gallery_right_review","sizes":[[336,280]],"tag":"/395211568/production/desktop-web.picture-viewer.right-side","enabled":true,"created_at":"2017-05-18T03:41:26.000+09:00","updated_at":"2017-05-18T03:41:26.000+09:00","args":{}},{"id":12,"platform":"web_desktop","page":"restaurant","inventory":"info","sizes":[[728,90]],"tag":"/395211568/production/desktop-web.restaurant.info","enabled":true,"created_at":"2017-05-18T03:41:57.000+09:00","updated_at":"2017-05-18T03:41:58.000+09:00","args":{}},{"id":13,"platform":"web_desktop","page":"restaurant","inventory":"right_map","sizes":[[336,280]],"tag":"/395211568/production/desktop-web.restaurant.right-side","enabled":true,"created_at":"2017-05-18T03:42:19.000+09:00","updated_at":"2017-05-18T03:42:19.000+09:00","args":{}},{"id":15,"platform":"web_mobile","page":"restaurant","inventory":"info","sizes":[[300,250]],"tag":"/395211568/production/mobile-web.restaurant.info","enabled":true,"created_at":"2017-05-18T03:43:06.000+09:00","updated_at":"2017-05-18T03:43:06.000+09:00","args":{}},{"id":17,"platform":"web_mobile","page":"restaurant","inventory":"tag","sizes":[[320,100]],"tag":"/395211568/production/mobile-web.restaurant.bottom","enabled":true,"created_at":"2017-05-18T03:43:49.000+09:00","updated_at":"2017-05-18T03:43:49.000+09:00","args":{}},{"id":54,"platform":"web_mobile","page":"restaurant","inventory":"popop_use_app","sizes":null,"tag":"","enabled":true,"created_at":"2020-01-30T01:49:26.000+09:00","updated_at":"2020-03-05T10:24:08.000+09:00","args":{}},{"id":58,"platform":"web_mobile","page":"restaurant","inventory":"area_use_app","sizes":null,"tag":"","enabled":true,"created_at":"2020-01-30T01:49:26.000+09:00","updated_at":"2020-03-06T12:22:23.000+09:00","args":{}}]</script>
-  <script id="location" type="application/json">{"ip":"220.117.71.146","country_code":"KR","country_name":"South Korea","region_code":"11","region_name":"Seoul","city":"Songpa-dong","zip_code":"05670","time_zone":"Asia/Seoul","latitude":37.5082,"longitude":127.1179,"metro_code":0}</script>
-  <script id="restaurant_info" type="application/json">{"restaurant_uuid":349161,"name":"하우스베이커리","cusine_code":7,"subcusine_code":30,"region_code":3,"metro_code":331,"latitude":"37.5987584","longitude":"127.3533106","restaurant_key":"w3eKhWMaDCs_","action":null,"pictures":[{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"349161/1617531_1582946872512_5850"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"349161/1617531_1582946872512_5851"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"349161/1617531_1582946872512_5852"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"349161/1617531_1582946872513_5848"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"349161/1617531_1582946872513_5847"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"349161/1617531_1582946872513_5853"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"349161/1617531_1582946872513_5849"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"349161/1617531_1582946872513_5765"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"349161/1617531_1582946872513_5762"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"349161/1617531_1582946872513_5764"}],"rating":3.7,"official_rating_available":true,"wannago_count":558,"review_count":24}</script>
-<style type="text/css"></style><link rel="preload" href="https://adservice.google.co.kr/adsid/integrator.js?domain=www.mangoplate.com" as="script"><script type="text/javascript" src="https://adservice.google.co.kr/adsid/integrator.js?domain=www.mangoplate.com"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.mangoplate.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.mangoplate.com"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020032302.js?21065793" async=""></script><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html"><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+  <script id="location" type="application/json">{"ip":"220.117.71.145","country_code":"KR","country_name":"South Korea","region_code":"11","region_name":"Seoul","city":"Songpa-dong","zip_code":"05670","time_zone":"Asia/Seoul","latitude":37.5082,"longitude":127.1179,"metro_code":0}</script>
+  <script id="restaurant_info" type="application/json">{"restaurant_uuid":255733,"name":"까이식당","cusine_code":5,"subcusine_code":39,"region_code":2,"metro_code":30,"latitude":"37.5584681","longitude":"126.946261","restaurant_key":"GvZWLg7ps9w_","action":null,"pictures":[{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"255733/327827_1472963019812_54333"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"255733/1591784_1585755806952_1585755763759.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"255733/1591784_1585755806953_17244"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"1520205_1585574042047911.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"255733/849025_1584068006804_8093"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"1526470_1582972992601532.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"1253616_1582606780599228.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"500445_1582364136759414.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"500445_1582364137570892.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"500445_1582364171554697.jpg"}],"rating":4.5,"official_rating_available":true,"wannago_count":3453,"review_count":96}</script>
+<link rel="preload" href="https://adservice.google.co.kr/adsid/integrator.js?domain=www.mangoplate.com" as="script"><script type="text/javascript" src="https://adservice.google.co.kr/adsid/integrator.js?domain=www.mangoplate.com"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.mangoplate.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.mangoplate.com"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020032401.js" async=""></script><style type="text/css"></style><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html"><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
 .fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
 .fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style></head>
 
 <body onunload="" ng-app="mp20App" class="ng-scope">
 
 
-<script type="text/plain" id="kakao_share_message" charset="utf-8">하우스베이커리 - 오늘도 행복한 한끼! 이 식당은 어떠신가요!?</script>
+<script type="text/plain" id="kakao_share_message" charset="utf-8">까이식당 - 오늘도 행복한 한끼! 이 식당은 어떠신가요!?</script>
 
-<main class="pg-restaurant have-share-sns-another ng-scope" ng-controller="mp20_restaurant_controller" data-restaurant_key="w3eKhWMaDCs_" data-restaurant_name="하우스베이커리" data-metro_str="양평군" data-subcuisine_code_str="카페 / 디저트" data-price_code_str="만원 미만" data-parking_code_str="무료주차 가능" data-review_count="24">
+<main class="pg-restaurant have-share-sns-another ng-scope" ng-controller="mp20_restaurant_controller" data-restaurant_key="GvZWLg7ps9w_" data-restaurant_name="까이식당" data-metro_str="신촌/이대" data-subcuisine_code_str="다국적 아시아 음식" data-price_code_str="만원 미만" data-parking_code_str="주차공간없음" data-review_count="96">
   <article class="contents">
     <!-- 레스토랑 상세 이미지 슬라이드 -->
     <aside class="restaurant-photos">
 
         <div class="list-photo_wrap owl-carousel owl-theme" style="opacity: 1; display: block;">
             <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 4000px; left: 0px; display: block;"><div class="owl-item" style="width: 400px;"><figure class="list-photo">
-              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/349161/1617531_1582946872512_5850?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
-              <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:0,&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;});" ng-click="mp20_gallery_open(0)" role="img" aria-label="하우스베이커리 - 양평군 카페 / 디저트 | 맛집검색 망고플레이트" title="하우스베이커리 - 양평군 카페 / 디저트 | 맛집검색 망고플레이트">
-                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/349161/1617531_1582946872512_5850?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="하우스베이커리 사진 - 경기도 양평군 서종면 문호리 338-1" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
+              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/255733/327827_1472963019812_54333?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
+              <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:0,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;});" ng-click="mp20_gallery_open(0)" role="img" aria-label="까이식당 - 이대역 다국적 아시아 음식 | 맛집검색 망고플레이트" title="까이식당 - 이대역 다국적 아시아 음식 | 맛집검색 망고플레이트">
+                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/255733/327827_1472963019812_54333?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="까이식당 사진 - 서울시 서대문구 대현동 53-9" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
 
-                <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:0,&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;});" ng-click="mp20_gallery_open(5, true)">
+                <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:0,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;});" ng-click="mp20_gallery_open(5, true)">
                   <p class="txt">
                     사진 더보기
                     <span class="arrow-white"></span>
@@ -81,11 +81,11 @@
                 </div>
               </figure>
             </figure></div><div class="owl-item" style="width: 400px;"><figure class="list-photo">
-              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/349161/1617531_1582946872512_5851?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
-              <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:1,&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;});" ng-click="mp20_gallery_open(1)" role="img" aria-label="하우스베이커리 - 양평군 카페 / 디저트 | 맛집검색 망고플레이트" title="하우스베이커리 - 양평군 카페 / 디저트 | 맛집검색 망고플레이트">
-                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/349161/1617531_1582946872512_5851?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="하우스베이커리 사진 - 경기도 양평군 서종면 문호리 338-1" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
+              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/255733/1591784_1585755806952_1585755763759.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
+              <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:1,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;});" ng-click="mp20_gallery_open(1)" role="img" aria-label="까이식당 - 이대역 다국적 아시아 음식 | 맛집검색 망고플레이트" title="까이식당 - 이대역 다국적 아시아 음식 | 맛집검색 망고플레이트">
+                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/255733/1591784_1585755806952_1585755763759.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="까이식당 사진 - 서울시 서대문구 대현동 53-9" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
 
-                <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:1,&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;});" ng-click="mp20_gallery_open(5, true)">
+                <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:1,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;});" ng-click="mp20_gallery_open(5, true)">
                   <p class="txt">
                     사진 더보기
                     <span class="arrow-white"></span>
@@ -93,11 +93,11 @@
                 </div>
               </figure>
             </figure></div><div class="owl-item" style="width: 400px;"><figure class="list-photo">
-              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/349161/1617531_1582946872512_5852?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
-              <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:2,&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;});" ng-click="mp20_gallery_open(2)" role="img" aria-label="하우스베이커리 - 양평군 카페 / 디저트 | 맛집검색 망고플레이트" title="하우스베이커리 - 양평군 카페 / 디저트 | 맛집검색 망고플레이트">
-                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/349161/1617531_1582946872512_5852?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="하우스베이커리 사진 - 경기도 양평군 서종면 문호리 338-1" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
+              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/255733/1591784_1585755806953_17244?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
+              <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:2,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;});" ng-click="mp20_gallery_open(2)" role="img" aria-label="까이식당 - 이대역 다국적 아시아 음식 | 맛집검색 망고플레이트" title="까이식당 - 이대역 다국적 아시아 음식 | 맛집검색 망고플레이트">
+                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/255733/1591784_1585755806953_17244?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="까이식당 사진 - 서울시 서대문구 대현동 53-9" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
 
-                <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:2,&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;});" ng-click="mp20_gallery_open(5, true)">
+                <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:2,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;});" ng-click="mp20_gallery_open(5, true)">
                   <p class="txt">
                     사진 더보기
                     <span class="arrow-white"></span>
@@ -105,11 +105,11 @@
                 </div>
               </figure>
             </figure></div><div class="owl-item" style="width: 400px;"><figure class="list-photo">
-              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/349161/1617531_1582946872513_5848?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
-              <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:3,&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;});" ng-click="mp20_gallery_open(3)" role="img" aria-label="하우스베이커리 - 양평군 카페 / 디저트 | 맛집검색 망고플레이트" title="하우스베이커리 - 양평군 카페 / 디저트 | 맛집검색 망고플레이트">
-                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/349161/1617531_1582946872513_5848?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="하우스베이커리 사진 - 경기도 양평군 서종면 문호리 338-1" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
+              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/1520205_1585574042047911.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
+              <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:3,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;});" ng-click="mp20_gallery_open(3)" role="img" aria-label="까이식당 - 이대역 다국적 아시아 음식 | 맛집검색 망고플레이트" title="까이식당 - 이대역 다국적 아시아 음식 | 맛집검색 망고플레이트">
+                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/1520205_1585574042047911.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="까이식당 사진 - 서울시 서대문구 대현동 53-9" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
 
-                <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:3,&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;});" ng-click="mp20_gallery_open(5, true)">
+                <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:3,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;});" ng-click="mp20_gallery_open(5, true)">
                   <p class="txt">
                     사진 더보기
                     <span class="arrow-white"></span>
@@ -117,11 +117,11 @@
                 </div>
               </figure>
             </figure></div><div class="owl-item" style="width: 400px;"><figure class="list-photo">
-              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/349161/1617531_1582946872513_5847?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
-              <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:4,&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;});" ng-click="mp20_gallery_open(4)" role="img" aria-label="하우스베이커리 - 양평군 카페 / 디저트 | 맛집검색 망고플레이트" title="하우스베이커리 - 양평군 카페 / 디저트 | 맛집검색 망고플레이트">
-                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/349161/1617531_1582946872513_5847?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="하우스베이커리 사진 - 경기도 양평군 서종면 문호리 338-1" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
+              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/255733/849025_1584068006804_8093?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
+              <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:4,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;});" ng-click="mp20_gallery_open(4)" role="img" aria-label="까이식당 - 이대역 다국적 아시아 음식 | 맛집검색 망고플레이트" title="까이식당 - 이대역 다국적 아시아 음식 | 맛집검색 망고플레이트">
+                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/255733/849025_1584068006804_8093?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="까이식당 사진 - 서울시 서대문구 대현동 53-9" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
 
-                <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:4,&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;});" ng-click="mp20_gallery_open(5, true)" style="display: block;">
+                <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:4,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;});" ng-click="mp20_gallery_open(5, true)" style="display: block;">
                   <p class="txt">
                     사진 더보기
                     <span class="arrow-white"></span>
@@ -146,9 +146,9 @@
             <header>
               <div class="restaurant_title_wrap">
                 <span class="title">
-                  <h1 class="restaurant_name">하우스베이커리</h1>
+                  <h1 class="restaurant_name">까이식당</h1>
                     <strong class="rate-point ">
-                      <span>3.7</span>
+                      <span>4.5</span>
                     </strong>
 
                   <p class="branch"></p>
@@ -156,13 +156,13 @@
 
                 <div class="restaurant_action_button_wrap">
 
-                  <button class="review_writing_button" data-restaurant_key="w3eKhWMaDCs_">
+                  <button class="review_writing_button" data-restaurant_key="GvZWLg7ps9w_">
                     <i class="review_writing_button_icon"></i>
                     <span class="review_writing_button_text">리뷰쓰기</span>
                   </button>
 
                   <div class="wannago_wrap">
-                    <button class="btn-type-icon favorite wannago_btn " data-restaurant_uuid="349161" data-action_id=""></button>
+                    <button class="btn-type-icon favorite wannago_btn " data-restaurant_uuid="255733" data-action_id=""></button>
                     <p class="wannago_txt">가고싶다</p>
                   </div>
                 </div>
@@ -171,16 +171,26 @@
               <div class="status
                 branch_none
                 ">
-                <span class="cnt hit">15,442</span>
-                <span class="cnt review">24</span>
-                <span class="cnt favorite">558</span>
+                <span class="cnt hit">107,524</span>
+                <span class="cnt review">96</span>
+                <span class="cnt favorite">3,453</span>
               </div>
             </header>
 
 
             <section class="restaurant_introduce_section_mobile only-mobile">
               <div class="RestaurantIntroduceSection">
-  
+    <section class="RestaurantIntroduceSection__Section RestaurantOwnerSection">
+    <h3 class="RestaurantIntroduceSection__SectionTitle">
+      식당 소개
+    </h3>
+
+    <div class="RestaurantIntroduceSection__SectionContent">
+        <p class="RestaurantOwnerSection__Description">** 7-8월 토,일 휴무</p>
+
+    </div>
+  </section>
+
 
     <div class="RestaurantIntroduceSection__Section CardSlider EatDealFadeSliderSection">
   <div class="SectionLabel SectionLabel--Mint">
@@ -237,19 +247,19 @@
                   <div class="Restaurant__InfoItemMapContainer">
                   </div>
                   <div class="Restaurant__InfoItemLabel">
-                    <div class="Restaurant__InfoItemLabel--RoadAddressText">경기도 양평군 서종면 북한강로 690-6</div>
+                    <div class="Restaurant__InfoItemLabel--RoadAddressText">서울특별시 서대문구 이화여대2가길 24</div>
                       <div class="Restaurant__InfoItemLabel--Address">
                           <span class="Restaurant__InfoAddress--Rectangle">지번</span>
-                        <span class="Restaurant__InfoAddress--Text">경기도 양평군 서종면 문호리 338-1</span>
+                        <span class="Restaurant__InfoAddress--Text">서울시 서대문구 대현동 53-9</span>
                       </div>
 
                   </div>
                 </li>
 
                 <li class="Restaurant__InfoItem">
-                  <a href="tel:031-772-8333">
+                  <a href="tel:070-7570-0871">
                     <div class="Restaurant__InfoItemLabel">
-                      031-772-8333
+                      070-7570-0871
                     </div>
                   </a>
                 </li>
@@ -257,28 +267,27 @@
 
             <!-- 상세 정보 -->
             <table class="info
-              no_menu
               ">
               <caption>레스토랑 상세 정보</caption>
 
               <tbody>
                 <tr class="only-desktop">
                   <th>주소</th>
-                  <td>경기도 양평군 서종면 북한강로 690-6<br>
+                  <td>서울특별시 서대문구 이화여대2가길 24<br>
                         <span class="Restaurant__InfoAddress--Rectangle">지번</span>
-                      <span class="Restaurant__InfoAddress--Text">경기도 양평군 서종면 문호리 338-1</span>
+                      <span class="Restaurant__InfoAddress--Text">서울시 서대문구 대현동 53-9</span>
                   </td>
                 </tr>
 
                 <tr class="only-desktop">
                   <th>전화번호</th>
-                  <td>031-772-8333</td>
+                  <td>070-7570-0871</td>
                 </tr>
 
                 <tr>
                   <th>음식 종류</th>
                   <td>
-                    <span>카페 / 디저트</span>
+                    <span>다국적 아시아 음식</span>
                   </td>
                 </tr>
 
@@ -289,33 +298,65 @@
 
                 <tr>
                   <th>주차</th>
-                  <td>무료주차 가능 </td>
+                  <td>주차공간없음 </td>
                 </tr>
 
                 <tr>
                   <th style="vertical-align:top;">영업시간</th>
-                  <td>09:00 - 22:00</td>
+                  <td>월-금: 11:00 - 19:00<br> 토: 11:00 - 14:00</td>
+                </tr>
+
+                <tr>
+                  <th style="vertical-align:top;">쉬는시간</th>
+                  <td>14:00 - 17:00</td>
                 </tr>
 
 
-
+                <tr>
+                  <th>휴일</th>
+                  <td>일</td>
+                </tr>
 
                 <tr>
                   <th>웹 사이트</th>
                   <td>
-                    <a href="http://www.instagram.com/haus_bakery_moonhori" class="under_line" target="_blank" style="color: black;" onclick="trackEvent('CLICK_RESTO_WEBSITE', {&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;})">
+                    <a href="http://www.instagram.com/bistrogai" class="under_line" target="_blank" style="color: black;" onclick="trackEvent('CLICK_RESTO_WEBSITE', {&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;})">
                       식당 홈페이지로 가기
                     </a>
                   </td>
                 </tr>
 
+                <tr>
+                  <th>메뉴</th>
+                  <td class="menu_td">
+                    <ul class="Restaurant_MenuList">
+                        <li class="Restaurant_MenuItem">
+                          <span class="Restaurant_Menu">치킨라이스</span>
+                            <span class="Restaurant_MenuPrice">7,500원</span>
+                        </li>
+                    </ul>
+                  </td>
+                </tr>
 
+                <tr>
+                  <th>
+                  </th>
+
+                  <td>
+                    <div class="list-thumb-photos size-small">
+                        <button class="btn-thumb" onclick="trackEvent('CLICK_MENU', {&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;})" ng-click="open_menu_picture(0)">
+                          <img class="center-croping lazy" alt="까이식당 메뉴 사진 - 서울시 서대문구 대현동 53-9" data-original="https://mp-seoul-image-production-s3.mangoplate.com/255733/654621_1561947916030_17782?fit=around|63:63&amp;crop=63:63;*,*&amp;output-format=jpg&amp;output-quality=80" data-error="https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC">
+
+                        </button>
+                    </div>
+                  </td>
+                </tr>
               </tbody>
             </table>
 
               <p class="update_date">
                 업데이트
-                : 2018. 5. 11
+                : 2020. 2. 25
               </p>
 
             <div id="reviewListFocusId"></div>
@@ -323,7 +364,17 @@
 
           <section class="restaurant_introduce_section_desktop only-desktop">
             <div class="RestaurantIntroduceSection">
-  
+    <section class="RestaurantIntroduceSection__Section RestaurantOwnerSection">
+    <h3 class="RestaurantIntroduceSection__SectionTitle">
+      식당 소개
+    </h3>
+
+    <div class="RestaurantIntroduceSection__SectionContent">
+        <p class="RestaurantOwnerSection__Description">** 7-8월 토,일 휴무</p>
+
+    </div>
+  </section>
+
 
     
 
@@ -334,52 +385,73 @@
 
             <ul class="Restaurant__TagList only-mobile">
                 <li class="Restaurant__TagItem">
-                  <a class="Restaurant__TagLink" href="/search/반려견동반가능" onclick="trackEvent('CLICK_RELATED_TAG', {&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;,&quot;keyword&quot;:&quot;반려견동반가능&quot;})">#반려견동반가능</a>
+                  <a class="Restaurant__TagLink" href="/search/혼밥" onclick="trackEvent('CLICK_RELATED_TAG', {&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;,&quot;keyword&quot;:&quot;혼밥&quot;})">#혼밥</a>
                 </li>
                 <li class="Restaurant__TagItem">
-                  <a class="Restaurant__TagLink" href="/search/양평군" onclick="trackEvent('CLICK_RELATED_TAG_METRO', {&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;,&quot;keyword&quot;:&quot;양평군&quot;})">#양평군</a>
+                  <a class="Restaurant__TagLink" href="/search/이화여대" onclick="trackEvent('CLICK_RELATED_TAG', {&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;,&quot;keyword&quot;:&quot;이화여대&quot;})">#이화여대</a>
                 </li>
                 <li class="Restaurant__TagItem">
-                  <a class="Restaurant__TagLink" href="/search/카페" onclick="trackEvent('CLICK_RELATED_TAG_SUBCUISINE', {&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;,&quot;keyword&quot;:&quot;카페&quot;})">#카페</a>
+                  <a class="Restaurant__TagLink" href="/search/강북" onclick="trackEvent('CLICK_RELATED_TAG', {&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;,&quot;keyword&quot;:&quot;강북&quot;})">#강북</a>
                 </li>
                 <li class="Restaurant__TagItem">
-                  <a class="Restaurant__TagLink" href="/search/디저트" onclick="trackEvent('CLICK_RELATED_TAG_SUBCUISINE', {&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;,&quot;keyword&quot;:&quot;디저트&quot;})">#디저트</a>
+                  <a class="Restaurant__TagLink" href="/search/2018 인기" onclick="trackEvent('CLICK_RELATED_TAG', {&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;,&quot;keyword&quot;:&quot;2018 인기&quot;})">#2018 인기</a>
+                </li>
+                <li class="Restaurant__TagItem">
+                  <a class="Restaurant__TagLink" href="/search/생활의달인" onclick="trackEvent('CLICK_RELATED_TAG', {&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;,&quot;keyword&quot;:&quot;생활의달인&quot;})">#생활의달인</a>
+                </li>
+                <li class="Restaurant__TagItem">
+                  <a class="Restaurant__TagLink" href="/search/세계음식" onclick="trackEvent('CLICK_RELATED_TAG', {&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;,&quot;keyword&quot;:&quot;세계음식&quot;})">#세계음식</a>
+                </li>
+                <li class="Restaurant__TagItem">
+                  <a class="Restaurant__TagLink" href="/search/Ewha Womans University" onclick="trackEvent('CLICK_RELATED_TAG', {&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;,&quot;keyword&quot;:&quot;Ewha Womans University&quot;})">#Ewha Womans University</a>
+                </li>
+                <li class="Restaurant__TagItem">
+                  <a class="Restaurant__TagLink" href="/search/2020망고플레이트인기맛집" onclick="trackEvent('CLICK_RELATED_TAG', {&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;,&quot;keyword&quot;:&quot;2020망고플레이트인기맛집&quot;})">#2020망고플레이트인기맛집</a>
+                </li>
+                <li class="Restaurant__TagItem">
+                  <a class="Restaurant__TagLink" href="/search/신촌" onclick="trackEvent('CLICK_RELATED_TAG_METRO', {&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;,&quot;keyword&quot;:&quot;신촌&quot;})">#신촌</a>
+                </li>
+                <li class="Restaurant__TagItem">
+                  <a class="Restaurant__TagLink" href="/search/이대" onclick="trackEvent('CLICK_RELATED_TAG_METRO', {&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;,&quot;keyword&quot;:&quot;이대&quot;})">#이대</a>
+                </li>
+                <li class="Restaurant__TagItem">
+                  <a class="Restaurant__TagLink" href="/search/다국적 아시아 음식" onclick="trackEvent('CLICK_RELATED_TAG_SUBCUISINE', {&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;,&quot;keyword&quot;:&quot;다국적 아시아 음식&quot;})">#다국적 아시아 음식</a>
                 </li>
             </ul>
 
-          <div class="ad_area info only-desktop" id="web_desktop-restaurant-info"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-info-content" data-google-query-id="COPDutv2yOgCFUVtvQodWecCYg"><div id="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="1" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-load-complete="true"></iframe></div></div></div></div>
+          <div class="ad_area info only-desktop" id="web_desktop-restaurant-info"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-info-content" data-google-query-id="CMPgjtWFzOgCFcqxlgodCo0F2A"><div id="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0__container__" style="border: 0pt none; display: inline-block; width: 728px; height: 90px;"><iframe frameborder="0" src="https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html" id="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="728" height="90" data-is-safeframe="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="1" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div></div></div>
           <div class="ad_area info only-mobile" id="web_mobile-restaurant-info"><div class="ad_wrap"><div class="content" id="web_mobile-restaurant-info-content"></div></div></div>
 
-          <script id="reviewCountInfo" type="application/json">[{"action_value":1,"count":4},{"action_value":2,"count":9},{"action_value":3,"count":11}]</script>
+          <script id="reviewCountInfo" type="application/json">[{"action_value":1,"count":1},{"action_value":2,"count":23},{"action_value":3,"count":72}]</script>
           <section class="RestaurantReviewList">
             <header class="RestaurantReviewList__Header">
               <h2 class="RestaurantReviewList__Title">
-                <span class="RestaurantReviewList__RestaurantName">하우스베이커리</span><span class="RestaurantReviewList__RestaurantNameSuffixDesktop">리뷰</span><span class="RestaurantReviewList__RestaurantNameSuffixMobile">의 리뷰</span>
-              <span class="RestaurantReviewList__AllCount">24</span></h2>
+                <span class="RestaurantReviewList__RestaurantName">까이식당</span><span class="RestaurantReviewList__RestaurantNameSuffixDesktop">리뷰</span><span class="RestaurantReviewList__RestaurantNameSuffixMobile">의 리뷰</span>
+              <span class="RestaurantReviewList__AllCount">96</span></h2>
 
               <ul class="RestaurantReviewList__FilterList">
                 <li class="RestaurantReviewList__FilterItem">
                   <button class="RestaurantReviewList__FilterButton RestaurantReviewList__FilterButton--Selected RestaurantReviewList__AllFilterButton">
                     전체
-                  <span class="RestaurantReviewList__ReviewCount">24</span></button>
+                  <span class="RestaurantReviewList__ReviewCount">96</span></button>
                 </li>
 
                 <li class="RestaurantReviewList__FilterItem">
                   <button class="RestaurantReviewList__FilterButton RestaurantReviewList__RecommendFilterButton">
                     맛있다
-                  <span class="RestaurantReviewList__ReviewCount">11</span></button>
+                  <span class="RestaurantReviewList__ReviewCount">72</span></button>
                 </li>
 
                 <li class="RestaurantReviewList__FilterItem">
                   <button class="RestaurantReviewList__FilterButton RestaurantReviewList__OkFilterButton">
                     괜찮다
-                  <span class="RestaurantReviewList__ReviewCount">9</span></button>
+                  <span class="RestaurantReviewList__ReviewCount">23</span></button>
                 </li>
 
                 <li class="RestaurantReviewList__FilterItem">
                   <button class="RestaurantReviewList__FilterButton RestaurantReviewList__NotRecommendButton">
                     별로
-                  <span class="RestaurantReviewList__ReviewCount">4</span></button>
+                  <span class="RestaurantReviewList__ReviewCount">1</span></button>
                 </li>
               </ul>
             </header>
@@ -387,276 +459,16 @@
             <ul class="RestaurantReviewList__ReviewList">
 
             <li class="RestaurantReviewItem RestaurantReviewList__ReviewItem">
-  <a class="RestaurantReviewItem__Link" href="/reviews/NzIwNTcy" target="_blank">
+  <a class="RestaurantReviewItem__Link" href="/reviews/NzMwMDAw" target="_blank">
     <div class="RestaurantReviewItem__User">
       <div class="RestaurantReviewItem__UserPictureWrap">
-        <img class="RestaurantReviewItem__UserPicture" data-src="https://k.kakaocdn.net/dn/ysUdu/btqBRv4gGyh/eBb0szASYMFmWZiucRpGoK/img_640x640.jpg?fit=around|56:56&amp;crop=56:56;*,*&amp;output-format=jpg&amp;output-quality=80" alt="user profile picture">
+        <img class="RestaurantReviewItem__UserPicture" data-src="https://s3-ap-northeast-2.amazonaws.com/mp-seoul-image-production/1591784_1581582336082?fit=around|56:56&amp;crop=56:56;*,*&amp;output-format=jpg&amp;output-quality=80" alt="user profile picture">
       </div>
       
-      <span class="RestaurantReviewItem__UserNickName">ㄱ๑❛ᴗ❛๑</span>
+      <span class="RestaurantReviewItem__UserNickName">주환아빠</span>
 
       <ul class="RestaurantReviewItem__UserStat">
-        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">28</li>
-        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Follower">1</li>
-      </ul>
-      
-      
-    </div>
-
-    <div class="RestaurantReviewItem__ReviewContent">
-      <div class="RestaurantReviewItem__ReviewTextWrap">
-
-        <p class="RestaurantReviewItem__ReviewText">
-          가격이 깡패라 가성비가좋지않음...<br>한번쯤은가보는것도...한번쯤이다..<br>포토 인별그램을위한다면 ㅋㅋㅋㅋ<br>이쁘기도하고 맛도있다<br>크루와상은맛있었지만 <br>타르트가 내스타일이아니였으니까<br><br>
-        </p>
-
-        
-        <span class="RestaurantReviewItem__ReviewDate">2020-02-29</span>
-      </div>
-      
-      <ul class="RestaurantReviewItem__PictureList">
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="0">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/349161/1617531_1582946872512_5850?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          
-        </button>
-      </li>
-
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="1">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/349161/1617531_1582946872512_5851?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          
-        </button>
-      </li>
-
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="2">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/349161/1617531_1582946872512_5852?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          
-        </button>
-      </li>
-
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="3">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/349161/1617531_1582946872513_5848?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          <div class="RestaurantReviewItem__PictureDeem">+6</div>
-        </button>
-      </li>
-</ul>
-    </div>
-
-    <div class="RestaurantReviewItem__Rating RestaurantReviewItem__Rating--Ok">
-      <span class="RestaurantReviewItem__RatingText">괜찮다</span>
-    </div>
-    
-    
-  </a>
-</li><li class="RestaurantReviewItem RestaurantReviewList__ReviewItem">
-  <a class="RestaurantReviewItem__Link" href="/reviews/NzEyMDkx" target="_blank">
-    <div class="RestaurantReviewItem__User">
-      <div class="RestaurantReviewItem__UserPictureWrap">
-        <img class="RestaurantReviewItem__UserPicture" data-src="https://s3-ap-northeast-2.amazonaws.com/mp-seoul-image-production/467077_1572486006837?fit=around|56:56&amp;crop=56:56;*,*&amp;output-format=jpg&amp;output-quality=80" alt="user profile picture">
-      </div>
-      
-      <span class="RestaurantReviewItem__UserNickName">맛 seeker</span>
-
-      <ul class="RestaurantReviewItem__UserStat">
-        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">183</li>
-        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Follower">77</li>
-      </ul>
-      
-      <i class="RestaurantReviewItem__HolicBadge"></i>
-    </div>
-
-    <div class="RestaurantReviewItem__ReviewContent">
-      <div class="RestaurantReviewItem__ReviewTextWrap">
-
-        <p class="RestaurantReviewItem__ReviewText">
-          빵순이의 성지같은 곳! 한옥인테리어가 너무 이쁘고 가게가 넓어서 구경하기에도 좋다! 친구들과 가족들과 나들이 가기에 너무너무 좋은 곳:)<br><br>주차 편하구 안으로 들어가면 한옥으로 되어있는 여러개 건물이 있어요. 그중 한곳만 빵과 커피를 살 수있고 나머지는 좌석으로 아무곳에나 앉아서 커피와 빵을 즐길 수 있습니다. <br><br>빵이 정말 종류도 많고 너무 맛있어요. 저 케익들 자태를 보고 저와 친구들 모두 이성을 잃었습니다. 너무 이쁘지 않나요?!! 맛도 좋습니다. <br><br>자리는 꽤 넓은데 그만큼 손님도 많아서 자리잡기가 힘들어요 ㅠㅠ 특히 2,3시 이후에 점심먹고 나서 들르는 손님들에 많습니다. 저는 점 일찍가서 그시간에 나왔는데 나올때쯤 진짜 사람들이 많았어요! 화장실이 몇개 없어서 화장실 줄이 기니 일찍일찍 화장실에 가야합니다!
-        </p>
-
-        
-        <span class="RestaurantReviewItem__ReviewDate">2020-02-05</span>
-      </div>
-      
-      <ul class="RestaurantReviewItem__PictureList">
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="0">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/467077_1580912194537527.jpg?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          
-        </button>
-      </li>
-
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="1">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/467077_1580912197789071.jpg?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          
-        </button>
-      </li>
-
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="2">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/467077_1580912200102280.jpg?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          
-        </button>
-      </li>
-
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="3">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/467077_1580912203868725.jpg?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          
-        </button>
-      </li>
-</ul>
-    </div>
-
-    <div class="RestaurantReviewItem__Rating RestaurantReviewItem__Rating--Recommend">
-      <span class="RestaurantReviewItem__RatingText">맛있다</span>
-    </div>
-    
-    
-  </a>
-</li><li class="RestaurantReviewItem RestaurantReviewList__ReviewItem">
-  <a class="RestaurantReviewItem__Link" href="/reviews/NzAwOTUy" target="_blank">
-    <div class="RestaurantReviewItem__User">
-      <div class="RestaurantReviewItem__UserPictureWrap">
-        <img class="RestaurantReviewItem__UserPicture" data-src="https://s3-ap-northeast-2.amazonaws.com/mp-seoul-image-production/897636_1575193636127?fit=around|56:56&amp;crop=56:56;*,*&amp;output-format=jpg&amp;output-quality=80" alt="user profile picture">
-      </div>
-      
-      <span class="RestaurantReviewItem__UserNickName">연건동맛동산</span>
-
-      <ul class="RestaurantReviewItem__UserStat">
-        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">106</li>
-        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Follower">67</li>
-      </ul>
-      
-      
-    </div>
-
-    <div class="RestaurantReviewItem__ReviewContent">
-      <div class="RestaurantReviewItem__ReviewTextWrap">
-
-        <p class="RestaurantReviewItem__ReviewText">
-          하우스커피 7,000 카푸치노 7,000, 케익 7,700<br>이영자가 왔다갔다고 한다. 한옥이 예쁘고 빵들도 하나같이 예쁘다. 양평 두물머리를 갔다가 커피를 마시러 가기에는 신뢰할 만한 옵션이 별로 없다. !!고양이가 있다!!<br>위 이유만으로도 사람들이 몰리는 이유를 설명할 수 있다. 주말 아침, 오픈 30분만에 주차장의 절반 이상이 찼고, 카페를 나올 쯤에는 벌써 사람들이 북적이기 시작했다.<br>이 집은 장사를 할 줄 안다고 생각했다. 먼저 두물머리 근처에는 마땅한 옵션이 없다는 점. 그리고 두물머리를 방문하는 주 연령대는 중년 부부가 많다는 점. 한옥으로 카페를 설계하고 사진이 예쁘게 담기는 빵을 전진배치한 것은 이 점에서 훌륭한 전략이 된다. 동시에 아이를 동반한 가족손님을 겨냥해 디즈니 공주님들이 올라간 크림빵 (12,000..)을 만들고 아이들이 편지를 적은 빵상자로 트리를 만들어둔다. 공간은 매우 넓고, 따라서 부모님들이 수다를 나누는 사이에 아이들이 뛰어놀기도 좋다. 잔디가 푸르게 돋아나는 봄에 여기를 방문한다면 참 여유롭고 행복하겠다는 생각을 했다.<br>이쯤 되면 짐작하겠지만, 가격은 사악하고 맛은 평범하다. 다행이도 표준적인 맛이라 실망하지는 않는다. 문제는 딱 그 정도라는 것. 가격도 공간비용이라 생각하며 끄덕일 만 하다.<br>두물머리 방문 후 여유를 만끽하며 커피를 즐길 공간이 필요할 때 추천. 다만 사람들이 얼마나 북적일지..는 감을 잡을 수 없다. 일찍 방문하시길 ㅠ
-        </p>
-
-        
-        <span class="RestaurantReviewItem__ReviewDate">2020-01-05</span>
-      </div>
-      
-      <ul class="RestaurantReviewItem__PictureList">
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="0">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/349161/897636_1578190424067_18139?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          
-        </button>
-      </li>
-
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="1">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/349161/897636_1578190424067_18140?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          
-        </button>
-      </li>
-
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="2">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/349161/897636_1578190424067_18141?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          
-        </button>
-      </li>
-
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="3">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/349161/897636_1578190424067_18142?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          <div class="RestaurantReviewItem__PictureDeem">+9</div>
-        </button>
-      </li>
-</ul>
-    </div>
-
-    <div class="RestaurantReviewItem__Rating RestaurantReviewItem__Rating--Ok">
-      <span class="RestaurantReviewItem__RatingText">괜찮다</span>
-    </div>
-    
-    
-  </a>
-</li><li class="RestaurantReviewItem RestaurantReviewList__ReviewItem">
-  <a class="RestaurantReviewItem__Link" href="/reviews/NzAwNjY1" target="_blank">
-    <div class="RestaurantReviewItem__User">
-      <div class="RestaurantReviewItem__UserPictureWrap">
-        <img class="RestaurantReviewItem__UserPicture" data-src="http://k.kakaocdn.net/dn/c60zyM/btqlI3CeX0Q/9rNDW9zbd8orgcbAavYLe0/profile_640x640s.jpg?fit=around|56:56&amp;crop=56:56;*,*&amp;output-format=jpg&amp;output-quality=80" alt="user profile picture">
-      </div>
-      
-      <span class="RestaurantReviewItem__UserNickName">ijjeon</span>
-
-      <ul class="RestaurantReviewItem__UserStat">
-        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">18</li>
-        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Follower">1</li>
-      </ul>
-      
-      
-    </div>
-
-    <div class="RestaurantReviewItem__ReviewContent">
-      <div class="RestaurantReviewItem__ReviewTextWrap">
-
-        <p class="RestaurantReviewItem__ReviewText">
-          하우스 베이커리~<br><br>주말엔 차 댈 곳이 없어 방문하기 힘든...<br>각종 빵과 케익들이 즐비하여 주차의 어려움을 잊고<br>또 찾아갈만하다~<br><br>그래도...기회가 된다면 평일에 방문하여 정원에서<br>커피를 만끽하길 추천함
-        </p>
-
-        
-        <span class="RestaurantReviewItem__ReviewDate">2020-01-04</span>
-      </div>
-      
-      <ul class="RestaurantReviewItem__PictureList">
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="0">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/349161/1027649_1578128296645_24208?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          
-        </button>
-      </li>
-
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="1">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/349161/1027649_1578128296646_24212?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          
-        </button>
-      </li>
-
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="2">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/349161/1027649_1578128296646_24211?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          
-        </button>
-      </li>
-
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="3">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/349161/1027649_1578128296646_24213?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          <div class="RestaurantReviewItem__PictureDeem">+2</div>
-        </button>
-      </li>
-</ul>
-    </div>
-
-    <div class="RestaurantReviewItem__Rating RestaurantReviewItem__Rating--Recommend">
-      <span class="RestaurantReviewItem__RatingText">맛있다</span>
-    </div>
-    
-    
-  </a>
-</li><li class="RestaurantReviewItem RestaurantReviewList__ReviewItem">
-  <a class="RestaurantReviewItem__Link" href="/reviews/Njg0NjIw" target="_blank">
-    <div class="RestaurantReviewItem__User">
-      <div class="RestaurantReviewItem__UserPictureWrap">
-        <img class="RestaurantReviewItem__UserPicture" data-src="http://k.kakaocdn.net/dn/bjLcrh/btquvNYaGOH/GfvIpZk5CGvJE790nRUsqK/profile_640x640s.jpg?fit=around|56:56&amp;crop=56:56;*,*&amp;output-format=jpg&amp;output-quality=80" alt="user profile picture">
-      </div>
-      
-      <span class="RestaurantReviewItem__UserNickName">서재진</span>
-
-      <ul class="RestaurantReviewItem__UserStat">
-        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">5</li>
+        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">7</li>
         <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Follower">0</li>
       </ul>
       
@@ -667,17 +479,149 @@
       <div class="RestaurantReviewItem__ReviewTextWrap">
 
         <p class="RestaurantReviewItem__ReviewText">
-          망고 주스 속 망고가 떫다. 빵이 먹음직스러움. 빵 몇개 사는데 가격에 깜놀. 그래도 깔끔한 한옥. 올만하다.
+          쉬는기간에 방문해서 실패!!<br>얼마후 식사 성공. 후기 실패!!<br>친구랑 다시 방문하고 후기 ^^<br>맛있습니다. 부드럽고 깔끔한 닭고기.<br>부담스럽지않은 닭육수. 짭쪼름한 양배추.<br>많이 기다리며 먹어야할 시간에 <br>바로 먹을수 있어서 좋았지만 한편으로는 마음은 무거웠네요. 다들 아자아자.
         </p>
 
         
-        <span class="RestaurantReviewItem__ReviewDate">2019-11-24</span>
+        <span class="RestaurantReviewItem__ReviewDate">1 일 전</span>
       </div>
       
       <ul class="RestaurantReviewItem__PictureList">
       <li class="RestaurantReviewItem__PictureItem">
         <button class="RestaurantReviewItem__PictureButton" data-index="0">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/349161/1323270_1574567300200_12952?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
+          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/255733/1591784_1585755806952_1585755763759.jpg?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
+          
+        </button>
+      </li>
+
+      <li class="RestaurantReviewItem__PictureItem">
+        <button class="RestaurantReviewItem__PictureButton" data-index="1">
+          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/255733/1591784_1585755806953_17244?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
+          
+        </button>
+      </li>
+</ul>
+    </div>
+
+    <div class="RestaurantReviewItem__Rating RestaurantReviewItem__Rating--Recommend">
+      <span class="RestaurantReviewItem__RatingText">맛있다</span>
+    </div>
+    
+    
+  </a>
+</li><li class="RestaurantReviewItem RestaurantReviewList__ReviewItem">
+  <a class="RestaurantReviewItem__Link" href="/reviews/NzI5Mzk1" target="_blank">
+    <div class="RestaurantReviewItem__User">
+      <div class="RestaurantReviewItem__UserPictureWrap">
+        <img class="RestaurantReviewItem__UserPicture" data-src="?fit=around|56:56&amp;crop=56:56;*,*&amp;output-format=jpg&amp;output-quality=80" alt="user profile picture">
+      </div>
+      
+      <span class="RestaurantReviewItem__UserNickName">Ddo</span>
+
+      <ul class="RestaurantReviewItem__UserStat">
+        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">28</li>
+        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Follower">0</li>
+      </ul>
+      
+      
+    </div>
+
+    <div class="RestaurantReviewItem__ReviewContent">
+      <div class="RestaurantReviewItem__ReviewTextWrap">
+
+        <p class="RestaurantReviewItem__ReviewText">
+          까이는 옳다. 특히 속 안좋거나 입맛없는 시험기간에 최고
+        </p>
+
+        
+        <span class="RestaurantReviewItem__ReviewDate">3 일 전</span>
+      </div>
+      
+      <ul class="RestaurantReviewItem__PictureList">
+      <li class="RestaurantReviewItem__PictureItem">
+        <button class="RestaurantReviewItem__PictureButton" data-index="0">
+          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/1520205_1585574042047911.jpg?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
+          
+        </button>
+      </li>
+</ul>
+    </div>
+
+    <div class="RestaurantReviewItem__Rating RestaurantReviewItem__Rating--Recommend">
+      <span class="RestaurantReviewItem__RatingText">맛있다</span>
+    </div>
+    
+    
+  </a>
+</li><li class="RestaurantReviewItem RestaurantReviewList__ReviewItem">
+  <a class="RestaurantReviewItem__Link" href="/reviews/NzIzMTcz" target="_blank">
+    <div class="RestaurantReviewItem__User">
+      <div class="RestaurantReviewItem__UserPictureWrap">
+        <img class="RestaurantReviewItem__UserPicture" data-src="https://s3-ap-northeast-2.amazonaws.com/mp-seoul-image-production/604173_1572059719272?fit=around|56:56&amp;crop=56:56;*,*&amp;output-format=jpg&amp;output-quality=80" alt="user profile picture">
+      </div>
+      
+      <span class="RestaurantReviewItem__UserNickName">양조위</span>
+
+      <ul class="RestaurantReviewItem__UserStat">
+        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">49</li>
+        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Follower">0</li>
+      </ul>
+      
+      
+    </div>
+
+    <div class="RestaurantReviewItem__ReviewContent">
+      <div class="RestaurantReviewItem__ReviewTextWrap">
+
+        <p class="RestaurantReviewItem__ReviewText">
+          ◾️심심하게 맛있게 저렴하게 먹을 수 있는 간단식.<br>◽️장점이 곧 단점. 특별하지는 않다.
+        </p>
+
+        
+        <span class="RestaurantReviewItem__ReviewDate">2020-03-09</span>
+      </div>
+      
+      
+    </div>
+
+    <div class="RestaurantReviewItem__Rating RestaurantReviewItem__Rating--Ok">
+      <span class="RestaurantReviewItem__RatingText">괜찮다</span>
+    </div>
+    
+    
+  </a>
+</li><li class="RestaurantReviewItem RestaurantReviewList__ReviewItem">
+  <a class="RestaurantReviewItem__Link" href="/reviews/NzIwNjg0" target="_blank">
+    <div class="RestaurantReviewItem__User">
+      <div class="RestaurantReviewItem__UserPictureWrap">
+        <img class="RestaurantReviewItem__UserPicture" data-src="?fit=around|56:56&amp;crop=56:56;*,*&amp;output-format=jpg&amp;output-quality=80" alt="user profile picture">
+      </div>
+      
+      <span class="RestaurantReviewItem__UserNickName">우마루</span>
+
+      <ul class="RestaurantReviewItem__UserStat">
+        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">23</li>
+        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Follower">2</li>
+      </ul>
+      
+      
+    </div>
+
+    <div class="RestaurantReviewItem__ReviewContent">
+      <div class="RestaurantReviewItem__ReviewTextWrap">
+
+        <p class="RestaurantReviewItem__ReviewText">
+          닭육수에 밥 말아서 먹는 삼삼한 맛이에요. 거기다가 아주 아주 약간 향신료 냄새가 나요. 
+        </p>
+
+        
+        <span class="RestaurantReviewItem__ReviewDate">2020-02-29</span>
+      </div>
+      
+      <ul class="RestaurantReviewItem__PictureList">
+      <li class="RestaurantReviewItem__PictureItem">
+        <button class="RestaurantReviewItem__PictureButton" data-index="0">
+          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/1526470_1582972992601532.jpg?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
           
         </button>
       </li>
@@ -686,6 +630,50 @@
 
     <div class="RestaurantReviewItem__Rating RestaurantReviewItem__Rating--Ok">
       <span class="RestaurantReviewItem__RatingText">괜찮다</span>
+    </div>
+    
+    
+  </a>
+</li><li class="RestaurantReviewItem RestaurantReviewList__ReviewItem">
+  <a class="RestaurantReviewItem__Link" href="/reviews/NzE5Mzc4" target="_blank">
+    <div class="RestaurantReviewItem__User">
+      <div class="RestaurantReviewItem__UserPictureWrap">
+        <img class="RestaurantReviewItem__UserPicture" data-src="https://s3-ap-northeast-2.amazonaws.com/mp-seoul-image-production/1253616_1580297539525?fit=around|56:56&amp;crop=56:56;*,*&amp;output-format=jpg&amp;output-quality=80" alt="user profile picture">
+      </div>
+      
+      <span class="RestaurantReviewItem__UserNickName">999</span>
+
+      <ul class="RestaurantReviewItem__UserStat">
+        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">7</li>
+        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Follower">0</li>
+      </ul>
+      
+      
+    </div>
+
+    <div class="RestaurantReviewItem__ReviewContent">
+      <div class="RestaurantReviewItem__ReviewTextWrap">
+
+        <p class="RestaurantReviewItem__ReviewText">
+          여기는 천재다 계속 생각나는 맛이야 정말 부드럽고 고소하고 맛있어 걍 체고오
+        </p>
+
+        
+        <span class="RestaurantReviewItem__ReviewDate">2020-02-25</span>
+      </div>
+      
+      <ul class="RestaurantReviewItem__PictureList">
+      <li class="RestaurantReviewItem__PictureItem">
+        <button class="RestaurantReviewItem__PictureButton" data-index="0">
+          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/1253616_1582606780599228.jpg?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
+          
+        </button>
+      </li>
+</ul>
+    </div>
+
+    <div class="RestaurantReviewItem__Rating RestaurantReviewItem__Rating--Recommend">
+      <span class="RestaurantReviewItem__RatingText">맛있다</span>
     </div>
     
     
@@ -704,27 +692,27 @@
 
             <section class="module related-restaurant">
             <span class="title">
-              <a href="/top_lists/1079_yangpyeong " onclick="trackEvent('CLICK_BACKTO_TOPLIST', {&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;})">
-                <span class="orange-underline">경기도 양평 맛집 베스트 20곳</span></a>에 있는 다른 식당
+              <a href="/top_lists/1245_eatingalone " onclick="trackEvent('CLICK_BACKTO_TOPLIST', {&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;})">
+                <span class="orange-underline">혼밥 맛집 베스트 45곳</span></a>에 있는 다른 식당
             </span>
 
               <ul class="list-restaurants">
                   <li>
-                    <a href="/restaurants/_47PQHcxiP">
+                    <a href="/restaurants/GvZWLg7ps9w_">
                       <figure class="restaurant-item">
-                        <div class="thumb" onclick="trackEvent('CLICK_OTHER_TOPLIST_RESTAURANT', {&quot;position&quot;:0,&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;})">
-                          <img class="center-croping lazy" alt="문리버 사진 - 경기도 양평군 강하면 전수리 433-2" data-original="https://mp-seoul-image-production-s3.mangoplate.com/1364854_1559436010168118.jpg?fit=around|383:383&amp;crop=383:383;*,*&amp;output-format=jpg&amp;output-quality=80" data-error="https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC">
+                        <div class="thumb" onclick="trackEvent('CLICK_OTHER_TOPLIST_RESTAURANT', {&quot;position&quot;:0,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;})">
+                          <img class="center-croping lazy" alt="까이식당 사진 - 서울시 서대문구 대현동 53-9" data-original="https://mp-seoul-image-production-s3.mangoplate.com/584169_1568653167793621.jpg?fit=around|383:383&amp;crop=383:383;*,*&amp;output-format=jpg&amp;output-quality=80" data-error="https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC">
                         </div>
-                        <figcaption onclick="trackEvent('CLICK_OTHER_TOPLIST_RESTAURANT', {&quot;position&quot;:0,&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;})">
+                        <figcaption onclick="trackEvent('CLICK_OTHER_TOPLIST_RESTAURANT', {&quot;position&quot;:0,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;})">
                           <div class="info">
-                            <span class="title list">문리버</span>
+                            <span class="title list">까이식당</span>
                             <strong class="point ">
-                              4.2
+                              4.5
                             </strong>
                             <p class="etc">
-                              양평군
+                              신촌/이대
                               -
-                              닭 / 오리 요리
+                              다국적 아시아 음식
                             </p>
                           </div>
                         </figcaption>
@@ -733,21 +721,21 @@
                     </a>
                   </li>
                   <li>
-                    <a href="/restaurants/S5y9lf5rmnc4">
+                    <a href="/restaurants/agmuLEdfZT">
                       <figure class="restaurant-item">
-                        <div class="thumb" onclick="trackEvent('CLICK_OTHER_TOPLIST_RESTAURANT', {&quot;position&quot;:1,&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;})">
-                          <img class="center-croping lazy" alt="연핫도그 사진 - 경기도 양평군 양서면 양수리 781" data-original="https://mp-seoul-image-production-s3.mangoplate.com/1471908_1568678228083175.jpg?fit=around|383:383&amp;crop=383:383;*,*&amp;output-format=jpg&amp;output-quality=80" data-error="https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC">
+                        <div class="thumb" onclick="trackEvent('CLICK_OTHER_TOPLIST_RESTAURANT', {&quot;position&quot;:1,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;})">
+                          <img class="center-croping lazy" alt="장수보쌈 사진 - 서울시 중구 방산동 84-1" data-original="https://mp-seoul-image-production-s3.mangoplate.com/79600_1566089068841716.jpg?fit=around|383:383&amp;crop=383:383;*,*&amp;output-format=jpg&amp;output-quality=80" data-error="https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC">
                         </div>
-                        <figcaption onclick="trackEvent('CLICK_OTHER_TOPLIST_RESTAURANT', {&quot;position&quot;:1,&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;})">
+                        <figcaption onclick="trackEvent('CLICK_OTHER_TOPLIST_RESTAURANT', {&quot;position&quot;:1,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;})">
                           <div class="info">
-                            <span class="title list">연핫도그</span>
+                            <span class="title list">장수보쌈</span>
                             <strong class="point ">
-                              4.2
+                              4.4
                             </strong>
                             <p class="etc">
-                              양평군
+                              중구
                               -
-                              기타 한식
+                              고기 요리
                             </p>
                           </div>
                         </figcaption>
@@ -756,21 +744,21 @@
                     </a>
                   </li>
                   <li>
-                    <a href="/restaurants/mKFXciRtQc">
+                    <a href="/restaurants/HyyQTyz7Dj42">
                       <figure class="restaurant-item">
-                        <div class="thumb" onclick="trackEvent('CLICK_OTHER_TOPLIST_RESTAURANT', {&quot;position&quot;:2,&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;})">
-                          <img class="center-croping lazy" alt="원조양평신내서울해장국 사진 - 경기도 양평군 개군면 공세리 327-8" data-original="https://mp-seoul-image-production-s3.mangoplate.com/147794/570879_1563267477804_64841?fit=around|383:383&amp;crop=383:383;*,*&amp;output-format=jpg&amp;output-quality=80" data-error="https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC">
+                        <div class="thumb" onclick="trackEvent('CLICK_OTHER_TOPLIST_RESTAURANT', {&quot;position&quot;:2,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;})">
+                          <img class="center-croping lazy" alt="멘텐 사진 - 서울시 중구 충무로2가 12-3" data-original="https://mp-seoul-image-production-s3.mangoplate.com/380547/689569_1566134678430_41792?fit=around|383:383&amp;crop=383:383;*,*&amp;output-format=jpg&amp;output-quality=80" data-error="https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC">
                         </div>
-                        <figcaption onclick="trackEvent('CLICK_OTHER_TOPLIST_RESTAURANT', {&quot;position&quot;:2,&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;})">
+                        <figcaption onclick="trackEvent('CLICK_OTHER_TOPLIST_RESTAURANT', {&quot;position&quot;:2,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;})">
                           <div class="info">
-                            <span class="title list">원조양평신내서울해장국</span>
-                            <strong class="point expected">
-                              4.1
+                            <span class="title list">멘텐</span>
+                            <strong class="point ">
+                              4.4
                             </strong>
                             <p class="etc">
-                              양평군
+                              명동/남산
                               -
-                              탕 / 찌개 / 전골
+                              라멘 / 소바 / 우동
                             </p>
                           </div>
                         </figcaption>
@@ -779,21 +767,21 @@
                     </a>
                   </li>
                   <li>
-                    <a href="/restaurants/lwLcmnAO71">
+                    <a href="/restaurants/7j-gLbV91mc5">
                       <figure class="restaurant-item">
-                        <div class="thumb" onclick="trackEvent('CLICK_OTHER_TOPLIST_RESTAURANT', {&quot;position&quot;:3,&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;})">
-                          <img class="center-croping lazy" alt="알로하오에 사진 - 경기도 양평군 양서면 양수리 548-6" data-original="https://mp-seoul-image-production-s3.mangoplate.com/91393/735199_1570198537048_1570198518516.jpg?fit=around|383:383&amp;crop=383:383;*,*&amp;output-format=jpg&amp;output-quality=80" data-error="https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC">
+                        <div class="thumb" onclick="trackEvent('CLICK_OTHER_TOPLIST_RESTAURANT', {&quot;position&quot;:3,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;})">
+                          <img class="center-croping lazy" alt="REVEAT 사진 - 서울시 마포구 서교동 481-10" data-original="https://mp-seoul-image-production-s3.mangoplate.com/54303_1538313320726842.jpg?fit=around|383:383&amp;crop=383:383;*,*&amp;output-format=jpg&amp;output-quality=80" data-error="https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC">
                         </div>
-                        <figcaption onclick="trackEvent('CLICK_OTHER_TOPLIST_RESTAURANT', {&quot;position&quot;:3,&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;})">
+                        <figcaption onclick="trackEvent('CLICK_OTHER_TOPLIST_RESTAURANT', {&quot;position&quot;:3,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;})">
                           <div class="info">
-                            <span class="title list">알로하오에</span>
-                            <strong class="point expected">
-                              4.0
+                            <span class="title list">REVEAT</span>
+                            <strong class="point ">
+                              4.4
                             </strong>
                             <p class="etc">
-                              양평군
+                              홍대
                               -
-                              스테이크 / 바베큐
+                              프랑스 음식
                             </p>
                           </div>
                         </figcaption>
@@ -806,35 +794,7 @@
 
           <div class="column-module">
             <!-- 관련 TOP 리스트 -->
-            <section class="module includes-restaurants RelatedTopList">
-              <h2 class="title RelatedTopList__Title">관련 TOP 리스트</h2>
-
-              <ul class="RelatedTopList__List">
-                
-
-                
-              <li class="ContentCard RelatedTopList__Item">
-    <a href="/top_lists/WUN1B70" class="ContentCard__Link"></a>
-    <div class="ContentCard__Deem"></div>
-  
-    <div class="ContentCard__BgImage" data-bg="url(https://mp-seoul-image-production-s3.mangoplate.com/keyword_search/meta/pictures/zb-abcyces2sidpz.png?fit=around|748:748&amp;crop=748:748;*,*&amp;output-format=jpg&amp;output-quality=80), url(https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg)"></div>
-  
-    <div class="ContentCard__Content">
-      <span class="ContentCard__Title">경기도 양평 맛집 베스트 20곳</span>
-      <p class="ContentCard__Description">"서울을 조금만 벗어나도 이렇게 좋아요"</p>
-    </div>
-  </li><li class="ContentCard RelatedTopList__Item">
-    <a href="/top_lists/5SFY3WJ" class="ContentCard__Link"></a>
-    <div class="ContentCard__Deem"></div>
-  
-    <div class="ContentCard__BgImage" data-bg="url(https://mp-seoul-image-production-s3.mangoplate.com/keyword_search/meta/pictures/salye_skjp7b47p-.jpg?fit=around|748:748&amp;crop=748:748;*,*&amp;output-format=jpg&amp;output-quality=80), url(https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg)"></div>
-  
-    <div class="ContentCard__Content">
-      <span class="ContentCard__Title">양평 카페 베스트 10곳</span>
-      <p class="ContentCard__Description">"맛도, 경치도 끝내줘요!"</p>
-    </div>
-  </li></ul>
-            </section>
+            
 
             <!-- 관련 스토리 -->
             <section class="module related-story RelatedStory">
@@ -845,14 +805,44 @@
 
                 
               <li class="ContentCard RelatedStory__Item RelatedStory__Item--Placeholder">
-    <a href="/mango_picks/1687" class="ContentCard__Link"></a>
+    <a href="/mango_picks/1577" class="ContentCard__Link"></a>
     <div class="ContentCard__Deem"></div>
   
-    <div class="ContentCard__BgImage" data-bg="url(https://mp-seoul-image-production-s3.mangoplate.com/mango_pick/6hn4ybr_7fdm0m.jpg?fit=around|748:748&amp;crop=748:748;*,*&amp;output-format=jpg&amp;output-quality=80), url(https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg)"></div>
+    <div class="ContentCard__BgImage" data-bg="url(https://mp-seoul-image-production-s3.mangoplate.com/mango_pick/w-w6uypgivufm9.png?fit=around|748:748&amp;crop=748:748;*,*&amp;output-format=jpg&amp;output-quality=80), url(https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg)"></div>
   
     <div class="ContentCard__Content">
-      <span class="ContentCard__Title">전참시 맛집 7곳</span>
-      <p class="ContentCard__Description">"전지적 참견 시점 방송 맛집 어디야?"</p>
+      <span class="ContentCard__Title">방탄 맛집 세계음식편 5곳</span>
+      <p class="ContentCard__Description">"방(송)탄 맛집 대공개!"</p>
+    </div>
+  </li><li class="ContentCard RelatedStory__Item RelatedStory__Item--Placeholder">
+    <a href="/mango_picks/1466" class="ContentCard__Link"></a>
+    <div class="ContentCard__Deem"></div>
+  
+    <div class="ContentCard__BgImage" data-bg="url(https://mp-seoul-image-production-s3.mangoplate.com/mango_pick/7vgotrg5ukiwku.jpg?fit=around|748:748&amp;crop=748:748;*,*&amp;output-format=jpg&amp;output-quality=80), url(https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg)"></div>
+  
+    <div class="ContentCard__Content">
+      <span class="ContentCard__Title">생활의 달인 면요리 맛집 7곳</span>
+      <p class="ContentCard__Description">"달인의 다양한 면요리가 궁금해?"</p>
+    </div>
+  </li><li class="ContentCard RelatedStory__Item RelatedStory__Item--Placeholder">
+    <a href="/mango_picks/1432" class="ContentCard__Link"></a>
+    <div class="ContentCard__Deem"></div>
+  
+    <div class="ContentCard__BgImage" data-bg="url(https://mp-seoul-image-production-s3.mangoplate.com/mango_pick/2rzk6z7s8deuzf.jpg?fit=around|748:748&amp;crop=748:748;*,*&amp;output-format=jpg&amp;output-quality=80), url(https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg)"></div>
+  
+    <div class="ContentCard__Content">
+      <span class="ContentCard__Title">쌀메뉴 맛집 9곳</span>
+      <p class="ContentCard__Description">"쌀메뉴로 더욱 든든하게! "</p>
+    </div>
+  </li><li class="ContentCard RelatedStory__Item RelatedStory__Item--Placeholder">
+    <a href="/mango_picks/1277" class="ContentCard__Link"></a>
+    <div class="ContentCard__Deem"></div>
+  
+    <div class="ContentCard__BgImage" data-bg="url(https://mp-seoul-image-production-s3.mangoplate.com/mango_pick/rh1laoyrcfeyw3.png?fit=around|748:748&amp;crop=748:748;*,*&amp;output-format=jpg&amp;output-quality=80), url(https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg)"></div>
+  
+    <div class="ContentCard__Content">
+      <span class="ContentCard__Title">음식으로 떠나는 동남아여행</span>
+      <p class="ContentCard__Description">"이만한 가성비 여행이 어딨어?!"</p>
     </div>
   </li></ul>
             </section>
@@ -866,7 +856,7 @@
         <div class="column-side">
           <!-- 지도 -->
           <div class="map-container" style="position: relative; overflow: hidden; background: url(&quot;https://ssl.pstatic.net/static/maps/mantle/1x/pattern_1.png&quot;) 0px 0px repeat transparent;">
-          <div class="map_layer"></div><div style="position: absolute; display: block; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; overflow: visible; width: 100%; height: 100%; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); z-index: 0; cursor: url(&quot;https://ssl.pstatic.net/static/maps/mantle/1x/openhand.cur&quot;), default;"><div style="position: absolute; display: block; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; overflow: visible; width: 100%; height: 100%; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); z-index: 0;"><div style="overflow: visible; width: 100%; height: 0px; position: absolute; display: block; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; z-index: 1;"><div style="overflow: visible; width: 100%; height: 0px; position: absolute; display: none; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; z-index: 0; user-select: none;"></div><div style="overflow: visible; width: 100%; height: 0px; position: absolute; display: block; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; z-index: 1; user-select: none;"><div style="position: absolute; top: 0px; left: 0px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; display: block; width: 0px; height: 0px; overflow: visible; box-sizing: content-box !important;"><div draggable="false" unselectable="on" style="position: absolute; top: -234px; left: 210px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55952/25370.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: 278px; left: -46px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55951/25372.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: 22px; left: 210px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55952/25371.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: 22px; left: -46px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55951/25371.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: 278px; left: 210px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55952/25372.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: -234px; left: -46px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55951/25370.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: -234px; left: 466px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55953/25370.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: 278px; left: -302px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55950/25372.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: 22px; left: 466px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55953/25371.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: 22px; left: -302px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55950/25371.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: 278px; left: 466px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55953/25372.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: -234px; left: -302px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55950/25370.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div></div></div><div style="overflow: visible; width: 100%; height: 0px; position: absolute; display: block; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; z-index: 100;"><div style="overflow: visible; width: 100%; height: 0px; position: absolute; display: block; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; z-index: 101;"></div><div style="overflow: visible; width: 100%; height: 0px; position: absolute; display: block; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; z-index: 103;"></div><div style="overflow: visible; width: 100%; height: 0px; position: absolute; display: block; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; z-index: 106;"></div></div></div><div style="position: absolute; display: none; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; overflow: visible; width: 100%; height: 100%; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); background-color: rgb(255, 255, 255); z-index: 10000; opacity: 0.5;"></div></div></div><div style="position: absolute; z-index: 100; margin: 0px; padding: 0px; pointer-events: none; bottom: 0px; right: 0px;"><div style="border: 0px none; margin: 0px; padding: 0px; pointer-events: none; float: right; height: 22px;"><a href="https://ssl.pstatic.net/static/maps/mantle/notice/legal.html" target="_blank" style="display: block; width: 48px; height: 17px; overflow: hidden; margin: 0px 5px 5px 12px; pointer-events: auto;"><img src="https://ssl.pstatic.net/static/maps/mantle/1x/naver-normal-new.png" width="48" height="17" alt="NAVER" style="display:block;width:48px;height:17px;overflow:hidden;border:0 none;margin:0;padding:0;max-width:none !important;max-height:none !important;min-width:0 !important;min-height:0 !important;"></a></div></div></div>
+          <div class="map_layer"></div><div style="position: absolute; display: block; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; overflow: visible; width: 100%; height: 100%; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); z-index: 0; cursor: url(&quot;https://ssl.pstatic.net/static/maps/mantle/1x/openhand.cur&quot;), default;"><div style="position: absolute; display: block; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; overflow: visible; width: 100%; height: 100%; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); z-index: 0;"><div style="overflow: visible; width: 100%; height: 0px; position: absolute; display: block; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; z-index: 1;"><div style="overflow: visible; width: 100%; height: 0px; position: absolute; display: none; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; z-index: 0; user-select: none;"></div><div style="overflow: visible; width: 100%; height: 0px; position: absolute; display: block; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; z-index: 1; user-select: none;"><div style="position: absolute; top: 0px; left: 0px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; display: block; width: 0px; height: 0px; overflow: visible; box-sizing: content-box !important;"><div draggable="false" unselectable="on" style="position: absolute; top: -299px; left: 236px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55878/25379.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: 213px; left: -20px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55877/25381.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: -43px; left: 236px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55878/25380.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: -43px; left: -20px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55877/25380.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: 213px; left: 236px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55878/25381.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: -299px; left: -20px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55877/25379.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: -299px; left: 492px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55879/25379.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: 213px; left: -276px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55876/25381.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: -43px; left: 492px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55879/25380.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: -43px; left: -276px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55876/25380.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: 213px; left: 492px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55879/25381.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div><div draggable="false" unselectable="on" style="position: absolute; top: -299px; left: -276px; z-index: 0; margin: 0px; padding: 0px; border: 0px solid transparent; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; opacity: 1; width: 256px; height: 256px;"><img draggable="false" unselectable="on" alt="" width="256" height="256" src="https://nrbe.pstatic.net/styles/basic/1585220056/16/55876/25379.png?mt=ar.bg.ol.sw.lko" style="margin: 0px; padding: 0px; border: 0px solid transparent; display: block; user-select: none; -webkit-user-drag: none; box-sizing: content-box !important; max-width: none !important; max-height: none !important; min-width: 0px !important; min-height: 0px !important; opacity: 1; position: absolute; left: 0px; top: 0px; z-index: 0; width: 256px; height: 256px;"></div></div></div><div style="overflow: visible; width: 100%; height: 0px; position: absolute; display: block; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; z-index: 100;"><div style="overflow: visible; width: 100%; height: 0px; position: absolute; display: block; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; z-index: 101;"></div><div style="overflow: visible; width: 100%; height: 0px; position: absolute; display: block; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; z-index: 103;"></div><div style="overflow: visible; width: 100%; height: 0px; position: absolute; display: block; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; z-index: 106;"></div></div></div><div style="position: absolute; display: none; margin: 0px; padding: 0px; border: 0px none; top: 0px; left: 0px; overflow: visible; width: 100%; height: 100%; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); background-color: rgb(255, 255, 255); z-index: 10000; opacity: 0.5;"></div></div></div><div style="position: absolute; z-index: 100; margin: 0px; padding: 0px; pointer-events: none; bottom: 0px; right: 0px;"><div style="border: 0px none; margin: 0px; padding: 0px; pointer-events: none; float: right; height: 22px;"><a href="https://ssl.pstatic.net/static/maps/mantle/notice/legal.html" target="_blank" style="display: block; width: 48px; height: 17px; overflow: hidden; margin: 0px 5px 5px 12px; pointer-events: auto;"><img src="https://ssl.pstatic.net/static/maps/mantle/1x/naver-normal-new.png" width="48" height="17" alt="NAVER" style="display:block;width:48px;height:17px;overflow:hidden;border:0 none;margin:0;padding:0;max-width:none !important;max-height:none !important;min-width:0 !important;min-height:0 !important;"></a></div></div></div>
 
           <div class="inner">
             <!-- 주변 인기 식당 -->
@@ -880,35 +870,35 @@
               <li class="NearByRestaurantItem NearByRestaurantList__Item">
     <div class="NearByRestaurantItem__PictureAndContent">
   
-      <a class="NearByRestaurantItem__PictureLink" href="/restaurants/-4lgzZVhTO">
-        <img class="NearByRestaurantItem__Picture loaded" data-src="https://mp-seoul-image-production-s3.mangoplate.com/147790/1149950_1573978657817_22398?fit=around|383:383&amp;crop=383:383;*,*&amp;output-format=jpg&amp;output-quality=80" alt="near by popular restaurant picture" src="https://mp-seoul-image-production-s3.mangoplate.com/147790/1149950_1573978657817_22398?fit=around|383:383&amp;crop=383:383;*,*&amp;output-format=jpg&amp;output-quality=80" data-was-processed="true">
+      <a class="NearByRestaurantItem__PictureLink" href="/restaurants/BBDNCkQL68">
+        <img class="NearByRestaurantItem__Picture loaded" data-src="https://mp-seoul-image-production-s3.mangoplate.com/20150308_90/j01229385_1425793443747XutJQ_JPEG/8.jpg?fit=around|383:383&amp;crop=383:383;*,*&amp;output-format=jpg&amp;output-quality=80" alt="near by popular restaurant picture" src="https://mp-seoul-image-production-s3.mangoplate.com/20150308_90/j01229385_1425793443747XutJQ_JPEG/8.jpg?fit=around|383:383&amp;crop=383:383;*,*&amp;output-format=jpg&amp;output-quality=80" data-was-processed="true">
       </a>
   
       <div class="NearByRestaurantItem__Content">
         <div class="NearByRestaurantItem__NameWrap">
-          <a class="NearByRestaurantItem__Name" href="/restaurants/-4lgzZVhTO">문호리팥죽</a>
+          <a class="NearByRestaurantItem__Name" href="/restaurants/BBDNCkQL68">무릉도원</a>
           <span class="NearByRestaurantItem__Rating NearByRestaurantItem__Rating--Expected">3.7</span>
         </div>
   
         <div class="NearByRestaurantItem__MetroAndCuisine">
-          <span class="NearByRestaurantItem__Metro">양평군</span>
-          <span class="NearByRestaurantItem__SubCuisine">기타 한식</span>
+          <span class="NearByRestaurantItem__Metro">신촌/이대</span>
+          <span class="NearByRestaurantItem__SubCuisine">정통 중식 / 일반 중식</span>
         </div>
   
         <div class="NearByRestaurantItem__InfoWrap">
           <dl class="NearByRestaurantItem__Info">
             <dt class="NearByRestaurantItem__InfoLabel">음식 종류</dt>
-            <dd class="NearByRestaurantItem__InfoValue NearByRestaurantItem__InfoValue--SubCuisine">기타 한식</dd>
+            <dd class="NearByRestaurantItem__InfoValue NearByRestaurantItem__InfoValue--SubCuisine">정통 중식 / 일반 중식</dd>
           </dl>
   
           <dl class="NearByRestaurantItem__Info">
             <dt class="NearByRestaurantItem__InfoLabel">위치</dt>
-            <dd class="NearByRestaurantItem__InfoValue NearByRestaurantItem__InfoValue--Metro">양평군</dd>
+            <dd class="NearByRestaurantItem__InfoValue NearByRestaurantItem__InfoValue--Metro">신촌/이대</dd>
           </dl>
   
           <dl class="NearByRestaurantItem__Info">
             <dt class="NearByRestaurantItem__InfoLabel">가격대</dt>
-            <dd class="NearByRestaurantItem__InfoValue NearByRestaurantItem__InfoValue--PriceRange">만원-2만원</dd>
+            <dd class="NearByRestaurantItem__InfoValue NearByRestaurantItem__InfoValue--PriceRange">만원 미만</dd>
           </dl>
         </div>
       </div>
@@ -916,18 +906,18 @@
   </li><li class="NearByRestaurantItem NearByRestaurantList__Item">
     <div class="NearByRestaurantItem__PictureAndContent">
   
-      <a class="NearByRestaurantItem__PictureLink" href="/restaurants/HvqF3mv61j">
-        <img class="NearByRestaurantItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/112634_1472466071872243.jpg?fit=around|383:383&amp;crop=383:383;*,*&amp;output-format=jpg&amp;output-quality=80" alt="near by popular restaurant picture">
+      <a class="NearByRestaurantItem__PictureLink" href="/restaurants/5jjTeSdk7z">
+        <img class="NearByRestaurantItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/47571/eq9uqbmkmdt8j4.jpg?fit=around|383:383&amp;crop=383:383;*,*&amp;output-format=jpg&amp;output-quality=80" alt="near by popular restaurant picture">
       </a>
   
       <div class="NearByRestaurantItem__Content">
         <div class="NearByRestaurantItem__NameWrap">
-          <a class="NearByRestaurantItem__Name" href="/restaurants/HvqF3mv61j">테라로사</a>
-          <span class="NearByRestaurantItem__Rating ">3.8</span>
+          <a class="NearByRestaurantItem__Name" href="/restaurants/5jjTeSdk7z">레인트리</a>
+          <span class="NearByRestaurantItem__Rating ">3.9</span>
         </div>
   
         <div class="NearByRestaurantItem__MetroAndCuisine">
-          <span class="NearByRestaurantItem__Metro">양평군</span>
+          <span class="NearByRestaurantItem__Metro">신촌/이대</span>
           <span class="NearByRestaurantItem__SubCuisine">카페 / 디저트</span>
         </div>
   
@@ -939,7 +929,79 @@
   
           <dl class="NearByRestaurantItem__Info">
             <dt class="NearByRestaurantItem__InfoLabel">위치</dt>
-            <dd class="NearByRestaurantItem__InfoValue NearByRestaurantItem__InfoValue--Metro">양평군</dd>
+            <dd class="NearByRestaurantItem__InfoValue NearByRestaurantItem__InfoValue--Metro">신촌/이대</dd>
+          </dl>
+  
+          <dl class="NearByRestaurantItem__Info">
+            <dt class="NearByRestaurantItem__InfoLabel">가격대</dt>
+            <dd class="NearByRestaurantItem__InfoValue NearByRestaurantItem__InfoValue--PriceRange">만원 미만</dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </li><li class="NearByRestaurantItem NearByRestaurantList__Item">
+    <div class="NearByRestaurantItem__PictureAndContent">
+  
+      <a class="NearByRestaurantItem__PictureLink" href="/restaurants/bIcTP4tcr2">
+        <img class="NearByRestaurantItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/142008_1477459341456285.jpg?fit=around|383:383&amp;crop=383:383;*,*&amp;output-format=jpg&amp;output-quality=80" alt="near by popular restaurant picture">
+      </a>
+  
+      <div class="NearByRestaurantItem__Content">
+        <div class="NearByRestaurantItem__NameWrap">
+          <a class="NearByRestaurantItem__Name" href="/restaurants/bIcTP4tcr2">빅파운드커피</a>
+          <span class="NearByRestaurantItem__Rating ">4.0</span>
+        </div>
+  
+        <div class="NearByRestaurantItem__MetroAndCuisine">
+          <span class="NearByRestaurantItem__Metro">신촌/이대</span>
+          <span class="NearByRestaurantItem__SubCuisine">카페 / 디저트</span>
+        </div>
+  
+        <div class="NearByRestaurantItem__InfoWrap">
+          <dl class="NearByRestaurantItem__Info">
+            <dt class="NearByRestaurantItem__InfoLabel">음식 종류</dt>
+            <dd class="NearByRestaurantItem__InfoValue NearByRestaurantItem__InfoValue--SubCuisine">카페 / 디저트</dd>
+          </dl>
+  
+          <dl class="NearByRestaurantItem__Info">
+            <dt class="NearByRestaurantItem__InfoLabel">위치</dt>
+            <dd class="NearByRestaurantItem__InfoValue NearByRestaurantItem__InfoValue--Metro">신촌/이대</dd>
+          </dl>
+  
+          <dl class="NearByRestaurantItem__Info">
+            <dt class="NearByRestaurantItem__InfoLabel">가격대</dt>
+            <dd class="NearByRestaurantItem__InfoValue NearByRestaurantItem__InfoValue--PriceRange">만원 미만</dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </li><li class="NearByRestaurantItem NearByRestaurantList__Item">
+    <div class="NearByRestaurantItem__PictureAndContent">
+  
+      <a class="NearByRestaurantItem__PictureLink" href="/restaurants/SAAbUFhuNV3c">
+        <img class="NearByRestaurantItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/697216_1491302034890454.jpg?fit=around|383:383&amp;crop=383:383;*,*&amp;output-format=jpg&amp;output-quality=80" alt="near by popular restaurant picture">
+      </a>
+  
+      <div class="NearByRestaurantItem__Content">
+        <div class="NearByRestaurantItem__NameWrap">
+          <a class="NearByRestaurantItem__Name" href="/restaurants/SAAbUFhuNV3c">라이프커피컴퍼니</a>
+          <span class="NearByRestaurantItem__Rating ">4.0</span>
+        </div>
+  
+        <div class="NearByRestaurantItem__MetroAndCuisine">
+          <span class="NearByRestaurantItem__Metro">신촌/이대</span>
+          <span class="NearByRestaurantItem__SubCuisine">카페 / 디저트</span>
+        </div>
+  
+        <div class="NearByRestaurantItem__InfoWrap">
+          <dl class="NearByRestaurantItem__Info">
+            <dt class="NearByRestaurantItem__InfoLabel">음식 종류</dt>
+            <dd class="NearByRestaurantItem__InfoValue NearByRestaurantItem__InfoValue--SubCuisine">카페 / 디저트</dd>
+          </dl>
+  
+          <dl class="NearByRestaurantItem__Info">
+            <dt class="NearByRestaurantItem__InfoLabel">위치</dt>
+            <dd class="NearByRestaurantItem__InfoValue NearByRestaurantItem__InfoValue--Metro">신촌/이대</dd>
           </dl>
   
           <dl class="NearByRestaurantItem__Info">
@@ -960,19 +1022,33 @@
                 <span class="title">이 식당 관련 태그</span>
 
                 <p>
-                    <a href="/search/반려견동반가능" class="tag-item" onclick="trackEvent('CLICK_RELATED_KEYWORD', {&quot;position&quot;:0,&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;,&quot;keyword&quot;:&quot;반려견동반가능&quot;});">반려견동반가능
+                    <a href="/search/혼밥" class="tag-item" onclick="trackEvent('CLICK_RELATED_KEYWORD', {&quot;position&quot;:0,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;,&quot;keyword&quot;:&quot;혼밥&quot;});">혼밥
+                    </a>
+                    <a href="/search/이화여대" class="tag-item" onclick="trackEvent('CLICK_RELATED_KEYWORD', {&quot;position&quot;:1,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;,&quot;keyword&quot;:&quot;이화여대&quot;});">이화여대
+                    </a>
+                    <a href="/search/강북" class="tag-item" onclick="trackEvent('CLICK_RELATED_KEYWORD', {&quot;position&quot;:2,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;,&quot;keyword&quot;:&quot;강북&quot;});">강북
+                    </a>
+                    <a href="/search/2018 인기" class="tag-item" onclick="trackEvent('CLICK_RELATED_KEYWORD', {&quot;position&quot;:3,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;,&quot;keyword&quot;:&quot;2018 인기&quot;});">2018 인기
+                    </a>
+                    <a href="/search/생활의달인" class="tag-item" onclick="trackEvent('CLICK_RELATED_KEYWORD', {&quot;position&quot;:4,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;,&quot;keyword&quot;:&quot;생활의달인&quot;});">생활의달인
+                    </a>
+                    <a href="/search/세계음식" class="tag-item" onclick="trackEvent('CLICK_RELATED_KEYWORD', {&quot;position&quot;:5,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;,&quot;keyword&quot;:&quot;세계음식&quot;});">세계음식
+                    </a>
+                    <a href="/search/Ewha Womans University" class="tag-item" onclick="trackEvent('CLICK_RELATED_KEYWORD', {&quot;position&quot;:6,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;,&quot;keyword&quot;:&quot;Ewha Womans University&quot;});">Ewha Womans University
+                    </a>
+                    <a href="/search/2020망고플레이트인기맛집" class="tag-item" onclick="trackEvent('CLICK_RELATED_KEYWORD', {&quot;position&quot;:7,&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;,&quot;keyword&quot;:&quot;2020망고플레이트인기맛집&quot;});">2020망고플레이트인기맛집
                     </a>
                 </p>
               </section>
           </div>
 
-          <div class="ad_area right_map only-desktop" id="web_desktop-restaurant-right_map"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-right_map-content" data-google-query-id="COTDutv2yOgCFUVtvQodWecCYg"><div id="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0" width="336" height="280" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="2" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-load-complete="true"></iframe></div></div></div></div>
+          <div class="ad_area right_map only-desktop" id="web_desktop-restaurant-right_map"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-right_map-content" data-google-query-id="CMTgjtWFzOgCFcqxlgodCo0F2A"><div id="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0__container__" style="border: 0pt none; display: inline-block; width: 336px; height: 280px;"><iframe frameborder="0" src="https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html" id="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="336" height="280" data-is-safeframe="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="2" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div></div></div>
 
         </div>
       </div>
 
       <div class="restaurnat_footer">
-        <button class="dwn-banner" data-event_name="CLICK_DWN_BOTTOM_D1" data-event_term="V1" onclick="trackEvent('CLICK_DWN_BOTTOM_D1', {&quot;restaurant_key&quot;:&quot;w3eKhWMaDCs_&quot;});go_to_app_or_market(this);return false;">
+        <button class="dwn-banner" data-event_name="CLICK_DWN_BOTTOM_D1" data-event_term="V1" onclick="trackEvent('CLICK_DWN_BOTTOM_D1', {&quot;restaurant_key&quot;:&quot;GvZWLg7ps9w_&quot;});go_to_app_or_market(this);return false;">
           <div class="logo-white dwn"></div>
           <div class="desc dwn">
             <p>대한민국 먹슐랭 가이드!</p>
@@ -990,12 +1066,12 @@
       <div class="share-list-divid last">
         <div class="click_share">공유 꾹!</div>
         <button class="share">
-          <span class="kakao_share kakaotalk_share_btn" onclick="trackEvent('CLICK_SHARE_KAKAO_FLOATING_MAP','','','PG_RESTAURANT')" data-content="CLICK_SHARE_KAKAO_FLOATING" data-term="v1" data-message="'하우스베이커리'
-망고플레이트 평점: 3.7 / 5.0
-카페 / 디저트
-주소: 경기도 양평군 서종면 문호리 338-1
-전화: 031-772-8333
- " data-image="https://mp-seoul-image-production-s3.mangoplate.com/4597_1530448919826368.jpg?fit=around%7C300:200&amp;crop=300:200;*,*&amp;output-format=jpg&amp;output-quality=80" data-url="https://www.mangoplate.com/restaurants/w3eKhWMaDCs_" data-button_name="위치/지도 확인하러가기"></span>
+          <span class="kakao_share kakaotalk_share_btn" onclick="trackEvent('CLICK_SHARE_KAKAO_FLOATING_WEB','','','PG_RESTAURANT')" data-content="CLICK_SHARE_KAKAO_FLOATING" data-term="v1" data-message="'까이식당'
+망고플레이트 평점: 4.5 / 5.0
+다국적 아시아 음식
+주소: 서울시 서대문구 대현동 53-9
+전화: 070-7570-0871
+ " data-image="https://mp-seoul-image-production-s3.mangoplate.com/255733/327827_1472963019812_54333?fit=around%7C300:200&amp;crop=300:200;*,*&amp;output-format=jpg&amp;output-quality=80" data-url="https://www.mangoplate.com/restaurants/GvZWLg7ps9w_" data-button_name="웹페이지에서 보기"></span>
         </button>
         <button class="share">
           <span class="facebook_share facebook_share_btn" onclick="trackEvent('CLICK_SHARE_FACEBOOK_FLOATING','','','PG_RESTAURANT')" data-content="CLICK_SHARE_FACEBOOK_FLOATING" data-term="v1"></span>
@@ -1005,13 +1081,13 @@
       <div class="share-list-divid first">
 
         <button class="share small">
-          <span class="mail mail_share_btn" onclick="trackEvent('CLICK_SHARE_EMAIL_FLOATING','','','PG_RESTAURANT')" data-content="CLICK_SHARE_EMAIL_FLOATING" data-term="v1" data-title="하우스베이커리 - 양평군 카페 / 디저트 | 맛집검색 망고플레이트" data-message="15398명이 방문하고 싶어하는 양평군 맛집 하우스베이커리의 평점은 3.7/5점 입니다. 하우스베이커리의 리뷰, 영업시간, 그리고 비슷한 레스토랑을 알아보세요." data-url="https://www.mangoplate.com/restaurants/w3eKhWMaDCs_"></span>
+          <span class="mail mail_share_btn" onclick="trackEvent('CLICK_SHARE_EMAIL_FLOATING','','','PG_RESTAURANT')" data-content="CLICK_SHARE_EMAIL_FLOATING" data-term="v1" data-title="까이식당 - 이대역 다국적 아시아 음식 | 맛집검색 망고플레이트" data-message="107372명이 방문하고 싶어하는 이대역 맛집 까이식당의 평점은 4.5/5점 입니다. 까이식당의 리뷰, 영업시간, 그리고 비슷한 레스토랑을 알아보세요." data-url="https://www.mangoplate.com/restaurants/GvZWLg7ps9w_"></span>
         </button>
         <button class="share small">
-          <span class="band band_share_btn" onclick="trackEvent('CLICK_SHARE_BAND_FLOATING','','','PG_RESTAURANT')" data-content="CLICK_SHARE_BAND_FLOATING" data-term="v1" data-message="하우스베이커리 - 양평군 카페 / 디저트 | 맛집검색 망고플레이트" data-url="https://www.mangoplate.com/restaurants/w3eKhWMaDCs_"></span>
+          <span class="band band_share_btn" onclick="trackEvent('CLICK_SHARE_BAND_FLOATING','','','PG_RESTAURANT')" data-content="CLICK_SHARE_BAND_FLOATING" data-term="v1" data-message="까이식당 - 이대역 다국적 아시아 음식 | 맛집검색 망고플레이트" data-url="https://www.mangoplate.com/restaurants/GvZWLg7ps9w_"></span>
         </button>
         <button class="share small">
-          <span class="twitter twitter_share_btn" onclick="trackEvent('CLICK_SHARE_TWITTER_FLOATING','','','PG_RESTAURANT')" data-content="CLICK_SHARE_TWITTER_FLOATING" data-term="v1" data-message="하우스베이커리 - 양평군 카페 / 디저트 | 맛집검색 망고플레이트"></span>
+          <span class="twitter twitter_share_btn" onclick="trackEvent('CLICK_SHARE_TWITTER_FLOATING','','','PG_RESTAURANT')" data-content="CLICK_SHARE_TWITTER_FLOATING" data-term="v1" data-message="까이식당 - 이대역 다국적 아시아 음식 | 맛집검색 망고플레이트"></span>
         </button>
         <div class="click_share">공유 꾹!</div>
       </div>
@@ -1835,7 +1911,7 @@
         </div></div><div id="mCSB_2_scrollbar_vertical" class="mCSB_scrollTools mCSB_2_scrollbar mCS-minimal-dark mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_2_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 50px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 50px;"></div></div><div class="mCSB_draggerRail"></div></div></div><div id="mCSB_2_scrollbar_horizontal" class="mCSB_scrollTools mCSB_2_scrollbar mCS-minimal-dark mCSB_scrollTools_horizontal" style="display: block;"><div class="mCSB_draggerContainer"><div id="mCSB_2_dragger_horizontal" class="mCSB_dragger" style="position: absolute; min-width: 50px; display: block; width: 0px; left: 0px;"><div class="mCSB_dragger_bar"></div></div><div class="mCSB_draggerRail"></div></div></div></div>
 
         <div class="info_area_footer">
-          <div class="ad_area gallery_right_review only-desktop" id="web_desktop-restaurant-gallery_right_review"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-gallery_right_review-content" data-google-query-id="COXDutv2yOgCFUVtvQodWecCYg"><div id="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0" width="336" height="280" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" data-google-container-id="3" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-load-complete="true" style="border: 0px; vertical-align: bottom;"></iframe></div></div></div></div>
+          <div class="ad_area gallery_right_review only-desktop" id="web_desktop-restaurant-gallery_right_review"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-gallery_right_review-content" data-google-query-id="CIfyj9WFzOgCFcqxlgodCo0F2A"><div id="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0" width="336" height="280" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" data-google-container-id="3" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div></div></div>
 
           <div class="source_notice ng-hide" ng-show="review_content.type == 'insta'">
             <div class="inner">
@@ -1926,4 +2002,4 @@
 
 
 
-<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div><script type="text/javascript" src="//tpc.googlesyndication.com/sodar/sodar2.js"></script></body></html>
+<iframe id="google_osd_static_frame_157464077517" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div><script type="text/javascript" src="//tpc.googlesyndication.com/sodar/sodar2.js"></script></body></html>

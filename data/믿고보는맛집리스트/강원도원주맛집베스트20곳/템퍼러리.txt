@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <meta name="format-detection" content="telephone=no">
   <meta name="subject" content="템퍼러리 - 상지대 카페 / 디저트 | 맛집검색 망고플레이트">
-  <meta name="description" content="11286명이 방문하고 싶어하는 상지대 맛집 템퍼러리의 평점은 4.4/5점 입니다. 템퍼러리의 리뷰, 영업시간, 그리고 비슷한 레스토랑을 알아보세요.">
+  <meta name="description" content="11305명이 방문하고 싶어하는 상지대 맛집 템퍼러리의 평점은 4.4/5점 입니다. 템퍼러리의 리뷰, 영업시간, 그리고 비슷한 레스토랑을 알아보세요.">
   <meta name="keywords" content="2020망고플레이트인기맛집">
   <meta name="image" content="https://mp-seoul-image-production-s3.mangoplate.com/54992_1511065303267146.jpg">
 
@@ -13,7 +13,7 @@
   <meta property="og:url" content="https://www.mangoplate.com/restaurants/YqbLdyxq0SZC">
   <meta property="og:type" content="website">
   <meta property="og:title" content="템퍼러리 - 상지대 카페 / 디저트 | 맛집검색 망고플레이트">
-  <meta property="og:description" content="11286명이 방문하고 싶어하는 상지대 맛집 템퍼러리의 평점은 4.4/5점 입니다. 템퍼러리의 리뷰, 영업시간, 그리고 비슷한 레스토랑을 알아보세요.">
+  <meta property="og:description" content="11305명이 방문하고 싶어하는 상지대 맛집 템퍼러리의 평점은 4.4/5점 입니다. 템퍼러리의 리뷰, 영업시간, 그리고 비슷한 레스토랑을 알아보세요.">
   <meta property="og:image" content="https://mp-seoul-image-production-s3.mangoplate.com/54992_1511065303267146.jpg">
 
   <link rel="amphtml" href="https://www.mangoplate.com/amp/restaurants/YqbLdyxq0SZC">
@@ -22,7 +22,7 @@
 <meta property="twitter:site" content="@MangoPlate">
 <meta property="twitter:url" content="https://www.mangoplate.com/restaurants/YqbLdyxq0SZC">
 <meta property="twitter:title" content="템퍼러리 - 상지대 카페 / 디저트 | 맛집검색 망고플레이트">
-<meta property="twitter:description" content="11286명이 방문하고 싶어하는 상지대 맛집 템퍼러리의 평점은 4.4/5점 입니다. 템퍼러리의 리뷰, 영업시간, 그리고 비슷한 레스토랑을 알아보세요.">
+<meta property="twitter:description" content="11305명이 방문하고 싶어하는 상지대 맛집 템퍼러리의 평점은 4.4/5점 입니다. 템퍼러리의 리뷰, 영업시간, 그리고 비슷한 레스토랑을 알아보세요.">
 <meta property="twitter:image" content="https://mp-seoul-image-production-s3.mangoplate.com/54992_1511065303267146.jpg">
   
 	<meta property="fb:app_id" content="476661545693695">
@@ -48,21 +48,21 @@
     <link rel="alternate" href="https://www.mangoplate.com/en/restaurants/YqbLdyxq0SZC" hreflang="en">
     <link rel="alternate" href="https://www.mangoplate.com/zh/restaurants/YqbLdyxq0SZC" hreflang="zh">
 
-  <script src="https://cdn.ampproject.org/rtv/012003171848440/amp4ads-host-v0.js"></script><script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_2020032302.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="https://connect.facebook.net/ko_KR/sdk.js?hash=6542d90032f3dfcaa438316412696459&amp;ua=modern_es6" async="" crossorigin="anonymous"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
-  <script type="application/ld+json">{"@type":"LocalBusiness","name":"템퍼러리","telephone":"010-2350-9566","address":{"@type":"PostalAddress","addressCountry":"","addressLocality":"","addressRegion":"","postOfficeBoxNumber":"","postalCode":"","streetAddress":"강원도 원주시 일산동 189-14"},"image":"https://mp-seoul-image-production-s3.mangoplate.com/54992_1511065303267146.jpg","priceRange":"만원 미만","url":"https://www.mangoplate.com/restaurants/YqbLdyxq0SZC","review":[{"@type":"Review","datePublished":"2020-01-17 01:23:39","author":"Homy","description":"세탁소 커피 맛있다-\n치즈케이크도 맛있..\n블루베리 치케도 있었는데, 내 취향으론 그냥 치즈케이크가 더 맛있다!"},{"@type":"Review","datePublished":"2019-10-30 22:36:59","author":"미댕","description":"” 플랫 화이트 / 히비스커스 티 ”\n\n정말 리뷰가 얼마나 밀렸는짘ㅋㅋㅋㅋㅋ 타지 생활에 치여 3월 리뷰를 이제야 올리네요! 여기 아직도 생각나는 게 간판이 세탁소 간판이라 당황스러웠는데 막상 앞까지 가보니 감성돋는 카페였던 기억!\n\n플랫 화이트는 사실 제가 지금 살고 있는 호주에서 라떼만큼이나 많이들 마시는 메뉴예요. 한국에도 들어온지 오래되었지만 오리지널을 먹어본 적이 없으니 비교가 불가능했는데, 이제야 비교를 할 수 있게 되었네요. 지금 생각해보니 한국에서 마셨던 대부분의 플랫 화이트는 꽤나 수준급이었던 것 같아요. (커피를 전문적으로 파는 곳에서만 마셔봤으니 당연한 얘기지만요) 이곳의 플랫 화이트도 부드럽고 은은한 게, 비가 억수같이 쏟아지던 그날과 참 잘 어울리는 맛이었어요. 히비스커스 티야 어딜 가도 제가 참 잘 마시고 좋아하는 티라 객관적인 판단은 어렵네요 ㅋㅋㅋ \n\n사실 통밀도넛이 너무너무 궁금했는데 그걸 못 먹고 온 건 아직도 상당히 아쉬워요.\n\n19.03.30"},{"@type":"Review","datePublished":"2019-08-28 16:54:42","author":"천사오뎅","description":"플랫화이트를 매장에서 못먹은게 아쉬웠지만 카라멜커피도 그렇고 대체로 커피의 진함보다 우유향이 강한 느낌\n간판이 세탁소로 되어있어 잘 찾아야함\n담엔 아메를 맛봐야겠음\n아직은 볼타커피가 내 입맛엔 딱"},{"@type":"Review","datePublished":"2019-04-11 05:40:25","author":"권경숙","description":"원주에서 커피는 여기가 최고인듯 ..\n사장님 직원 안쓰고 직접 그람수 확인해서 뽑아줌..\n최고중에 최고 \n카페 청결상태 세상청결... 냄새부터 다름 저런곳 첨봄 (사장님에게 청소 정리 병이있는것 같다)\n물온도 90도 이하로 내려가 있는 집도 원주에서 흔하지 않은데 .. 최고다 \n아이스플랫화이트  최고중에 최고 \n여태 먹은것중에 안맛있눈거 없었고 \n무뚝뚝해 보이지만 사장님 정말 친절하셔서 \n내가 매번 따듯하게 얼음 동동 띄워 달라고 하는데 \n까먹고 말 안해도 기억했다가 매번 먹기 좋은 온도로 맞춰주신다 정말 감동 ㅜㅜㅜ \n여기에 리뷰쓰면 바빠지셔서 커피맛 변할까바 걱정될 정도로 최애 맛집 \n돈이 아깝지 않은 집\n가격도 착하다 ㅜㅜ "},{"@type":"Review","datePublished":"2019-04-06 21:06:26","author":"혀니이","description":"원주의 카페 템퍼러리. 세탁소 간판과 옛날 바닥을 화이트톤 인테리어와 매치한 자연스러움이 돋보이네요. 중고등학교에 이런 콘크리트 바닥이 많았는데, 무릎 깨지기 딱 좋았던 기억...(아련)\n\n통밀도넛이 궁금해 간건데 토요일 오후엔 이미 품절 ㅠㅠ 아쉬운대로 음료만 주문했어요. 플랫 화이트와 히비스커스 티. \n플랫화이트 치고 양이 정말 많더라구요. 라떼 수준..! 매일우유라 고소했고 이 곳 스팀이 수준급! 쫀쫀한 거품이 좋았어요. 히비스커스 티는 아마드였나? 로즈힙이 블렌딩된 것이었어요. "}],"aggregateRating":{"@type":"AggregateRating","bestRating":5,"worstRating":0,"ratingValue":4.4,"reviewCount":10},"@context":"http://schema.org","@id":"https://www.mangoplate.com"}</script>
+  <script src="https://cdn.ampproject.org/rtv/012003171848440/amp4ads-host-v0.js"></script><script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_2020032401.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="https://connect.facebook.net/ko_KR/sdk.js?hash=c914e888ebcfb3f091b0d8c5a061f968&amp;ua=modern_es6" async="" crossorigin="anonymous"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script type="application/ld+json">{"@type":"LocalBusiness","name":"템퍼러리","telephone":"010-2350-9566","address":{"@type":"PostalAddress","addressCountry":"","addressLocality":"","addressRegion":"","postOfficeBoxNumber":"","postalCode":"","streetAddress":"강원도 원주시 일산동 189-14"},"image":"https://mp-seoul-image-production-s3.mangoplate.com/54992_1511065303267146.jpg","priceRange":"만원 미만","url":"https://www.mangoplate.com/restaurants/YqbLdyxq0SZC","review":[{"@type":"Review","datePublished":"2020-04-03 07:45:24","author":"감튀처돌이","description":"원주 최애 카페!\n세상사람들 여기 커피 제발 먹어주세옹"},{"@type":"Review","datePublished":"2020-01-17 01:23:39","author":"Homy","description":"세탁소 커피 맛있다-\n치즈케이크도 맛있..\n블루베리 치케도 있었는데, 내 취향으론 그냥 치즈케이크가 더 맛있다!"},{"@type":"Review","datePublished":"2019-10-30 22:36:59","author":"미댕","description":"” 플랫 화이트 / 히비스커스 티 ”\n\n정말 리뷰가 얼마나 밀렸는짘ㅋㅋㅋㅋㅋ 타지 생활에 치여 3월 리뷰를 이제야 올리네요! 여기 아직도 생각나는 게 간판이 세탁소 간판이라 당황스러웠는데 막상 앞까지 가보니 감성돋는 카페였던 기억!\n\n플랫 화이트는 사실 제가 지금 살고 있는 호주에서 라떼만큼이나 많이들 마시는 메뉴예요. 한국에도 들어온지 오래되었지만 오리지널을 먹어본 적이 없으니 비교가 불가능했는데, 이제야 비교를 할 수 있게 되었네요. 지금 생각해보니 한국에서 마셨던 대부분의 플랫 화이트는 꽤나 수준급이었던 것 같아요. (커피를 전문적으로 파는 곳에서만 마셔봤으니 당연한 얘기지만요) 이곳의 플랫 화이트도 부드럽고 은은한 게, 비가 억수같이 쏟아지던 그날과 참 잘 어울리는 맛이었어요. 히비스커스 티야 어딜 가도 제가 참 잘 마시고 좋아하는 티라 객관적인 판단은 어렵네요 ㅋㅋㅋ \n\n사실 통밀도넛이 너무너무 궁금했는데 그걸 못 먹고 온 건 아직도 상당히 아쉬워요.\n\n19.03.30"},{"@type":"Review","datePublished":"2019-08-28 16:54:42","author":"천사오뎅","description":"플랫화이트를 매장에서 못먹은게 아쉬웠지만 카라멜커피도 그렇고 대체로 커피의 진함보다 우유향이 강한 느낌\n간판이 세탁소로 되어있어 잘 찾아야함\n담엔 아메를 맛봐야겠음\n아직은 볼타커피가 내 입맛엔 딱"},{"@type":"Review","datePublished":"2019-04-11 05:40:25","author":"권경숙","description":"원주에서 커피는 여기가 최고인듯 ..\n사장님 직원 안쓰고 직접 그람수 확인해서 뽑아줌..\n최고중에 최고 \n카페 청결상태 세상청결... 냄새부터 다름 저런곳 첨봄 (사장님에게 청소 정리 병이있는것 같다)\n물온도 90도 이하로 내려가 있는 집도 원주에서 흔하지 않은데 .. 최고다 \n아이스플랫화이트  최고중에 최고 \n여태 먹은것중에 안맛있눈거 없었고 \n무뚝뚝해 보이지만 사장님 정말 친절하셔서 \n내가 매번 따듯하게 얼음 동동 띄워 달라고 하는데 \n까먹고 말 안해도 기억했다가 매번 먹기 좋은 온도로 맞춰주신다 정말 감동 ㅜㅜㅜ \n여기에 리뷰쓰면 바빠지셔서 커피맛 변할까바 걱정될 정도로 최애 맛집 \n돈이 아깝지 않은 집\n가격도 착하다 ㅜㅜ "}],"aggregateRating":{"@type":"AggregateRating","bestRating":5,"worstRating":0,"ratingValue":4.4,"reviewCount":11},"@context":"http://schema.org","@id":"https://www.mangoplate.com"}</script>
   <script id="dfp_ads" type="application/json">[{"id":11,"platform":"web_desktop","page":"restaurant","inventory":"gallery_right_review","sizes":[[336,280]],"tag":"/395211568/production/desktop-web.picture-viewer.right-side","enabled":true,"created_at":"2017-05-18T03:41:26.000+09:00","updated_at":"2017-05-18T03:41:26.000+09:00","args":{}},{"id":12,"platform":"web_desktop","page":"restaurant","inventory":"info","sizes":[[728,90]],"tag":"/395211568/production/desktop-web.restaurant.info","enabled":true,"created_at":"2017-05-18T03:41:57.000+09:00","updated_at":"2017-05-18T03:41:58.000+09:00","args":{}},{"id":13,"platform":"web_desktop","page":"restaurant","inventory":"right_map","sizes":[[336,280]],"tag":"/395211568/production/desktop-web.restaurant.right-side","enabled":true,"created_at":"2017-05-18T03:42:19.000+09:00","updated_at":"2017-05-18T03:42:19.000+09:00","args":{}},{"id":15,"platform":"web_mobile","page":"restaurant","inventory":"info","sizes":[[300,250]],"tag":"/395211568/production/mobile-web.restaurant.info","enabled":true,"created_at":"2017-05-18T03:43:06.000+09:00","updated_at":"2017-05-18T03:43:06.000+09:00","args":{}},{"id":17,"platform":"web_mobile","page":"restaurant","inventory":"tag","sizes":[[320,100]],"tag":"/395211568/production/mobile-web.restaurant.bottom","enabled":true,"created_at":"2017-05-18T03:43:49.000+09:00","updated_at":"2017-05-18T03:43:49.000+09:00","args":{}},{"id":54,"platform":"web_mobile","page":"restaurant","inventory":"popop_use_app","sizes":null,"tag":"","enabled":true,"created_at":"2020-01-30T01:49:26.000+09:00","updated_at":"2020-03-05T10:24:08.000+09:00","args":{}},{"id":58,"platform":"web_mobile","page":"restaurant","inventory":"area_use_app","sizes":null,"tag":"","enabled":true,"created_at":"2020-01-30T01:49:26.000+09:00","updated_at":"2020-03-06T12:22:23.000+09:00","args":{}}]</script>
-  <script id="location" type="application/json">{"ip":"220.117.71.146","country_code":"KR","country_name":"South Korea","region_code":"11","region_name":"Seoul","city":"Songpa-dong","zip_code":"05670","time_zone":"Asia/Seoul","latitude":37.5082,"longitude":127.1179,"metro_code":0}</script>
-  <script id="restaurant_info" type="application/json">{"restaurant_uuid":333121,"name":"템퍼러리","cusine_code":7,"subcusine_code":30,"region_code":18,"metro_code":1809,"latitude":"37.34989978","longitude":"127.94319639","restaurant_key":"YqbLdyxq0SZC","action":null,"pictures":[{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"54992_1511065303267146.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"1363001_1579191818815866.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"442306_1572442602557219.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"442306_1572442609303208.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"442306_1572442615939596.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"460780_1566978880734235.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"460780_1566978882058079.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"1322548_1554928820563617.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"584169_1554552374350997.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"584169_1554552375117729.jpg"}],"rating":4.4,"official_rating_available":false,"wannago_count":247,"review_count":10}</script>
-<style type="text/css"></style><link rel="preload" href="https://adservice.google.co.kr/adsid/integrator.js?domain=www.mangoplate.com" as="script"><script type="text/javascript" src="https://adservice.google.co.kr/adsid/integrator.js?domain=www.mangoplate.com"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.mangoplate.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.mangoplate.com"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020032302.js" async=""></script><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html"><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+  <script id="location" type="application/json">{"ip":"220.117.71.145","country_code":"KR","country_name":"South Korea","region_code":"11","region_name":"Seoul","city":"Songpa-dong","zip_code":"05670","time_zone":"Asia/Seoul","latitude":37.5082,"longitude":127.1179,"metro_code":0}</script>
+  <script id="restaurant_info" type="application/json">{"restaurant_uuid":333121,"name":"템퍼러리","cusine_code":7,"subcusine_code":30,"region_code":18,"metro_code":1809,"latitude":"37.34989978","longitude":"127.94319639","restaurant_key":"YqbLdyxq0SZC","action":null,"pictures":[{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"54992_1511065303267146.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"1577178_1585867519764922.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"1577178_1585867522206752.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"1577178_1585867522834856.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"1577178_1585867523324490.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"1577178_1585867523921034.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"1363001_1579191818815866.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"442306_1572442602557219.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"442306_1572442609303208.jpg"},{"pic_domain":"https://mp-seoul-image-production-s3.mangoplate.com","pic_key":"442306_1572442615939596.jpg"}],"rating":4.4,"official_rating_available":false,"wannago_count":254,"review_count":11}</script>
+<link rel="preload" href="https://adservice.google.co.kr/adsid/integrator.js?domain=www.mangoplate.com" as="script"><script type="text/javascript" src="https://adservice.google.co.kr/adsid/integrator.js?domain=www.mangoplate.com"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.mangoplate.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.mangoplate.com"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020032401.js" async=""></script><style type="text/css"></style><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html"><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
 .fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
 .fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style></head>
 
 <body onunload="" ng-app="mp20App" class="ng-scope">
 
 
-<script type="text/plain" id="kakao_share_message" charset="utf-8">템퍼러리 - Eat, Share, Be Happy! 망고플레이트!</script>
+<script type="text/plain" id="kakao_share_message" charset="utf-8">템퍼러리 - 오늘도 행복한 한끼! 이 식당은 어떠신가요!?</script>
 
-<main class="pg-restaurant have-share-sns-another ng-scope" ng-controller="mp20_restaurant_controller" data-restaurant_key="YqbLdyxq0SZC" data-restaurant_name="템퍼러리" data-metro_str="강원 원주시" data-subcuisine_code_str="카페 / 디저트" data-price_code_str="만원 미만" data-parking_code_str="" data-review_count="10">
+<main class="pg-restaurant have-share-sns-another ng-scope" ng-controller="mp20_restaurant_controller" data-restaurant_key="YqbLdyxq0SZC" data-restaurant_name="템퍼러리" data-metro_str="강원 원주시" data-subcuisine_code_str="카페 / 디저트" data-price_code_str="만원 미만" data-parking_code_str="" data-review_count="11">
   <article class="contents">
     <!-- 레스토랑 상세 이미지 슬라이드 -->
     <aside class="restaurant-photos">
@@ -81,9 +81,9 @@
                 </div>
               </figure>
             </figure></div><div class="owl-item" style="width: 400px;"><figure class="list-photo">
-              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/1363001_1579191818815866.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
+              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/1577178_1585867519764922.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
               <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:1,&quot;restaurant_key&quot;:&quot;YqbLdyxq0SZC&quot;});" ng-click="mp20_gallery_open(1)" role="img" aria-label="템퍼러리 - 상지대 카페 / 디저트 | 맛집검색 망고플레이트" title="템퍼러리 - 상지대 카페 / 디저트 | 맛집검색 망고플레이트">
-                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/1363001_1579191818815866.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="템퍼러리 사진 - 강원도 원주시 일산동 189-14" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
+                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/1577178_1585867519764922.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="템퍼러리 사진 - 강원도 원주시 일산동 189-14" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
 
                 <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:1,&quot;restaurant_key&quot;:&quot;YqbLdyxq0SZC&quot;});" ng-click="mp20_gallery_open(5, true)">
                   <p class="txt">
@@ -93,9 +93,9 @@
                 </div>
               </figure>
             </figure></div><div class="owl-item" style="width: 400px;"><figure class="list-photo">
-              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/442306_1572442602557219.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
+              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/1577178_1585867522206752.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
               <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:2,&quot;restaurant_key&quot;:&quot;YqbLdyxq0SZC&quot;});" ng-click="mp20_gallery_open(2)" role="img" aria-label="템퍼러리 - 상지대 카페 / 디저트 | 맛집검색 망고플레이트" title="템퍼러리 - 상지대 카페 / 디저트 | 맛집검색 망고플레이트">
-                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/442306_1572442602557219.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="템퍼러리 사진 - 강원도 원주시 일산동 189-14" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
+                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/1577178_1585867522206752.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="템퍼러리 사진 - 강원도 원주시 일산동 189-14" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
 
                 <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:2,&quot;restaurant_key&quot;:&quot;YqbLdyxq0SZC&quot;});" ng-click="mp20_gallery_open(5, true)">
                   <p class="txt">
@@ -105,9 +105,9 @@
                 </div>
               </figure>
             </figure></div><div class="owl-item" style="width: 400px;"><figure class="list-photo">
-              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/442306_1572442609303208.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
+              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/1577178_1585867522834856.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
               <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:3,&quot;restaurant_key&quot;:&quot;YqbLdyxq0SZC&quot;});" ng-click="mp20_gallery_open(3)" role="img" aria-label="템퍼러리 - 상지대 카페 / 디저트 | 맛집검색 망고플레이트" title="템퍼러리 - 상지대 카페 / 디저트 | 맛집검색 망고플레이트">
-                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/442306_1572442609303208.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="템퍼러리 사진 - 강원도 원주시 일산동 189-14" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
+                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/1577178_1585867522834856.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="템퍼러리 사진 - 강원도 원주시 일산동 189-14" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
 
                 <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:3,&quot;restaurant_key&quot;:&quot;YqbLdyxq0SZC&quot;});" ng-click="mp20_gallery_open(5, true)">
                   <p class="txt">
@@ -117,9 +117,9 @@
                 </div>
               </figure>
             </figure></div><div class="owl-item" style="width: 400px;"><figure class="list-photo">
-              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/442306_1572442615939596.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
+              <meta content="https://mp-seoul-image-production-s3.mangoplate.com/1577178_1585867523324490.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80">
               <figure class="restaurant-photos-item" onclick="trackEvent('CLICK_PICTURE', {&quot;position&quot;:4,&quot;restaurant_key&quot;:&quot;YqbLdyxq0SZC&quot;});" ng-click="mp20_gallery_open(4)" role="img" aria-label="템퍼러리 - 상지대 카페 / 디저트 | 맛집검색 망고플레이트" title="템퍼러리 - 상지대 카페 / 디저트 | 맛집검색 망고플레이트">
-                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/442306_1572442615939596.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="템퍼러리 사진 - 강원도 원주시 일산동 189-14" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
+                <img class="center-croping" src="https://mp-seoul-image-production-s3.mangoplate.com/1577178_1585867523324490.jpg?fit=around|512:512&amp;crop=512:512;*,*&amp;output-format=jpg&amp;output-quality=80" alt="템퍼러리 사진 - 강원도 원주시 일산동 189-14" onerror="this.src='https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg?fit=around|*:*&amp;crop=*:*;*,*&amp;output-format=jpg&amp;output-quality=80'">
 
                 <div class="last_image" onclick="trackEvent('CLICK_PICTURE_MORE', {&quot;position&quot;:4,&quot;restaurant_key&quot;:&quot;YqbLdyxq0SZC&quot;});" ng-click="mp20_gallery_open(5, true)" style="display: block;">
                   <p class="txt">
@@ -171,9 +171,9 @@
               <div class="status
                 branch_none
                 ">
-                <span class="cnt hit">11,333</span>
-                <span class="cnt review">10</span>
-                <span class="cnt favorite">247</span>
+                <span class="cnt hit">11,430</span>
+                <span class="cnt review">11</span>
+                <span class="cnt favorite">254</span>
               </div>
             </header>
 
@@ -339,27 +339,27 @@
                 </li>
             </ul>
 
-          <div class="ad_area info only-desktop" id="web_desktop-restaurant-info"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-info-content" data-google-query-id="CJr-pPL2yOgCFYZxYAodN_EB_Q"><div id="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0__container__" style="border: 0pt none; display: inline-block; width: 728px; height: 90px;"><iframe frameborder="0" src="https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html" id="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="728" height="90" data-is-safeframe="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="1" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div></div></div>
+          <div class="ad_area info only-desktop" id="web_desktop-restaurant-info"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-info-content" data-google-query-id="CNbLwO6EzOgCFReCvQodefwFnw"><div id="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0__container__" style="border: 0pt none; display: inline-block; width: 728px; height: 90px;"><iframe frameborder="0" src="https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html" id="google_ads_iframe_/395211568/production/desktop-web.restaurant.info_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="728" height="90" data-is-safeframe="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="1" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div></div></div>
           <div class="ad_area info only-mobile" id="web_mobile-restaurant-info"><div class="ad_wrap"><div class="content" id="web_mobile-restaurant-info-content"></div></div></div>
 
-          <script id="reviewCountInfo" type="application/json">[{"action_value":1,"count":0},{"action_value":2,"count":0},{"action_value":3,"count":10}]</script>
+          <script id="reviewCountInfo" type="application/json">[{"action_value":1,"count":0},{"action_value":2,"count":0},{"action_value":3,"count":11}]</script>
           <section class="RestaurantReviewList">
             <header class="RestaurantReviewList__Header">
               <h2 class="RestaurantReviewList__Title">
                 <span class="RestaurantReviewList__RestaurantName">템퍼러리</span><span class="RestaurantReviewList__RestaurantNameSuffixDesktop">리뷰</span><span class="RestaurantReviewList__RestaurantNameSuffixMobile">의 리뷰</span>
-              <span class="RestaurantReviewList__AllCount">10</span></h2>
+              <span class="RestaurantReviewList__AllCount">11</span></h2>
 
               <ul class="RestaurantReviewList__FilterList">
                 <li class="RestaurantReviewList__FilterItem">
                   <button class="RestaurantReviewList__FilterButton RestaurantReviewList__FilterButton--Selected RestaurantReviewList__AllFilterButton">
                     전체
-                  <span class="RestaurantReviewList__ReviewCount">10</span></button>
+                  <span class="RestaurantReviewList__ReviewCount">11</span></button>
                 </li>
 
                 <li class="RestaurantReviewList__FilterItem">
                   <button class="RestaurantReviewList__FilterButton RestaurantReviewList__RecommendFilterButton">
                     맛있다
-                  <span class="RestaurantReviewList__ReviewCount">10</span></button>
+                  <span class="RestaurantReviewList__ReviewCount">11</span></button>
                 </li>
 
                 <li class="RestaurantReviewList__FilterItem">
@@ -379,6 +379,71 @@
             <ul class="RestaurantReviewList__ReviewList">
 
             <li class="RestaurantReviewItem RestaurantReviewList__ReviewItem">
+  <a class="RestaurantReviewItem__Link" href="/reviews/NzMwMjQ2" target="_blank">
+    <div class="RestaurantReviewItem__User">
+      <div class="RestaurantReviewItem__UserPictureWrap">
+        <img class="RestaurantReviewItem__UserPicture" data-src="https://k.kakaocdn.net/dn/yNTyv/btqARCX66L7/ns5aexSDScus3IYbBQiMd0/img_640x640.jpg?fit=around|56:56&amp;crop=56:56;*,*&amp;output-format=jpg&amp;output-quality=80" alt="user profile picture">
+      </div>
+      
+      <span class="RestaurantReviewItem__UserNickName">감튀처돌이</span>
+
+      <ul class="RestaurantReviewItem__UserStat">
+        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">27</li>
+        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Follower">1</li>
+      </ul>
+      
+      
+    </div>
+
+    <div class="RestaurantReviewItem__ReviewContent">
+      <div class="RestaurantReviewItem__ReviewTextWrap">
+
+        <p class="RestaurantReviewItem__ReviewText">
+          원주 최애 카페!<br>세상사람들 여기 커피 제발 먹어주세옹
+        </p>
+
+        
+        <span class="RestaurantReviewItem__ReviewDate">2 시간 전</span>
+      </div>
+      
+      <ul class="RestaurantReviewItem__PictureList">
+      <li class="RestaurantReviewItem__PictureItem">
+        <button class="RestaurantReviewItem__PictureButton" data-index="0">
+          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/1577178_1585867519764922.jpg?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
+          
+        </button>
+      </li>
+
+      <li class="RestaurantReviewItem__PictureItem">
+        <button class="RestaurantReviewItem__PictureButton" data-index="1">
+          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/1577178_1585867522206752.jpg?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
+          
+        </button>
+      </li>
+
+      <li class="RestaurantReviewItem__PictureItem">
+        <button class="RestaurantReviewItem__PictureButton" data-index="2">
+          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/1577178_1585867522834856.jpg?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
+          
+        </button>
+      </li>
+
+      <li class="RestaurantReviewItem__PictureItem">
+        <button class="RestaurantReviewItem__PictureButton" data-index="3">
+          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/1577178_1585867523324490.jpg?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
+          <div class="RestaurantReviewItem__PictureDeem">+1</div>
+        </button>
+      </li>
+</ul>
+    </div>
+
+    <div class="RestaurantReviewItem__Rating RestaurantReviewItem__Rating--Recommend">
+      <span class="RestaurantReviewItem__RatingText">맛있다</span>
+    </div>
+    
+    
+  </a>
+</li><li class="RestaurantReviewItem RestaurantReviewList__ReviewItem">
   <a class="RestaurantReviewItem__Link" href="/reviews/NzA1NDg5" target="_blank">
     <div class="RestaurantReviewItem__User">
       <div class="RestaurantReviewItem__UserPictureWrap">
@@ -490,7 +555,7 @@
       <span class="RestaurantReviewItem__UserNickName">천사오뎅</span>
 
       <ul class="RestaurantReviewItem__UserStat">
-        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">133</li>
+        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">135</li>
         <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Follower">8</li>
       </ul>
       
@@ -564,71 +629,6 @@
         <button class="RestaurantReviewItem__PictureButton" data-index="0">
           <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/1322548_1554928820563617.jpg?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
           
-        </button>
-      </li>
-</ul>
-    </div>
-
-    <div class="RestaurantReviewItem__Rating RestaurantReviewItem__Rating--Recommend">
-      <span class="RestaurantReviewItem__RatingText">맛있다</span>
-    </div>
-    
-    
-  </a>
-</li><li class="RestaurantReviewItem RestaurantReviewList__ReviewItem">
-  <a class="RestaurantReviewItem__Link" href="/reviews/NTk4Nzg4" target="_blank">
-    <div class="RestaurantReviewItem__User">
-      <div class="RestaurantReviewItem__UserPictureWrap">
-        <img class="RestaurantReviewItem__UserPicture" data-src="https://s3-ap-northeast-2.amazonaws.com/mp-seoul-image-production/584169_1553694150249?fit=around|56:56&amp;crop=56:56;*,*&amp;output-format=jpg&amp;output-quality=80" alt="user profile picture">
-      </div>
-      
-      <span class="RestaurantReviewItem__UserNickName">혀니이</span>
-
-      <ul class="RestaurantReviewItem__UserStat">
-        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Review">939</li>
-        <li class="RestaurantReviewItem__UserStatItem RestaurantReviewItem__UserStatItem--Follower">489</li>
-      </ul>
-      
-      <i class="RestaurantReviewItem__HolicBadge"></i>
-    </div>
-
-    <div class="RestaurantReviewItem__ReviewContent">
-      <div class="RestaurantReviewItem__ReviewTextWrap">
-
-        <p class="RestaurantReviewItem__ReviewText">
-          원주의 카페 템퍼러리. 세탁소 간판과 옛날 바닥을 화이트톤 인테리어와 매치한 자연스러움이 돋보이네요. 중고등학교에 이런 콘크리트 바닥이 많았는데, 무릎 깨지기 딱 좋았던 기억...(아련)<br><br>통밀도넛이 궁금해 간건데 토요일 오후엔 이미 품절 ㅠㅠ 아쉬운대로 음료만 주문했어요. 플랫 화이트와 히비스커스 티. <br>플랫화이트 치고 양이 정말 많더라구요. 라떼 수준..! 매일우유라 고소했고 이 곳 스팀이 수준급! 쫀쫀한 거품이 좋았어요. 히비스커스 티는 아마드였나? 로즈힙이 블렌딩된 것이었어요. 
-        </p>
-
-        
-        <span class="RestaurantReviewItem__ReviewDate">2019-04-06</span>
-      </div>
-      
-      <ul class="RestaurantReviewItem__PictureList">
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="0">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/584169_1554552374350997.jpg?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          
-        </button>
-      </li>
-
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="1">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/584169_1554552375117729.jpg?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          
-        </button>
-      </li>
-
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="2">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/584169_1554552375446689.jpg?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          
-        </button>
-      </li>
-
-      <li class="RestaurantReviewItem__PictureItem">
-        <button class="RestaurantReviewItem__PictureButton" data-index="3">
-          <img class="RestaurantReviewItem__Picture" data-src="https://mp-seoul-image-production-s3.mangoplate.com/584169_1554552375723457.jpg?fit=around|120:120&amp;crop=120:120;*,*&amp;output-format=jpg&amp;output-quality=80" alt="review picture">
-          <div class="RestaurantReviewItem__PictureDeem">+8</div>
         </button>
       </li>
 </ul>
@@ -764,16 +764,6 @@
 
                 
               <li class="ContentCard RelatedTopList__Item">
-    <a href="/top_lists/YLDBVSK" class="ContentCard__Link"></a>
-    <div class="ContentCard__Deem"></div>
-  
-    <div class="ContentCard__BgImage" data-bg="url(https://mp-seoul-image-production-s3.mangoplate.com/keyword_search/meta/pictures/0epidvfy4ki9lfsv.jpg?fit=around|748:748&amp;crop=748:748;*,*&amp;output-format=jpg&amp;output-quality=80), url(https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg)"></div>
-  
-    <div class="ContentCard__Content">
-      <span class="ContentCard__Title">강원도 원주 맛집 베스트 20곳</span>
-      <p class="ContentCard__Description">"원주민들은 주목해주세요!"</p>
-    </div>
-  </li><li class="ContentCard RelatedTopList__Item">
     <a href="/top_lists/RGTPD0W" class="ContentCard__Link"></a>
     <div class="ContentCard__Deem"></div>
   
@@ -782,6 +772,16 @@
     <div class="ContentCard__Content">
       <span class="ContentCard__Title">2020 인기 카페 TOP 100</span>
       <p class="ContentCard__Description">"망고플레이트가 선정한 2020년에 꼭 가봐야 할 인기 카페"</p>
+    </div>
+  </li><li class="ContentCard RelatedTopList__Item">
+    <a href="/top_lists/YLDBVSK" class="ContentCard__Link"></a>
+    <div class="ContentCard__Deem"></div>
+  
+    <div class="ContentCard__BgImage" data-bg="url(https://mp-seoul-image-production-s3.mangoplate.com/keyword_search/meta/pictures/0epidvfy4ki9lfsv.jpg?fit=around|748:748&amp;crop=748:748;*,*&amp;output-format=jpg&amp;output-quality=80), url(https://mp-seoul-image-production-s3.mangoplate.com/web/resources/kssf5eveeva_xlmy.jpg)"></div>
+  
+    <div class="ContentCard__Content">
+      <span class="ContentCard__Title">강원도 원주 맛집 베스트 20곳</span>
+      <p class="ContentCard__Description">"원주민들은 주목해주세요!"</p>
     </div>
   </li></ul>
             </section>
@@ -970,7 +970,7 @@
               </section>
           </div>
 
-          <div class="ad_area right_map only-desktop" id="web_desktop-restaurant-right_map"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-right_map-content" data-google-query-id="COacpvL2yOgCFYZxYAodN_EB_Q"><div id="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0" width="336" height="280" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="2" data-load-complete="true"></iframe></div></div></div></div>
+          <div class="ad_area right_map only-desktop" id="web_desktop-restaurant-right_map"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-right_map-content" data-google-query-id="CObYwe6EzOgCFReCvQodefwFnw"><div id="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.restaurant.right-side_0" width="336" height="280" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="2" data-load-complete="true"></iframe></div></div></div></div>
 
         </div>
       </div>
@@ -1009,7 +1009,7 @@
       <div class="share-list-divid first">
 
         <button class="share small">
-          <span class="mail mail_share_btn" onclick="trackEvent('CLICK_SHARE_EMAIL_FLOATING','','','PG_RESTAURANT')" data-content="CLICK_SHARE_EMAIL_FLOATING" data-term="v1" data-title="템퍼러리 - 상지대 카페 / 디저트 | 맛집검색 망고플레이트" data-message="11286명이 방문하고 싶어하는 상지대 맛집 템퍼러리의 평점은 4.4/5점 입니다. 템퍼러리의 리뷰, 영업시간, 그리고 비슷한 레스토랑을 알아보세요." data-url="https://www.mangoplate.com/restaurants/YqbLdyxq0SZC"></span>
+          <span class="mail mail_share_btn" onclick="trackEvent('CLICK_SHARE_EMAIL_FLOATING','','','PG_RESTAURANT')" data-content="CLICK_SHARE_EMAIL_FLOATING" data-term="v1" data-title="템퍼러리 - 상지대 카페 / 디저트 | 맛집검색 망고플레이트" data-message="11305명이 방문하고 싶어하는 상지대 맛집 템퍼러리의 평점은 4.4/5점 입니다. 템퍼러리의 리뷰, 영업시간, 그리고 비슷한 레스토랑을 알아보세요." data-url="https://www.mangoplate.com/restaurants/YqbLdyxq0SZC"></span>
         </button>
         <button class="share small">
           <span class="band band_share_btn" onclick="trackEvent('CLICK_SHARE_BAND_FLOATING','','','PG_RESTAURANT')" data-content="CLICK_SHARE_BAND_FLOATING" data-term="v1" data-message="템퍼러리 - 상지대 카페 / 디저트 | 맛집검색 망고플레이트" data-url="https://www.mangoplate.com/restaurants/YqbLdyxq0SZC"></span>
@@ -1839,7 +1839,7 @@
         </div></div><div id="mCSB_2_scrollbar_vertical" class="mCSB_scrollTools mCSB_2_scrollbar mCS-minimal-dark mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_2_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 50px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 50px;"></div></div><div class="mCSB_draggerRail"></div></div></div><div id="mCSB_2_scrollbar_horizontal" class="mCSB_scrollTools mCSB_2_scrollbar mCS-minimal-dark mCSB_scrollTools_horizontal" style="display: block;"><div class="mCSB_draggerContainer"><div id="mCSB_2_dragger_horizontal" class="mCSB_dragger" style="position: absolute; min-width: 50px; display: block; width: 0px; left: 0px;"><div class="mCSB_dragger_bar"></div></div><div class="mCSB_draggerRail"></div></div></div></div>
 
         <div class="info_area_footer">
-          <div class="ad_area gallery_right_review only-desktop" id="web_desktop-restaurant-gallery_right_review"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-gallery_right_review-content" data-google-query-id="COecpvL2yOgCFYZxYAodN_EB_Q"><div id="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0" width="336" height="280" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" data-google-container-id="3" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div></div></div>
+          <div class="ad_area gallery_right_review only-desktop" id="web_desktop-restaurant-gallery_right_review"><div class="ad_wrap"><div class="content" id="web_desktop-restaurant-gallery_right_review-content" data-google-query-id="COfYwe6EzOgCFReCvQodefwFnw"><div id="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0" title="3rd party ad content" name="google_ads_iframe_/395211568/production/desktop-web.picture-viewer.right-side_0" width="336" height="280" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" data-google-container-id="3" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div></div></div>
 
           <div class="source_notice ng-hide" ng-show="review_content.type == 'insta'">
             <div class="inner">
@@ -1930,4 +1930,4 @@
 
 
 
-<iframe id="google_osd_static_frame_9016798718615" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div><script type="text/javascript" src="//tpc.googlesyndication.com/sodar/sodar2.js"></script></body></html>
+<iframe id="google_osd_static_frame_9851401052032" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div><script type="text/javascript" src="//tpc.googlesyndication.com/sodar/sodar2.js"></script></body></html>
