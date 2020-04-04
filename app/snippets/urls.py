@@ -1,7 +1,7 @@
 from django.urls import path, include
 
 from snippets.views import SnippetList, SnippetDetail, UserDetail, UserList
-
+app_name='snippets'
 urlpatterns = [
     path('snippets/', SnippetList),
     path('snippets/<int:pk>/', SnippetDetail),

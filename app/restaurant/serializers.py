@@ -33,19 +33,8 @@ class RestaurantSerializer(serializers.ModelSerializer):
         """
         Update and return an existing `Snippet` instance, given the validated data.
         """
-        instance.title = validated_data.get('name', instance.title)
-        instance.code = validated_data.get('address1', instance.code)
-        instance.linenos = validated_data.get('name_address1_unique', instance.linenos)
-        instance.language = validated_data.get('address2', instance.language)
-        instance.style = validated_data.get('point', instance.style)
-        instance.title = validated_data.get('phone', instance.title)
-        instance.code = validated_data.get('price_range', instance.code)
-        instance.linenos = validated_data.get('parking', instance.linenos)
-        instance.language = validated_data.get('opening_hours', instance.language)
-        instance.style = validated_data.get('menu', instance.style)
-        instance.style = validated_data.get('restaurant_type', instance.style)
-        instance.style = validated_data.get('date_joined', instance.style)
-        instance.style = validated_data.get('date_update', instance.style)
+        for key, value in validated_data:
+            setattr(instance, key, value)
         instance.save()
         return instance
 
