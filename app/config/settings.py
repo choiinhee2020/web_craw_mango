@@ -47,6 +47,10 @@ INSTALLED_APPS = [
     'rest_framework',
     'phone_field',
     'django_extensions',
+
+    'rest_framework.authtoken',
+    'rest_auth',
+
 ]
 
 MIDDLEWARE = [

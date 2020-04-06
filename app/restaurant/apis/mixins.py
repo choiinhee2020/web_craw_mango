@@ -1,3 +1,6 @@
+# generic으로 바로 넘어가라!!!!
+
+
 from rest_framework import generics, mixins
 
 from restaurant.models import Restaurant
